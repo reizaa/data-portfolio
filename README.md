@@ -11,7 +11,10 @@ pip install -r requirements.txt
 python run_all.py          # generate data, run every project, refresh charts
 ```
 
-Open `docs/index.html` for a one-page visual overview.
+**Live site:** https://reizaa.github.io/data-portfolio/ — interactive portfolio (switch every project between
+Before and After, hover the charts, run the benchmark) and a [web CV](https://reizaa.github.io/data-portfolio/cv.html).
+
+No credentials, API keys or network access are needed: everything runs offline on generated data.
 
 ## Impact at a glance
 
@@ -23,17 +26,6 @@ Open `docs/index.html` for a one-page visual overview.
 | 04 | [Daily change alert](projects/04_daily_change_alert) | Total only, team asks "why?" | Top 5 contributors named, anomalies flagged |
 | 05 | [Lead re-engagement](projects/05_lead_reengagement) | Blast to everyone: 13 returns / 300 contacts | Scored list: 30 returns / 300 contacts (2.4x, simulated) |
 | 06 | [Text classification](projects/06_feedback_classification) | First keyword wins: 77% accuracy | Rule scoring: 94% accuracy, ambiguous 16% routed to an LLM |
-
-### Full-size versions
-
-Projects 02 and 04 are compact versions of two larger repositories:
-
-- **[saas-cohort-retention](https://github.com/reizaa/saas-cohort-retention)** — monthly SMB / Enterprise
-  cohort pipeline (revenue, retention, churn, upgrade/downgrade, NRR) with before/after
-  reconciliation, n8n scheduling and a Slack pulse that only posts when numbers reconcile.
-- **[revenue-change-tracker](https://github.com/reizaa/revenue-change-tracker)** — daily recurring-revenue
-  diff (new / upgrade / downgrade / churn) against yesterday or month start, snapshot guards,
-  n8n flows and top movers posted as a Slack thread reply.
 
 ## System flows
 
@@ -96,7 +88,7 @@ flowchart LR
 ```
 data/generate.py          synthetic data for all projects (seeded)
 projects/<nn_name>/       one script per project + output/ (before_after, charts, CSVs, summary)
-docs/index.html           visual overview with before/after flows
+docs/                     interactive site (index.html, cv.html, app.js, generated data.js)
 run_all.py                run everything end to end
 ```
 

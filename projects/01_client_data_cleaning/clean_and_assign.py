@@ -131,3 +131,12 @@ lines += ["", "Subscription status per month:", monthly.to_string(), "",
           book.to_string(formatters={"mrr_idr": lambda x: f"Rp{x/1e6:,.1f}jt"})]
 (OUT / "summary.txt").write_text("\n".join(lines))
 print("\n".join(lines))
+
+# Export for the interactive web page -------------------------------------------
+import json
+web = {"before_after": [{"metric": k, "before": str(v.iloc[0]), "after": str(v.iloc[1])} for k, v in ba.iterrows()],
+       "revenue_error": round(float(rev_err), 3),
+       "status_months": [str(m) for m in monthly.index],
+       "status": {c: [int(x) for x in monthly[c]] for c in monthly.columns},
+       "book": [{"am": a, "clients": int(r.clients), "mrr": int(r.mrr_idr)} for a, r in book.iterrows()]}
+(OUT / "web.json").write_text(json.dumps(web))

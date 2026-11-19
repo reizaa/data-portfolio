@@ -1,0 +1,1 @@
+{"rows": 3000000, "question": "Average temperature & max humidity per region, 1-14 March 2026", "runs": [{"name": "naive full scan", "ms": 745.6, "same": true}, {"name": "sargable filter + covering index", "ms": 142.6, "same": true}, {"name": "pre-aggregated hourly table", "ms": 8.8, "same": true}]}

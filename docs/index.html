@@ -4,193 +4,154 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reiza Sahawaly — Data Portfolio</title>
-<style>
-  :root {
-    --bg: #f7f8fa; --surface: #ffffff; --text: #111827; --muted: #5b6474;
-    --border: #e5e7eb; --accent: #0f766e; --accent-soft: #e6f4f2; --code: #f1f3f5;
-    --old: #f3f4f6; --old-text: #6b7280; --old-border: #d1d5db;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root { --bg: #0f1115; --surface: #171a21; --text: #e8eaee; --muted: #9aa3b2;
-            --border: #262b35; --accent: #2dd4bf; --accent-soft: #11302d; --code: #1e222b;
-            --old: #1e222b; --old-text: #8b93a1; --old-border: #323846; }
-  }
-  * { box-sizing: border-box; }
-  body { margin: 0; background: var(--bg); color: var(--text);
-         font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
-  main { max-width: 1000px; margin: 0 auto; padding: 48px 16px 64px; }
-  header h1 { font-size: 2rem; margin: 0 0 4px; letter-spacing: -0.02em; }
-  header p { color: var(--muted); margin: 0 0 8px; max-width: 700px; }
-  .note { display: inline-block; font-size: .85rem; background: var(--accent-soft); color: var(--accent);
-          padding: 4px 10px; border-radius: 999px; margin-top: 8px; }
-  .skills { display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0 36px; padding: 0; list-style: none; }
-  .skills li { border: 1px solid var(--border); background: var(--surface); border-radius: 8px;
-               padding: 4px 10px; font-size: .85rem; color: var(--muted); }
-  .grid { display: grid; gap: 22px; }
-  article { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 24px; }
-  article .num { color: var(--accent); font-weight: 700; font-size: .8rem; letter-spacing: .08em; }
-  article h2 { margin: 2px 0 6px; font-size: 1.25rem; }
-  article > p { margin: 0 0 14px; color: var(--muted); }
-
-  /* before / after flow */
-  .flow-row { display: grid; grid-template-columns: 70px 1fr; gap: 10px; align-items: start; margin: 10px 0; }
-  .flow-label { font-size: .75rem; font-weight: 700; letter-spacing: .06em; padding-top: 8px; color: var(--muted); }
-  .flow-label.new { color: var(--accent); }
-  .flow { display: flex; flex-wrap: wrap; gap: 6px 0; align-items: center; margin: 0; padding: 0; list-style: none; }
-  .flow li { display: flex; align-items: center; }
-  .flow li:not(:last-child)::after { content: "→"; margin: 0 8px; color: var(--muted); font-size: .9rem; }
-  .box { padding: 6px 11px; border-radius: 8px; font-size: .85rem; line-height: 1.3; }
-  .old .box { background: var(--old); color: var(--old-text); border: 1px dashed var(--old-border); }
-  .new .box { background: var(--accent-soft); color: var(--text); border: 1px solid var(--accent); }
-  .new .box.out { background: var(--accent); color: var(--surface); font-weight: 600; }
-  .pain { font-size: .8rem; color: var(--old-text); margin: 2px 0 0 80px; font-style: italic; }
-
-  /* impact numbers */
-  .impact { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; margin-top: 16px; }
-  .metric { border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px; }
-  .metric .v { font-size: 1.05rem; font-weight: 700; }
-  .metric .v s { color: var(--old-text); font-weight: 400; margin-right: 6px; }
-  .metric .v b { color: var(--accent); }
-  .metric .k { font-size: .78rem; color: var(--muted); }
-  .more { font-size: .88rem; color: var(--muted); margin: 14px 0 0; }
-  details { margin-top: 14px; }
-  summary { cursor: pointer; color: var(--accent); font-size: .9rem; }
-  img { width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--border); background: #fff; margin-top: 10px; }
-  footer { margin-top: 40px; color: var(--muted); font-size: .9rem; }
-  @media (max-width: 560px) {
-    .flow-row { grid-template-columns: 1fr; gap: 4px; }
-    .flow-label { padding-top: 0; }
-    .pain { margin-left: 0; }
-  }
-</style>
+<meta name="description" content="Six data systems with measured before/after: data cleaning, subscription tracking, query optimization, alerting, lead scoring and LLM classification. Synthetic data.">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div class="topbar"><div class="inner">
+  <a class="brand" href="index.html">Reiza Sahawaly</a>
+  <nav class="nav"><a class="active" href="index.html">Portfolio</a><a href="cv.html">CV</a><a href="https://github.com/reizaa/data-portfolio">GitHub</a></nav>
+  <button class="theme-btn" id="theme" type="button" aria-label="Toggle dark mode">◐</button>
+</div></div>
+
 <main>
-  <header>
-    <h1>Reiza Sahawaly</h1>
-    <p>Data Scientist. Each project below shows a process I turned from a manual or fragile workflow into a
-       repeatable system, with the before and after measured.</p>
-    <span class="note">All datasets are synthetic and describe fictional businesses</span>
-  </header>
+  <div class="eyebrow">Data Science Portfolio</div>
+  <h1>From fragile manual work<br>to systems teams can trust</h1>
+  <p class="lead">Six systems I build in my day job, recreated on synthetic data. Each one runs the old way next to the
+     new system and measures the difference. Switch any card between <b>Before</b> and <b>After</b>.</p>
+  <span class="pill">● All data is synthetic — fictional businesses, no real records</span>
 
-  <ul class="skills">
-    <li>Data cleaning &amp; reconciliation</li><li>Subscription &amp; retention tracking</li><li>Query optimization</li>
-    <li>Reporting automation</li><li>Alerting</li><li>LLM-assisted classification</li><li>SQL · Python</li>
-  </ul>
+  <div class="stats" id="stats"></div>
 
-  <section class="grid">
+  <div class="section-title"><h2>Projects</h2><span>Python · SQL · pandas</span></div>
+  <div class="filters" role="group" aria-label="Filter projects">
+    <button class="chip" data-f="all" aria-pressed="true">All</button>
+    <button class="chip" data-f="quality" aria-pressed="false">Data quality</button>
+    <button class="chip" data-f="analytics" aria-pressed="false">Analytics</button>
+    <button class="chip" data-f="performance" aria-pressed="false">Performance</button>
+    <button class="chip" data-f="automation" aria-pressed="false">Automation</button>
+    <button class="chip" data-f="ai" aria-pressed="false">AI</button>
+  </div>
 
-    <article>
-      <div class="num">01 · DATA CLEANING &amp; ASSIGNMENT</div>
-      <h2>Client master data, subscription status and account-manager assignment</h2>
-      <p>Several sources record the same clients in different formats. The system turns them into one trusted
-         client list that drives assignment and subscription tracking.</p>
-      <div class="flow-row"><div class="flow-label">BEFORE</div>
-        <ul class="flow old"><li><span class="box">Export each source</span></li><li><span class="box">Paste into one sheet</span></li>
-          <li><span class="box">Lookup by hand</span></li><li><span class="box">Assign owners manually</span></li></ul></div>
+  <section class="grid" id="projects">
+
+    <!-- 01 -->
+    <article class="card" data-tags="quality automation" data-mode="after">
+      <div class="card-head"><div><div class="num">01 · Data cleaning &amp; assignment</div>
+        <h3>Client master data, subscription status &amp; owner assignment</h3></div>
+        <div class="seg"><button data-m="before">Before</button><button data-m="after">After</button></div></div>
+      <p>Several sources record the same clients in different formats. The system turns them into one trusted list that
+         drives account-owner assignment and subscription tracking.</p>
+      <div class="flow-row is-old"><div class="flow-label">BEFORE</div><ul class="flow old">
+        <li><span class="box">Export each source</span></li><li><span class="box">Paste into one sheet</span></li>
+        <li><span class="box">Lookup by hand</span></li><li><span class="box">Assign owners manually</span></li></ul></div>
       <p class="pain">Same client under several names · mixed formats · duplicates counted twice</p>
-      <div class="flow-row"><div class="flow-label new">AFTER</div>
-        <ul class="flow new"><li><span class="box">Ingest all sources</span></li><li><span class="box">Standardize names, dates, currency</span></li>
-          <li><span class="box">Deduplicate</span></li><li><span class="box">Status timeline: new · active · churned · reactivated</span></li>
-          <li><span class="box">Rule-based assignment within capacity</span></li><li><span class="box out">Master list + quality report</span></li></ul></div>
-      <div class="impact">
-        <div class="metric"><div class="v"><s>106</s><b>24</b></div><div class="k">real clients (name variants merged)</div></div>
-        <div class="metric"><div class="v"><s>−42%</s><b>0%</b></div><div class="k">revenue error</div></div>
-        <div class="metric"><div class="v"><s>34</s><b>0</b></div><div class="k">payments booked in the wrong month</div></div>
-        <div class="metric"><div class="v"><s>24</s><b>0</b></div><div class="k">clients split across several owners</div></div>
-      </div>
+      <div class="flow-row is-new"><div class="flow-label new">AFTER</div><ul class="flow new">
+        <li><span class="box">Ingest all sources</span></li><li><span class="box">Standardize names, dates, currency</span></li>
+        <li><span class="box">Deduplicate</span></li><li><span class="box">Status timeline</span></li>
+        <li><span class="box">Rule-based assignment within capacity</span></li><li><span class="box out">Master list + quality report</span></li></ul></div>
+      <div class="impact" id="p01-impact"></div>
+      <div class="viz"><div class="viz-head"><h4>Subscription status per month</h4><span class="hint">Hover a bar</span></div>
+        <div id="p01-chart"></div><div class="legend" id="p01-legend"></div></div>
     </article>
 
-    <article>
-      <div class="num">02 · SUBSCRIPTION &amp; RETENTION TRACKING</div>
-      <h2>Cohort retention with automatic refresh validation</h2>
-      <p>Retention and net revenue retention per first-purchase cohort. Every refresh is checked against the previous
-         snapshot, and each changed number is explained.</p>
-      <div class="flow-row"><div class="flow-label">BEFORE</div>
-        <ul class="flow old"><li><span class="box">Rebuild cohort table</span></li><li><span class="box">Compare two versions by eye</span></li>
-          <li><span class="box">Ask around why numbers moved</span></li></ul></div>
+    <!-- 02 -->
+    <article class="card" data-tags="analytics automation" data-mode="after">
+      <div class="card-head"><div><div class="num">02 · Subscription &amp; retention tracking</div>
+        <h3>Cohort retention with automatic refresh validation</h3></div>
+        <div class="seg"><button data-m="before">Before</button><button data-m="after">After</button></div></div>
+      <p>Customer and net revenue retention per first-purchase cohort. Every refresh is diffed against the previous
+         snapshot and each changed number is attributed to a cause.</p>
+      <div class="flow-row is-old"><div class="flow-label">BEFORE</div><ul class="flow old">
+        <li><span class="box">Rebuild cohort table</span></li><li><span class="box">Compare versions by eye</span></li>
+        <li><span class="box">Ask around why numbers moved</span></li></ul></div>
       <p class="pain">Old cohorts change silently · no audit trail</p>
-      <div class="flow-row"><div class="flow-label new">AFTER</div>
-        <ul class="flow new"><li><span class="box">Pull latest snapshot</span></li><li><span class="box">Assign cohort &amp; age</span></li>
-          <li><span class="box">Customer &amp; revenue retention</span></li><li><span class="box">Diff vs previous snapshot</span></li>
-          <li><span class="box">Attribute each change to a cause</span></li><li><span class="box out">Heatmaps + change log</span></li></ul></div>
-      <div class="impact">
-        <div class="metric"><div class="v"><s>by eye</s><b>100%</b></div><div class="k">changed cells explained automatically</div></div>
-        <div class="metric"><div class="v"><b>&lt; 1 s</b></div><div class="k">to validate a full refresh</div></div>
-      </div>
-      <details><summary>Show chart</summary><img src="img/revenue_retention.png" alt="Net revenue retention heatmap by monthly cohort"></details>
-      <p class="more">Full version with SMB / Enterprise split, n8n scheduling and a Slack pulse:
-        <a href="https://github.com/reizaa/saas-cohort-retention">saas-cohort-retention</a></p>
+      <div class="flow-row is-new"><div class="flow-label new">AFTER</div><ul class="flow new">
+        <li><span class="box">Latest snapshot</span></li><li><span class="box">Cohort &amp; age</span></li>
+        <li><span class="box">Customer &amp; revenue retention</span></li><li><span class="box">Diff vs previous</span></li>
+        <li><span class="box">Attribute cause</span></li><li><span class="box out">Heatmaps + change log</span></li></ul></div>
+      <div class="impact" id="p02-impact"></div>
+      <div class="viz"><div class="viz-head"><h4>Retention heatmap</h4>
+        <div class="seg" id="p02-toggle"><button data-v="customer" aria-pressed="true">Customers</button><button data-v="revenue" aria-pressed="false">Revenue (NRR)</button></div></div>
+        <div class="heat" id="p02-heat"></div><p class="hint">Rows: first-purchase month · Columns: months since first purchase · Hover a cell</p></div>
     </article>
 
-    <article>
-      <div class="num">03 · QUERY OPTIMIZATION</div>
-      <h2>Making a slow analytics query fast, without changing its answer</h2>
-      <p>The same question answered three ways on millions of rows. A faster version is only accepted when it returns identical results.</p>
-      <div class="flow-row"><div class="flow-label">BEFORE</div>
-        <ul class="flow old"><li><span class="box">Function on filter column</span></li><li><span class="box">Full table scan</span></li>
-          <li><span class="box">Slow / time-out dashboard</span></li></ul></div>
-      <div class="flow-row"><div class="flow-label new">AFTER</div>
-        <ul class="flow new"><li><span class="box">Profile the query</span></li><li><span class="box">Index-friendly filter</span></li>
-          <li><span class="box">Pre-aggregated table</span></li><li><span class="box">Result-equality check</span></li><li><span class="box out">Fast dashboard</span></li></ul></div>
-      <div class="impact">
-        <div class="metric"><div class="v"><s>~600 ms</s><b>8–20 ms</b></div><div class="k">query time (30–75x faster)</div></div>
-        <div class="metric"><div class="v"><b>identical</b></div><div class="k">results checked on every run</div></div>
-      </div>
+    <!-- 03 -->
+    <article class="card" data-tags="performance" data-mode="after">
+      <div class="card-head"><div><div class="num">03 · Query optimization</div>
+        <h3>Making a slow analytics query fast, without changing its answer</h3></div>
+        <div class="seg"><button data-m="before">Before</button><button data-m="after">After</button></div></div>
+      <p>One business question, three approaches, millions of rows. A faster version only counts when it returns identical results.</p>
+      <div class="flow-row is-old"><div class="flow-label">BEFORE</div><ul class="flow old">
+        <li><span class="box">Function on filter column</span></li><li><span class="box">Full table scan</span></li><li><span class="box">Slow dashboard</span></li></ul></div>
+      <div class="flow-row is-new"><div class="flow-label new">AFTER</div><ul class="flow new">
+        <li><span class="box">Profile</span></li><li><span class="box">Index-friendly filter</span></li><li><span class="box">Pre-aggregated table</span></li>
+        <li><span class="box">Result-equality check</span></li><li><span class="box out">Fast dashboard</span></li></ul></div>
+      <div class="impact" id="p03-impact"></div>
+      <div class="viz"><div class="viz-head"><h4 id="p03-q">Query time</h4><button class="btn" id="p03-run">▶ Run benchmark</button></div>
+        <div class="bars" id="p03-bars"></div><p class="hint">Recorded on a laptop; exact timings vary by machine and run.</p></div>
     </article>
 
-    <article>
-      <div class="num">04 · DAILY CHANGE ALERT</div>
-      <h2>From “the number went down” to “here is who moved it”</h2>
-      <p>A scheduled job compares today with a fair baseline, names the biggest contributors and flags anomalies,
-         then posts a ready-to-read message to the team channel.</p>
-      <div class="flow-row"><div class="flow-label">BEFORE</div>
-        <ul class="flow old"><li><span class="box">Daily total posted</span></li><li><span class="box">Team asks why</span></li>
-          <li><span class="box">Analyst digs manually</span></li></ul></div>
-      <div class="flow-row"><div class="flow-label new">AFTER</div>
-        <ul class="flow new"><li><span class="box">Scheduler</span></li><li><span class="box">Same-weekday baseline</span></li>
-          <li><span class="box">Rank top movers</span></li><li><span class="box">Anomaly rule</span></li><li><span class="box out">Chat message</span></li></ul></div>
-      <div class="impact">
-        <div class="metric"><div class="v"><s>0</s><b>5</b></div><div class="k">contributors named per message</div></div>
-        <div class="metric"><div class="v"><s>0</s><b>2</b></div><div class="k">planted anomalies caught</div></div>
-      </div>
-      <p class="more">Full version for recurring revenue (new / upgrade / downgrade / churn, n8n, Slack thread):
-        <a href="https://github.com/reizaa/revenue-change-tracker">revenue-change-tracker</a></p>
+    <!-- 04 -->
+    <article class="card" data-tags="automation analytics" data-mode="after">
+      <div class="card-head"><div><div class="num">04 · Daily change alert</div>
+        <h3>From “the number went down” to “here is who moved it”</h3></div>
+        <div class="seg"><button data-m="before">Before</button><button data-m="after">After</button></div></div>
+      <p>A scheduled job compares today with a fair baseline, names the biggest contributors, flags anomalies and posts a
+         ready-to-read message to the team channel.</p>
+      <div class="flow-row is-old"><div class="flow-label">BEFORE</div><ul class="flow old">
+        <li><span class="box">Daily total posted</span></li><li><span class="box">Team asks why</span></li><li><span class="box">Analyst digs manually</span></li></ul></div>
+      <div class="flow-row is-new"><div class="flow-label new">AFTER</div><ul class="flow new">
+        <li><span class="box">Scheduler</span></li><li><span class="box">Same-weekday baseline</span></li><li><span class="box">Rank top movers</span></li>
+        <li><span class="box">Anomaly rule</span></li><li><span class="box out">Chat message</span></li></ul></div>
+      <div class="impact" id="p04-impact"></div>
+      <div class="viz"><div class="viz-head"><h4>Message the team receives</h4><span class="hint" id="p04-hint"></span></div>
+        <pre class="msg" id="p04-msg"></pre></div>
     </article>
 
-    <article>
-      <div class="num">05 · LEAD RE-ENGAGEMENT</div>
-      <h2>Prioritized follow-up instead of blasting everyone</h2>
-      <p>Lead events are rebuilt into one journey per lead. Leads that went cold or were lost are scored and given a suggested message.</p>
-      <div class="flow-row"><div class="flow-label">BEFORE</div>
-        <ul class="flow old"><li><span class="box">Export all non-buyers</span></li><li><span class="box">Blast the same message</span></li></ul></div>
-      <div class="flow-row"><div class="flow-label new">AFTER</div>
-        <ul class="flow new"><li><span class="box">Event log</span></li><li><span class="box">Journey per lead</span></li>
-          <li><span class="box">Status &amp; channel quality</span></li><li><span class="box">Score</span></li><li><span class="box out">Ranked list + message</span></li></ul></div>
-      <div class="impact">
-        <div class="metric"><div class="v"><s>13</s><b>30</b></div><div class="k">leads returning per 300 contacts (2.4x, simulated)</div></div>
-      </div>
-      <details><summary>Show chart</summary><img src="img/funnel_by_channel.png" alt="Funnel by acquisition channel"></details>
+    <!-- 05 -->
+    <article class="card" data-tags="analytics automation" data-mode="after">
+      <div class="card-head"><div><div class="num">05 · Lead re-engagement</div>
+        <h3>Prioritized follow-up instead of blasting everyone</h3></div>
+        <div class="seg"><button data-m="before">Before</button><button data-m="after">After</button></div></div>
+      <p>Lead events are rebuilt into one journey per lead; cold and lost leads are scored and given a suggested message.</p>
+      <div class="flow-row is-old"><div class="flow-label">BEFORE</div><ul class="flow old">
+        <li><span class="box">Export all non-buyers</span></li><li><span class="box">Blast the same message</span></li></ul></div>
+      <div class="flow-row is-new"><div class="flow-label new">AFTER</div><ul class="flow new">
+        <li><span class="box">Event log</span></li><li><span class="box">Journey per lead</span></li><li><span class="box">Status · recency · channel</span></li>
+        <li><span class="box">Score</span></li><li><span class="box out">Ranked list + message</span></li></ul></div>
+      <div class="viz"><div class="viz-head"><h4>How many come back for a given outreach budget?</h4><span class="hint">Simulated responses</span></div>
+        <input type="range" class="slider" id="p05-range" min="0" max="15" value="5" aria-label="Outreach budget">
+        <div class="compare">
+          <div class="metric"><div class="v" id="p05-rand"></div><div class="k">random blast</div></div>
+          <div class="metric"><div class="v" id="p05-score" style="color:var(--accent)"></div><div class="k">top-scored leads</div></div>
+        </div>
+        <div id="p05-chart"></div><div class="legend"><span><i style="background:var(--old-text)"></i>Random blast</span><span><i style="background:var(--accent)"></i>Scored list</span></div></div>
     </article>
 
-    <article>
-      <div class="num">06 · TEXT CLASSIFICATION</div>
-      <h2>Rules first, LLM for the hard cases</h2>
-      <p>Free-text feedback is sorted into topics. Clear cases are handled by explainable rules; ambiguous ones are
-         routed to an LLM with a fixed rubric instead of being guessed.</p>
-      <div class="flow-row"><div class="flow-label">BEFORE</div>
-        <ul class="flow old"><li><span class="box">First keyword wins</span></li><li><span class="box">Silent mistakes</span></li></ul></div>
-      <div class="flow-row"><div class="flow-label new">AFTER</div>
-        <ul class="flow new"><li><span class="box">Rule scoring</span></li><li><span class="box">Confident?</span></li>
-          <li><span class="box">No → LLM with rubric</span></li><li><span class="box">Evaluate vs labels</span></li><li><span class="box out">Topic report</span></li></ul></div>
-      <div class="impact">
-        <div class="metric"><div class="v"><s>77%</s><b>94%</b></div><div class="k">accuracy on rule-decided cases</div></div>
-        <div class="metric"><div class="v"><b>16%</b></div><div class="k">ambiguous cases routed, not guessed</div></div>
-      </div>
+    <!-- 06 -->
+    <article class="card" data-tags="ai quality" data-mode="after">
+      <div class="card-head"><div><div class="num">06 · Text classification</div>
+        <h3>Rules first, LLM for the hard cases</h3></div>
+        <div class="seg"><button data-m="before">Before</button><button data-m="after">After</button></div></div>
+      <p>Free-text feedback is sorted into topics. Clear cases go through explainable rules; ambiguous ones are routed to an
+         LLM with a fixed rubric instead of being guessed.</p>
+      <div class="flow-row is-old"><div class="flow-label">BEFORE</div><ul class="flow old">
+        <li><span class="box">First keyword wins</span></li><li><span class="box">Silent mistakes</span></li></ul></div>
+      <div class="flow-row is-new"><div class="flow-label new">AFTER</div><ul class="flow new">
+        <li><span class="box">Rule scoring</span></li><li><span class="box">Confident?</span></li><li><span class="box">No → LLM with rubric</span></li>
+        <li><span class="box">Evaluate vs labels</span></li><li><span class="box out">Topic report</span></li></ul></div>
+      <div class="impact" id="p06-impact"></div>
+      <div class="viz"><div class="viz-head"><h4>Precision &amp; recall per topic</h4><span class="hint">Rule layer, hand-labelled test set</span></div>
+        <div class="bars" id="p06-bars"></div></div>
     </article>
   </section>
 
-  <footer>Code, data generator and per-project outputs are in the repository. Built with Python, pandas, matplotlib and SQL.</footer>
+  <footer><span>© 2026 Reiza Sahawaly · Built with Python, pandas, SQL and vanilla JS</span>
+    <a href="https://github.com/reizaa/data-portfolio">Source on GitHub</a></footer>
 </main>
+<div class="tip" id="tip"></div>
+<script src="data.js"></script>
+<script src="app.js"></script>
 </body>
 </html>

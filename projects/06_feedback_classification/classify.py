@@ -69,3 +69,11 @@ summary = [ba, "", f"Reviews: {len(df)} | decided by rules: {len(decided)/len(df
 df.drop(columns="topic").to_csv(OUT / "classified_reviews.csv", index=False)
 (OUT / "summary.txt").write_text("\n".join(summary))
 print("\n".join(summary))
+
+# Export for the interactive web page -------------------------------------------
+import json
+(OUT / "web.json").write_text(json.dumps({
+    "naive_acc": round(float(naive_acc), 3),
+    "rule_acc": round(float((decided.pred == decided.label).mean()), 3),
+    "coverage": round(float(len(decided) / len(df)), 3),
+    "topics": [{"topic": t, "precision": round(float(r.precision), 3), "recall": round(float(r.recall), 3)} for t, r in ev.iterrows()]}))

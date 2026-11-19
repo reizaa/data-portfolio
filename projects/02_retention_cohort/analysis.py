@@ -100,3 +100,13 @@ summary += (f"\n\nBEFORE vs AFTER (monthly refresh validation)\n"
             f"(late-synced orders vs price corrections) in {secs:.2f} s")
 (OUT / "summary.txt").write_text(summary)
 print(summary)
+
+# Export for the interactive web page -------------------------------------------
+import json
+def grid(m):
+    m = m.iloc[:, :13]
+    return [[None if pd.isna(v) else round(float(v), 4) for v in row] for row in m.values]
+web = {"cohorts": [str(c) for c in cust_ret.index], "ages": list(range(13)),
+       "customer": grid(cust_ret), "revenue": grid(rev_ret),
+       "changed_cells": int(len(changed)), "explained": round(float(explained), 3), "seconds": round(secs, 3)}
+(OUT / "web.json").write_text(json.dumps(web))

@@ -70,3 +70,10 @@ ba = (f"BEFORE: 'Total revenue {rp(total_now)} ({pct:+.1f}%)' — 0 stores/items
 print(ba + "\n")
 (OUT / f"alert_{day:%Y-%m-%d}.md").write_text(text, encoding="utf-8")
 print(text)
+
+# Export for the interactive web page -------------------------------------------
+import json
+(OUT / "web.json").write_text(json.dumps({
+    "before": f"Kopi Senja daily sales — {day:%a %d %b %Y}\nTotal revenue {rp(total_now)} ({pct:+.1f}%)",
+    "after": text.replace("*", "").replace(":rotating_light: ", ""),
+    "explained": round(float(explained), 3), "anomalies": int(anomaly_hits)}, ensure_ascii=False), encoding="utf-8")

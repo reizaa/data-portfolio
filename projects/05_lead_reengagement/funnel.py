@@ -94,3 +94,16 @@ summary = [ba, "", "Funnel by channel:", f[["inquiries", "trials", "enrolled", "
            pool.sort_values("score", ascending=False)[cols].head(10).to_string()]
 (OUT / "summary.txt").write_text("\n".join(summary))
 print("\n".join(summary))
+
+# Export for the interactive web page -------------------------------------------
+import json
+budgets = list(range(50, 801, 50))
+ranked = pool.sort_values("score", ascending=False).would_return.values
+rate = pool.would_return.mean()
+(OUT / "web.json").write_text(json.dumps({
+    "budgets": budgets,
+    "random": [round(float(b * rate), 1) for b in budgets],
+    "scored": [int(ranked[:b].sum()) for b in budgets],
+    "pool": int(len(pool)),
+    "funnel": [{"channel": c, "inquiries": int(r.inquiries), "trials": int(r.trials), "enrolled": int(r.enrolled)}
+               for c, r in f.iterrows()]}))

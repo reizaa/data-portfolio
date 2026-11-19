@@ -89,5 +89,8 @@ lines += ["", "Result:"] + [f"  {r}" for r in baseline_rows]
 report = "\n".join(lines)
 (OUT / "benchmark.txt").write_text(report)
 print(report)
+import json
+(OUT / "web.json").write_text(json.dumps({"rows": N_ROWS, "question": QUESTION,
+    "runs": [{"name": n.split(". ", 1)[1], "ms": round(t * 1000, 1), "same": r == baseline_rows} for n, (t, r) in results.items()]}))
 con.close()
 DB.unlink()  # keep the repo small; rerun to rebuild

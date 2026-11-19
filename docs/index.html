@@ -52,6 +52,7 @@
   .metric .v s { color: var(--old-text); font-weight: 400; margin-right: 6px; }
   .metric .v b { color: var(--accent); }
   .metric .k { font-size: .78rem; color: var(--muted); }
+  .more { font-size: .88rem; color: var(--muted); margin: 14px 0 0; }
   details { margin-top: 14px; }
   summary { cursor: pointer; color: var(--accent); font-size: .9rem; }
   img { width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--border); background: #fff; margin-top: 10px; }
@@ -118,6 +119,8 @@
         <div class="metric"><div class="v"><b>&lt; 1 s</b></div><div class="k">to validate a full refresh</div></div>
       </div>
       <details><summary>Show chart</summary><img src="img/revenue_retention.png" alt="Net revenue retention heatmap by monthly cohort"></details>
+      <p class="more">Full version with SMB / Enterprise split, n8n scheduling and a Slack pulse:
+        <a href="https://github.com/reizaa/saas-cohort-retention">saas-cohort-retention</a></p>
     </article>
 
     <article>
@@ -151,6 +154,8 @@
         <div class="metric"><div class="v"><s>0</s><b>5</b></div><div class="k">contributors named per message</div></div>
         <div class="metric"><div class="v"><s>0</s><b>2</b></div><div class="k">planted anomalies caught</div></div>
       </div>
+      <p class="more">Full version for recurring revenue (new / upgrade / downgrade / churn, n8n, Slack thread):
+        <a href="https://github.com/reizaa/revenue-change-tracker">revenue-change-tracker</a></p>
     </article>
 
     <article>

@@ -24,6 +24,17 @@ Open `docs/index.html` for a one-page visual overview.
 | 05 | [Lead re-engagement](projects/05_lead_reengagement) | Blast to everyone: 13 returns / 300 contacts | Scored list: 30 returns / 300 contacts (2.4x, simulated) |
 | 06 | [Text classification](projects/06_feedback_classification) | First keyword wins: 77% accuracy | Rule scoring: 94% accuracy, ambiguous 16% routed to an LLM |
 
+### Full-size versions
+
+Projects 02 and 04 are compact versions of two larger repositories:
+
+- **[saas-cohort-retention](https://github.com/reizaa/saas-cohort-retention)** — monthly SMB / Enterprise
+  cohort pipeline (revenue, retention, churn, upgrade/downgrade, NRR) with before/after
+  reconciliation, n8n scheduling and a Slack pulse that only posts when numbers reconcile.
+- **[revenue-change-tracker](https://github.com/reizaa/revenue-change-tracker)** — daily recurring-revenue
+  diff (new / upgrade / downgrade / churn) against yesterday or month start, snapshot guards,
+  n8n flows and top movers posted as a Slack thread reply.
+
 ## System flows
 
 ### 01 · Client data cleaning, subscription status & assignment

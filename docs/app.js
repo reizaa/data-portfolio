@@ -173,7 +173,19 @@
        <div class="row"><span class="name"></span><div class="track"><div class="fill slow" style="width:${t.recall * 100}%"></div></div><span class="val">R ${pct(t.recall)}</span></div>`).join("");
   }
 
-  function renderAll() { stats(); p01(); p02(); p03(false); p04(); p05(); p06(); }
+  // ---------- data profile per project ----------
+  function profiles() {
+    ["01", "02", "03", "04", "05", "06"].forEach((k) => {
+      const p = D[k] && D[k].profile, box = $(`#p${k}-profile`);
+      if (!p || !box) return;
+      box.innerHTML = `<p class="pf-meta">Business: <b>${p.business}</b> · type: <b>synthetic (dummy)</b> · generator <code>data/generate.py</code>, seed 42</p>` +
+        p.files.map((f) => `<p class="pf-meta"><code>${f.file}</code> · ${f.rows.toLocaleString("en")} rows · ${f.columns.length} columns${f.period ? " · " + f.period : ""}</p>
+          <table class="pf-table">${f.columns.map((c) => `<tr><td>${c.name}</td><td>${c.desc}</td></tr>`).join("")}</table>`).join("") +
+        (p.note ? `<p class="pf-meta">${p.note}</p>` : "");
+    });
+  }
+
+  function renderAll() { stats(); p01(); p02(); p03(false); p04(); p05(); p06(); profiles(); }
   if (!D["01"]) { $("#projects").insertAdjacentHTML("beforebegin", "<p>Data not built yet. Run <code>python run_all.py</code>.</p>"); return; }
   renderAll();
 })();

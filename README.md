@@ -22,7 +22,7 @@ No credentials, API keys or network access are needed: everything runs offline o
 |---|---|---|---|
 | 01 | [Client data cleaning & assignment](projects/01_client_data_cleaning) | 106 "clients" from name variants, revenue off by −42%, 34 payments in the wrong month | 24 real clients, 0% revenue error, every client with one owner |
 | 02 | [Subscription & retention tracking](projects/02_retention_cohort) | Refreshes compared by eye, changes unexplained | 100% of changed cohort cells explained automatically in < 1 s |
-| 03 | [Query optimization](projects/03_query_optimization) | ~600 ms full scan | 8–20 ms (30–75x), identical results |
+| 03 | [Query optimization](projects/03_query_optimization) | ~600 ms full scan | 8–20 ms (30–85x depending on run), identical results |
 | 04 | [Daily change alert](projects/04_daily_change_alert) | Total only, team asks "why?" | Top 5 contributors named, anomalies flagged |
 | 05 | [Lead re-engagement](projects/05_lead_reengagement) | Blast to everyone: 13 returns / 300 contacts | Scored list: 30 returns / 300 contacts (2.4x, simulated) |
 | 06 | [Text classification](projects/06_feedback_classification) | First keyword wins: 77% accuracy | Rule scoring: 94% accuracy, ambiguous 16% routed to an LLM |

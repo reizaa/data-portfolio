@@ -9,6 +9,8 @@ from pathlib import Path
 import sys
 import pandas as pd
 
+sys.stdout.reconfigure(encoding="utf-8")  # message uses •, →, — ; keep Windows consoles happy
+
 HERE = Path(__file__).resolve().parent
 DATA = HERE.parents[1] / "data" / "coffee_daily_sales.csv"
 OUT = HERE / "output"; OUT.mkdir(exist_ok=True)

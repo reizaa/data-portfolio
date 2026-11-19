@@ -1,6 +1,6 @@
 """Regenerate every dataset, run all six projects, and copy charts for the web page."""
 from pathlib import Path
-import shutil, subprocess, sys
+import os, shutil, subprocess, sys
 
 ROOT = Path(__file__).resolve().parent
 STEPS = [
@@ -14,7 +14,8 @@ STEPS = [
 ]
 for s in STEPS:
     print(f"\n=== {s}")
-    subprocess.run([sys.executable, str(ROOT / s)], check=True)
+    subprocess.run([sys.executable, str(ROOT / s)], check=True,
+                   env={**os.environ, "PYTHONIOENCODING": "utf-8"})
 
 img = ROOT / "docs" / "img"; img.mkdir(parents=True, exist_ok=True)
 for png in (ROOT / "projects").glob("*/output/*.png"):

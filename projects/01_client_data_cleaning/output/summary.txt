@@ -1,3 +1,12 @@
+BEFORE vs AFTER
+                                                    before (as-is) after (pipeline)
+clients counted                                                106               24
+total revenue                                              Rp877jt        Rp1,517jt
+duplicate payments                                               8                0
+payments in the wrong month                                     34                0
+clients split across several names (-> several AMs)             24                0
+Revenue error of the old way: -42%
+
 Data-quality checks:
   raw rows: 177
   company spellings before -> after: 106 -> 24

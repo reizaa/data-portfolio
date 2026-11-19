@@ -1,0 +1,2 @@
+BEFORE: 'Total revenue Rp25.11jt (+8.6%)' — 0 stores/items named, 0 anomalies flagged
+AFTER:  5 named movers covering 37% of all item-level movement (out of 42 store-item pairs), 2 anomalies flagged automatically

@@ -50,7 +50,19 @@ df["topic"] = df.pred.where(df.pred != "needs_llm", df.label)
 pain = df.assign(negative=df.stars <= 2).groupby("topic").agg(
     reviews=("review_id", "size"), negative_share=("negative", "mean")).sort_values("negative_share", ascending=False)
 
-summary = [f"Reviews: {len(df)} | decided by rules: {len(decided)/len(df):.1%} | sent to LLM: {(df.pred=='needs_llm').mean():.1%}",
+# BEFORE: first keyword that matches wins, no tie handling, no fallback.
+def first_match(text):
+    for t, p in RULES.items():
+        if re.search(p, text.lower()):
+            return t
+    return "other"
+naive_acc = (df.text.map(first_match) == df.label).mean()
+ba = (f"BEFORE vs AFTER\n"
+      f"  before: first-keyword-wins on all reviews  -> {naive_acc:.1%} accuracy, errors silent\n"
+      f"  after:  counted rules on {len(decided)/len(df):.0%} of reviews -> {(decided.pred == decided.label).mean():.1%} accuracy; "
+      f"ambiguous {(df.pred=='needs_llm').mean():.0%} routed to LLM/human instead of guessed")
+
+summary = [ba, "", f"Reviews: {len(df)} | decided by rules: {len(decided)/len(df):.1%} | sent to LLM: {(df.pred=='needs_llm').mean():.1%}",
            f"Rule-layer accuracy on decided reviews: {(decided.pred == decided.label).mean():.1%}", "",
            ev.to_string(float_format="{:.2f}".format), "", "Negative share by topic:",
            pain.to_string(formatters={"negative_share": "{:.0%}".format})]

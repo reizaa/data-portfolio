@@ -70,7 +70,24 @@ pool["suggested_message"] = pool.status.map({
 cols = ["channel", "course", "status", "days_since", "score", "suggested_message"]
 pool.sort_values("score", ascending=False)[cols].to_csv(OUT / "reengagement_list.csv")
 
-summary = ["Funnel by channel:", f[["inquiries", "trials", "enrolled", "enroll_rate"]].to_string(
+# BEFORE vs AFTER: with a budget of 300 follow-up calls, the old way was a blast
+# to random non-students. Simulate who would actually come back (hidden truth,
+# noisier than the score) and compare the two strategies.
+import numpy as np
+rng = np.random.default_rng(11)
+base_p = pool.status.map({"lost_after_trial": .22, "dropped_out": .15, "cold_no_response": .05, "open_inquiry": .07})
+recency = np.exp(-pool.days_since / 120)
+chan = pool.channel.map({"Referral": 1.3, "Walk-in": 1.3, "Google Search": 1.0}).fillna(.7)
+truth = rng.random(len(pool)) < (base_p * recency * chan * rng.uniform(.6, 1.4, len(pool))).clip(0, 1)
+pool["would_return"] = truth
+BUDGET = 300
+random_hits = np.mean([pool.sample(BUDGET, random_state=s).would_return.sum() for s in range(200)])
+scored_hits = pool.nlargest(BUDGET, "score").would_return.sum()
+ba = (f"BEFORE vs AFTER (budget {BUDGET} calls, simulated responses)\n"
+      f"  before: random blast  -> {random_hits:.0f} leads come back\n"
+      f"  after:  top-scored    -> {scored_hits} leads come back ({scored_hits / random_hits:.1f}x)")
+
+summary = [ba, "", "Funnel by channel:", f[["inquiries", "trials", "enrolled", "enroll_rate"]].to_string(
                formatters={"enroll_rate": "{:.1%}".format}), "",
            "Lead status:", j.status.value_counts().to_string(), "",
            f"Re-engagement list: {len(pool):,} leads (top 10 below)",

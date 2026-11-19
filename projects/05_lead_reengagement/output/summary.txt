@@ -1,3 +1,7 @@
+BEFORE vs AFTER (budget 300 calls, simulated responses)
+  before: random blast  -> 13 leads come back
+  after:  top-scored    -> 30 leads come back (2.4x)
+
 Funnel by channel:
                inquiries  trials  enrolled enroll_rate
 channel                                               

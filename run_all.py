@@ -5,12 +5,12 @@ import shutil, subprocess, sys
 ROOT = Path(__file__).resolve().parent
 STEPS = [
     "data/generate.py",
-    "projects/01_retention_cohort/analysis.py",
-    "projects/02_query_optimization/benchmark.py",
-    "projects/03_daily_change_alert/alert.py",
-    "projects/04_lead_reengagement/funnel.py",
-    "projects/05_feedback_classification/classify.py",
-    "projects/06_client_data_cleaning/clean_and_assign.py",
+    "projects/01_client_data_cleaning/clean_and_assign.py",
+    "projects/02_retention_cohort/analysis.py",
+    "projects/03_query_optimization/benchmark.py",
+    "projects/04_daily_change_alert/alert.py",
+    "projects/05_lead_reengagement/funnel.py",
+    "projects/06_feedback_classification/classify.py",
 ]
 for s in STEPS:
     print(f"\n=== {s}")

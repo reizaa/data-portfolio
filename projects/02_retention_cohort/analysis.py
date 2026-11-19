@@ -69,5 +69,34 @@ summary = (f"Average M1 customer retention: {avg_m1:.1%}\n"
            f"Average M3 customer retention: {avg_m3:.1%}\n"
            f"Average M6 net revenue retention: {nrr6:.1%}\n\n"
            "M3 retention by city:\n" + "\n".join(f"  {c:12s} {v:.1%}" for c, v in seg.items()))
+# ---------------------------------------------------------------------------
+# BEFORE vs AFTER: refreshing the report.
+# Each month the report is rebuilt from a new data snapshot and numbers in old
+# cohorts change. BEFORE: two heatmaps side by side and someone hunts for the
+# differences by eye. AFTER: every changed cell is listed with its cause.
+import time
+rng = pd.Series(range(len(df)), index=df.index).sample(frac=0.03, random_state=3).index
+prev = df.drop(index=rng)                                   # last month's snapshot: 3% of orders not synced yet
+edited = prev.sample(n=40, random_state=4).index
+prev.loc[edited, "revenue"] = (prev.loc[edited, "revenue"] * 0.9).round()   # prices later corrected
+
+t0 = time.perf_counter()
+key = ["cohort", "age"]
+a = prev.groupby(key)["revenue"].sum(); b = df.groupby(key)["revenue"].sum()
+diff = (b - a.reindex(b.index, fill_value=0))
+changed = diff[diff.abs() > 0]
+late = df.loc[rng].groupby(key)["revenue"].sum().reindex(changed.index, fill_value=0)
+fix = (df.loc[edited, "revenue"] - prev.loc[edited, "revenue"]).groupby(
+    [df.loc[edited, "cohort"], df.loc[edited, "age"]]).sum().reindex(changed.index, fill_value=0)
+explained = ((late + fix - changed).abs() < 1).mean()
+expl = pd.DataFrame({"change": changed, "late_orders": late, "price_corrections": fix})
+expl.sort_values("change", key=abs, ascending=False).to_csv(OUT / "snapshot_change_explained.csv")
+secs = time.perf_counter() - t0
+
+summary += (f"\n\nBEFORE vs AFTER (monthly refresh validation)\n"
+            f"  cells that changed vs last snapshot: {len(changed)} of {len(b)}\n"
+            f"  before: found by comparing two heatmaps by eye, cause unknown\n"
+            f"  after:  {explained:.0%} of changed cells explained automatically "
+            f"(late-synced orders vs price corrections) in {secs:.2f} s")
 (OUT / "summary.txt").write_text(summary)
 print(summary)

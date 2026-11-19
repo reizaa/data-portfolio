@@ -1,9 +1,9 @@
 Question: Average temperature & max humidity per region, 1-14 March 2026
 Rows scanned by naive query: 3,000,000
 
-1. naive full scan                        571.8 ms      1.0x   same result
-2. sargable filter + covering index       166.8 ms      3.4x   same result
-3. pre-aggregated hourly table             19.4 ms     29.5x   same result
+1. naive full scan                        575.2 ms      1.0x   same result
+2. sargable filter + covering index       137.2 ms      4.2x   same result
+3. pre-aggregated hourly table              8.8 ms     65.4x   same result
 
 Result:
   ('Coastal', 26.977, 99.0)

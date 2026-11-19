@@ -21,6 +21,16 @@ USD_IDR = 16_000
 raw = pd.read_csv(DATA / "coworking_payments_raw.csv")
 checks = {"raw rows": len(raw)}
 
+# 0. BEFORE: the old way — paste both exports into one sheet and use them as-is --
+old = raw.copy()
+old["paid_on"] = pd.to_datetime(old.paid_on, format="mixed", dayfirst=True)   # one guess for all
+old["amount_idr"] = old.amount.astype(str).str.replace(r"[^\d]", "", regex=True).astype(int)  # "937.50 USD" -> 93,750
+before_stats = {
+    "clients counted": old.company.nunique(),
+    "total revenue (IDR)": old.amount_idr.sum(),
+    "duplicate rows kept": int(old.duplicated(["company", "paid_on", "amount"]).sum()),
+}
+
 # 1. Clean ------------------------------------------------------------------
 df = raw.copy()
 df["company"] = (df.company.str.strip().str.replace(r"\s+", " ", regex=True)
@@ -98,7 +108,24 @@ checks["unparsed dates"] = int(clean.paid_on.isna().sum())
 checks["clients"] = clean.company.nunique()
 checks["paying clients in " + last] = len(current)
 
-lines = ["Data-quality checks:"] + [f"  {k}: {v}" for k, v in checks.items()]
+# BEFORE vs AFTER -------------------------------------------------------------
+wrong_month = int((old.paid_on.dt.to_period("M").values != df.reindex(old.index).month.values)[
+    df.reindex(old.index).month.notna().values].sum())
+# Old way: every spelling is its own "client", so one company can sit with several AMs.
+split = raw.assign(clean=raw.company.str.strip().str.replace(r"\s+", " ", regex=True)
+                   .str.replace(r"^PT\s+", "", regex=True, flags=re.I).str.title())
+split_clients = int((split.groupby("clean").company.nunique() > 1).sum())
+true_rev = clean.amount_idr.sum()
+ba = pd.DataFrame({
+    "before (as-is)": [before_stats["clients counted"], f"Rp{before_stats['total revenue (IDR)']/1e6:,.0f}jt",
+                       before_stats["duplicate rows kept"], wrong_month, split_clients],
+    "after (pipeline)": [clean.company.nunique(), f"Rp{true_rev/1e6:,.0f}jt", 0, 0, 0],
+}, index=["clients counted", "total revenue", "duplicate payments", "payments in the wrong month",
+          "clients split across several names (-> several AMs)"])
+rev_err = before_stats["total revenue (IDR)"] / true_rev - 1
+
+lines = ["BEFORE vs AFTER", ba.to_string(), f"Revenue error of the old way: {rev_err:+.0%}", ""]
+lines += ["Data-quality checks:"] + [f"  {k}: {v}" for k, v in checks.items()]
 lines += ["", "Subscription status per month:", monthly.to_string(), "",
           f"Account-manager book of business ({last}):",
           book.to_string(formatters={"mrr_idr": lambda x: f"Rp{x/1e6:,.1f}jt"})]

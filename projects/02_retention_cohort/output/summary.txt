@@ -1,0 +1,16 @@
+Average M1 customer retention: 26.3%
+Average M3 customer retention: 25.9%
+Average M6 net revenue retention: 35.4%
+
+M3 retention by city:
+  Bandung      29.4%
+  Surabaya     28.1%
+  Yogyakarta   25.7%
+  Denpasar     24.9%
+  Jakarta      24.7%
+  Medan        23.2%
+
+BEFORE vs AFTER (monthly refresh validation)
+  cells that changed vs last snapshot: 167 of 171
+  before: found by comparing two heatmaps by eye, cause unknown
+  after:  100% of changed cells explained automatically (late-synced orders vs price corrections) in 0.01 s

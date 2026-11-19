@@ -56,5 +56,15 @@ msg += ["", f"Largest drop: {store_diff.index[0]} ({rp(store_diff.iloc[0])}) · 
             f"Largest gain: {store_diff.index[-1]} ({rp(store_diff.iloc[-1])})"]
 
 text = "\n".join(msg)
+
+# BEFORE vs AFTER: the old daily message was only the total. How much of the
+# movement does the new message actually explain?
+explained = chg.loc[top_items, "diff"].abs().sum() / chg["diff"].abs().sum()
+anomaly_hits = len(flags)
+ba = (f"BEFORE: 'Total revenue {rp(total_now)} ({pct:+.1f}%)' — 0 stores/items named, 0 anomalies flagged\n"
+      f"AFTER:  {len(top_items)} named movers covering {explained:.0%} of all item-level movement "
+      f"(out of {len(chg)} store-item pairs), {anomaly_hits} anomalies flagged automatically")
+(OUT / "before_after.txt").write_text(ba, encoding="utf-8")
+print(ba + "\n")
 (OUT / f"alert_{day:%Y-%m-%d}.md").write_text(text, encoding="utf-8")
 print(text)

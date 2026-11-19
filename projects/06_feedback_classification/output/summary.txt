@@ -1,3 +1,7 @@
+BEFORE vs AFTER
+  before: first-keyword-wins on all reviews  -> 76.7% accuracy, errors silent
+  after:  counted rules on 84% of reviews -> 94.1% accuracy; ambiguous 16% routed to LLM/human instead of guessed
+
 Reviews: 600 | decided by rules: 84.5% | sent to LLM: 15.5%
 Rule-layer accuracy on decided reviews: 94.1%
 

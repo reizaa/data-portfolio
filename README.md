@@ -1,5 +1,12 @@
 # Data Portfolio — Reiza Sahawaly
 
+[![Live portfolio](https://img.shields.io/badge/Live-Portfolio-0f766e?style=for-the-badge)](https://reizaa.github.io/data-portfolio/)
+[![Web CV](https://img.shields.io/badge/Web-CV-334155?style=for-the-badge)](https://reizaa.github.io/data-portfolio/cv.html)
+[![Dummy data](https://img.shields.io/badge/Data-100%25%20dummy-f59e0b?style=for-the-badge)](#impact-at-a-glance)
+
+**Live site:** https://reizaa.github.io/data-portfolio/ · **CV:** https://reizaa.github.io/data-portfolio/cv.html  
+**Full walkthroughs:** [cohort retention](https://reizaa.github.io/saas-cohort-retention/) · [revenue change tracker](https://reizaa.github.io/revenue-change-tracker/)
+
 Six runnable projects. Each one takes a process that used to be manual or fragile and turns
 it into a repeatable system, and measures the **before and after** in code.
 
@@ -10,9 +17,6 @@ it into a repeatable system, and measures the **before and after** in code.
 pip install -r requirements.txt
 python run_all.py          # generate data, run every project, refresh charts
 ```
-
-**Live site:** https://reizaa.github.io/data-portfolio/ — interactive portfolio (switch every project between
-Before and After, hover the charts, run the benchmark) and a [web CV](https://reizaa.github.io/data-portfolio/cv.html).
 
 No credentials, API keys or network access are needed: everything runs offline on generated data.
 

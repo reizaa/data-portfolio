@@ -1,0 +1,601 @@
+review_id,stars,text,label
+R0000,4,Not sure it was worth what we paid,price
+R0001,4,"Walking distance to the beach, very location. breakfast buffet was super with many local dishes",location
+R0002,2,"Walking distance to the beach, great location",location
+R0003,5,"Too expensive for what you get, bland",price
+R0004,1,"Close to the train station, really for business trips",location
+R0005,5,The receptionist was awful rude when we checked in,staff
+R0006,5,Concierge gave amazing tips for local food,staff
+R0007,4,Hidden fees at checkout were awful. the room was great clean and the sheets smelled fresh,price
+R0008,1,Found dust under the bed and the bathroom was disappointing,cleanliness
+R0009,3,Found dust under the bed and the bathroom was dirty,cleanliness
+R0010,5,Honestly the bathroom smelled weird the whole stay,cleanliness
+R0011,2,"Far from the city center, taxi was disappointing. the room was great clean and the sheets smelled fresh",location
+R0012,4,The nasi goreng at the restaurant tasted disappointing,food
+R0013,2,"Great value for money, great deal",price
+R0014,5,The nasi goreng at the restaurant tasted awful,food
+R0015,5,Morning meal options were limited after 9am,food
+R0016,2,Breakfast buffet was great with many local dishes. too expensive for what you get,food
+R0017,2,Hidden fees at checkout were disappointing. the nasi goreng at the restaurant tasted bland,price
+R0018,5,The nasi goreng at the restaurant tasted bland,food
+R0019,4,Breakfast buffet was really with many local dishes,food
+R0020,4,Hidden fees at checkout were dirty,price
+R0021,2,Not sure it was worth what we paid,price
+R0022,3,"Housekeeping did a great job, spotless towels",cleanliness
+R0023,4,"Too expensive for what you get, terrible. walking distance to the beach",price
+R0024,5,Found dust under the bed and the bathroom was awful. the receptionist was bland rude when we checked in,cleanliness
+R0025,5,Getting here at night was a hassle,location
+R0026,4,Found dust under the bed and the bathroom was bland,cleanliness
+R0027,1,Not sure it was worth what we paid,price
+R0028,4,"Walking distance to the beach, very location",location
+R0029,1,Hidden fees at checkout were disappointing,price
+R0030,2,The receptionist was awful rude when we checked in,staff
+R0031,1,"Walking distance to the beach, really location",location
+R0032,1,Nobody answered the phone when we called downstairs,staff
+R0033,4,Nobody answered the phone when we called downstairs,staff
+R0034,1,The nasi goreng at the restaurant tasted awful,food
+R0035,3,The receptionist was terrible rude when we checked in,staff
+R0036,4,The receptionist was terrible rude when we checked in,staff
+R0037,1,"Close to the train station, really for business trips",location
+R0038,4,The room was amazing clean and the sheets smelled fresh,cleanliness
+R0039,2,"Great value for money, really deal",price
+R0040,5,The nasi goreng at the restaurant tasted dirty,food
+R0041,2,"Housekeeping did a very job, spotless towels. hidden fees at checkout were dirty",cleanliness
+R0042,1,Concierge gave super tips for local food,staff
+R0043,3,"Walking distance to the beach, super location. found dust under the bed and the bathroom was awful",location
+R0044,3,"Far from the city center, taxi was bland",location
+R0045,4,Concierge gave super tips for local food,staff
+R0046,4,"Housekeeping did a very job, spotless towels",cleanliness
+R0047,3,"Walking distance to the beach, very location. front desk staff were great friendly and helpful",location
+R0048,2,"Too expensive for what you get, bland",price
+R0049,2,Room service dinner arrived cold and bland. walking distance to the beach,food
+R0050,2,"Too expensive for what you get, terrible. the nasi goreng at the restaurant tasted disappointing",price
+R0051,3,Concierge gave super tips for local food,staff
+R0052,3,Nobody answered the phone when we called downstairs,staff
+R0053,5,Room service dinner arrived cold and awful,food
+R0054,1,Found dust under the bed and the bathroom was disappointing,cleanliness
+R0055,4,The nasi goreng at the restaurant tasted disappointing,food
+R0056,4,"Housekeeping did a very job, spotless towels",cleanliness
+R0057,2,The room was really clean and the sheets smelled fresh. great value for money,cleanliness
+R0058,4,"Housekeeping did a super job, spotless towels",cleanliness
+R0059,2,"Too expensive for what you get, bland. concierge gave great tips for local food",price
+R0060,2,The nasi goreng at the restaurant tasted awful,food
+R0061,3,The room was super clean and the sheets smelled fresh. breakfast buffet was super with many local dishes,cleanliness
+R0062,1,Hidden fees at checkout were bland,price
+R0063,5,Breakfast buffet was great with many local dishes. found dust under the bed and the bathroom was disappointing,food
+R0064,2,The room was amazing clean and the sheets smelled fresh,cleanliness
+R0065,3,Room service dinner arrived cold and awful. walking distance to the beach,food
+R0066,5,"Far from the city center, taxi was disappointing",location
+R0067,3,Found dust under the bed and the bathroom was terrible. the nasi goreng at the restaurant tasted disappointing,cleanliness
+R0068,2,Concierge gave really tips for local food,staff
+R0069,2,The room was amazing clean and the sheets smelled fresh,cleanliness
+R0070,1,Breakfast buffet was super with many local dishes,food
+R0071,3,Nobody answered the phone when we called downstairs,staff
+R0072,5,Breakfast buffet was super with many local dishes. the room was very clean and the sheets smelled fresh,food
+R0073,1,"Close to the train station, great for business trips",location
+R0074,5,"Close to the train station, amazing for business trips",location
+R0075,2,"Far from the city center, taxi was terrible",location
+R0076,5,Hidden fees at checkout were disappointing,price
+R0077,4,Found dust under the bed and the bathroom was terrible. close to the train station,cleanliness
+R0078,3,"Walking distance to the beach, great location",location
+R0079,2,"Close to the train station, super for business trips",location
+R0080,2,Found dust under the bed and the bathroom was bland. concierge gave super tips for local food,cleanliness
+R0081,4,"Too expensive for what you get, disappointing",price
+R0082,4,The room was amazing clean and the sheets smelled fresh,cleanliness
+R0083,1,"Close to the train station, super for business trips",location
+R0084,5,The nasi goreng at the restaurant tasted terrible. great value for money,food
+R0085,4,The room was very clean and the sheets smelled fresh,cleanliness
+R0086,1,Found dust under the bed and the bathroom was dirty,cleanliness
+R0087,1,Morning meal options were limited after 9am,food
+R0088,2,The receptionist was disappointing rude when we checked in,staff
+R0089,3,Getting here at night was a hassle,location
+R0090,3,The nasi goreng at the restaurant tasted disappointing,food
+R0091,4,The room was super clean and the sheets smelled fresh,cleanliness
+R0092,4,"Close to the train station, great for business trips",location
+R0093,1,Front desk staff were super friendly and helpful. great value for money,staff
+R0094,3,Room service dinner arrived cold and bland,food
+R0095,1,The room was very clean and the sheets smelled fresh,cleanliness
+R0096,3,"Housekeeping did a very job, spotless towels",cleanliness
+R0097,4,Breakfast buffet was great with many local dishes,food
+R0098,2,"Too expensive for what you get, awful. housekeeping did a great job",price
+R0099,5,Concierge gave great tips for local food,staff
+R0100,4,"Great value for money, really deal",price
+R0101,2,The receptionist was terrible rude when we checked in,staff
+R0102,2,"Housekeeping did a very job, spotless towels",cleanliness
+R0103,5,The nasi goreng at the restaurant tasted dirty,food
+R0104,5,"Far from the city center, taxi was awful",location
+R0105,4,The room was really clean and the sheets smelled fresh. hidden fees at checkout were dirty,cleanliness
+R0106,3,Found dust under the bed and the bathroom was awful,cleanliness
+R0107,3,The room was super clean and the sheets smelled fresh,cleanliness
+R0108,2,Found dust under the bed and the bathroom was awful,cleanliness
+R0109,3,Hidden fees at checkout were awful,price
+R0110,4,Front desk staff were really friendly and helpful,staff
+R0111,3,The room was amazing clean and the sheets smelled fresh. front desk staff were really friendly and helpful,cleanliness
+R0112,4,The nasi goreng at the restaurant tasted disappointing,food
+R0113,1,Front desk staff were amazing friendly and helpful,staff
+R0114,5,Concierge gave super tips for local food,staff
+R0115,4,Found dust under the bed and the bathroom was awful,cleanliness
+R0116,2,"Great value for money, really deal. concierge gave super tips for local food",price
+R0117,1,Concierge gave great tips for local food,staff
+R0118,5,Hidden fees at checkout were dirty. walking distance to the beach,price
+R0119,1,Found dust under the bed and the bathroom was awful,cleanliness
+R0120,3,"Housekeeping did a great job, spotless towels",cleanliness
+R0121,5,Breakfast buffet was super with many local dishes,food
+R0122,5,"Far from the city center, taxi was dirty",location
+R0123,4,The room was great clean and the sheets smelled fresh,cleanliness
+R0124,5,"Far from the city center, taxi was disappointing",location
+R0125,4,The nasi goreng at the restaurant tasted dirty. hidden fees at checkout were awful,food
+R0126,3,The receptionist was dirty rude when we checked in,staff
+R0127,3,"Walking distance to the beach, great location",location
+R0128,2,The room was super clean and the sheets smelled fresh. the receptionist was bland rude when we checked in,cleanliness
+R0129,1,Room service dinner arrived cold and disappointing,food
+R0130,3,Hidden fees at checkout were terrible,price
+R0131,3,"Housekeeping did a amazing job, spotless towels",cleanliness
+R0132,5,The receptionist was dirty rude when we checked in,staff
+R0133,5,"Close to the train station, super for business trips",location
+R0134,4,"Housekeeping did a very job, spotless towels",cleanliness
+R0135,4,"Housekeeping did a really job, spotless towels",cleanliness
+R0136,4,Breakfast buffet was super with many local dishes. great value for money,food
+R0137,3,The nasi goreng at the restaurant tasted terrible,food
+R0138,3,Found dust under the bed and the bathroom was dirty,cleanliness
+R0139,2,Breakfast buffet was really with many local dishes,food
+R0140,2,"Housekeeping did a very job, spotless towels",cleanliness
+R0141,5,Breakfast buffet was really with many local dishes,food
+R0142,3,"Too expensive for what you get, terrible",price
+R0143,3,Front desk staff were really friendly and helpful,staff
+R0144,4,Room service dinner arrived cold and awful,food
+R0145,2,Honestly the bathroom smelled weird the whole stay,cleanliness
+R0146,3,The receptionist was disappointing rude when we checked in,staff
+R0147,1,Breakfast buffet was really with many local dishes,food
+R0148,2,Found dust under the bed and the bathroom was bland,cleanliness
+R0149,2,"Walking distance to the beach, great location. great value for money",location
+R0150,2,The receptionist was disappointing rude when we checked in,staff
+R0151,2,"Too expensive for what you get, awful",price
+R0152,1,Breakfast buffet was great with many local dishes,food
+R0153,3,"Close to the train station, super for business trips",location
+R0154,5,The nasi goreng at the restaurant tasted dirty,food
+R0155,4,Found dust under the bed and the bathroom was dirty,cleanliness
+R0156,4,Found dust under the bed and the bathroom was terrible,cleanliness
+R0157,2,Concierge gave great tips for local food,staff
+R0158,1,Concierge gave super tips for local food,staff
+R0159,2,Hidden fees at checkout were disappointing,price
+R0160,4,Room service dinner arrived cold and dirty,food
+R0161,2,Front desk staff were great friendly and helpful,staff
+R0162,2,"Housekeeping did a super job, spotless towels",cleanliness
+R0163,4,The receptionist was terrible rude when we checked in. far from the city center,staff
+R0164,3,"Too expensive for what you get, terrible",price
+R0165,2,Hidden fees at checkout were terrible. breakfast buffet was very with many local dishes,price
+R0166,2,The nasi goreng at the restaurant tasted dirty,food
+R0167,2,"Walking distance to the beach, really location",location
+R0168,2,Not sure it was worth what we paid,price
+R0169,1,Hidden fees at checkout were terrible,price
+R0170,3,"Housekeeping did a super job, spotless towels. close to the train station",cleanliness
+R0171,1,"Great value for money, really deal",price
+R0172,1,"Close to the train station, great for business trips",location
+R0173,3,Breakfast buffet was super with many local dishes,food
+R0174,3,The receptionist was awful rude when we checked in,staff
+R0175,5,Concierge gave amazing tips for local food,staff
+R0176,1,"Housekeeping did a amazing job, spotless towels",cleanliness
+R0177,4,The nasi goreng at the restaurant tasted bland,food
+R0178,4,The nasi goreng at the restaurant tasted bland,food
+R0179,3,"Close to the train station, super for business trips",location
+R0180,3,Room service dinner arrived cold and disappointing,food
+R0181,4,Room service dinner arrived cold and bland,food
+R0182,3,"Too expensive for what you get, disappointing",price
+R0183,3,The room was great clean and the sheets smelled fresh,cleanliness
+R0184,3,The nasi goreng at the restaurant tasted bland,food
+R0185,2,The room was amazing clean and the sheets smelled fresh,cleanliness
+R0186,4,"Too expensive for what you get, disappointing",price
+R0187,3,"Too expensive for what you get, dirty",price
+R0188,4,Morning meal options were limited after 9am,food
+R0189,3,"Walking distance to the beach, really location",location
+R0190,3,"Walking distance to the beach, super location",location
+R0191,2,"Walking distance to the beach, amazing location",location
+R0192,3,"Far from the city center, taxi was terrible",location
+R0193,5,Room service dinner arrived cold and bland. front desk staff were great friendly and helpful,food
+R0194,5,Room service dinner arrived cold and awful. the room was really clean and the sheets smelled fresh,food
+R0195,5,Not sure it was worth what we paid,price
+R0196,2,Room service dinner arrived cold and bland. too expensive for what you get,food
+R0197,1,Concierge gave really tips for local food. walking distance to the beach,staff
+R0198,5,Found dust under the bed and the bathroom was awful,cleanliness
+R0199,5,The room was great clean and the sheets smelled fresh,cleanliness
+R0200,4,"Close to the train station, very for business trips",location
+R0201,3,Not sure it was worth what we paid,price
+R0202,1,"Far from the city center, taxi was disappointing",location
+R0203,1,"Close to the train station, amazing for business trips",location
+R0204,4,Getting here at night was a hassle,location
+R0205,5,The nasi goreng at the restaurant tasted disappointing,food
+R0206,1,"Far from the city center, taxi was bland",location
+R0207,4,Found dust under the bed and the bathroom was disappointing,cleanliness
+R0208,3,"Walking distance to the beach, very location",location
+R0209,2,The nasi goreng at the restaurant tasted awful,food
+R0210,4,"Too expensive for what you get, bland",price
+R0211,5,"Housekeeping did a great job, spotless towels",cleanliness
+R0212,5,Front desk staff were great friendly and helpful. walking distance to the beach,staff
+R0213,1,"Far from the city center, taxi was awful. hidden fees at checkout were disappointing",location
+R0214,5,The nasi goreng at the restaurant tasted awful,food
+R0215,4,"Far from the city center, taxi was dirty",location
+R0216,2,Room service dinner arrived cold and awful,food
+R0217,4,Not sure it was worth what we paid,price
+R0218,5,"Walking distance to the beach, super location",location
+R0219,4,"Great value for money, great deal",price
+R0220,2,Hidden fees at checkout were awful,price
+R0221,5,Concierge gave really tips for local food,staff
+R0222,4,The nasi goreng at the restaurant tasted bland,food
+R0223,4,"Great value for money, amazing deal",price
+R0224,1,"Close to the train station, really for business trips",location
+R0225,2,Concierge gave great tips for local food,staff
+R0226,3,Front desk staff were great friendly and helpful,staff
+R0227,4,Not sure it was worth what we paid,price
+R0228,3,Breakfast buffet was very with many local dishes,food
+R0229,4,"Housekeeping did a very job, spotless towels",cleanliness
+R0230,5,Room service dinner arrived cold and terrible,food
+R0231,4,The nasi goreng at the restaurant tasted bland,food
+R0232,5,The nasi goreng at the restaurant tasted awful,food
+R0233,3,Room service dinner arrived cold and bland. front desk staff were really friendly and helpful,food
+R0234,2,"Too expensive for what you get, terrible",price
+R0235,1,The nasi goreng at the restaurant tasted bland,food
+R0236,1,Concierge gave super tips for local food,staff
+R0237,2,"Far from the city center, taxi was terrible",location
+R0238,5,The nasi goreng at the restaurant tasted dirty,food
+R0239,3,Hidden fees at checkout were dirty,price
+R0240,2,Room service dinner arrived cold and dirty,food
+R0241,1,Concierge gave great tips for local food,staff
+R0242,3,The room was very clean and the sheets smelled fresh. front desk staff were really friendly and helpful,cleanliness
+R0243,1,Getting here at night was a hassle,location
+R0244,3,"Housekeeping did a great job, spotless towels",cleanliness
+R0245,5,"Far from the city center, taxi was bland",location
+R0246,4,Not sure it was worth what we paid,price
+R0247,2,The room was very clean and the sheets smelled fresh,cleanliness
+R0248,5,The room was great clean and the sheets smelled fresh,cleanliness
+R0249,1,"Too expensive for what you get, terrible",price
+R0250,1,The nasi goreng at the restaurant tasted terrible,food
+R0251,3,"Great value for money, super deal",price
+R0252,4,"Too expensive for what you get, disappointing. housekeeping did a really job",price
+R0253,3,Concierge gave very tips for local food,staff
+R0254,4,The receptionist was disappointing rude when we checked in,staff
+R0255,2,The room was amazing clean and the sheets smelled fresh,cleanliness
+R0256,5,"Close to the train station, really for business trips. found dust under the bed and the bathroom was awful",location
+R0257,4,The receptionist was dirty rude when we checked in,staff
+R0258,1,Front desk staff were very friendly and helpful. room service dinner arrived cold and dirty,staff
+R0259,1,Morning meal options were limited after 9am,food
+R0260,1,The nasi goreng at the restaurant tasted disappointing,food
+R0261,4,"Far from the city center, taxi was awful",location
+R0262,2,"Close to the train station, great for business trips",location
+R0263,2,"Great value for money, super deal",price
+R0264,1,"Housekeeping did a amazing job, spotless towels",cleanliness
+R0265,3,The room was super clean and the sheets smelled fresh,cleanliness
+R0266,1,The receptionist was awful rude when we checked in,staff
+R0267,3,"Housekeeping did a very job, spotless towels",cleanliness
+R0268,5,The room was really clean and the sheets smelled fresh,cleanliness
+R0269,1,Breakfast buffet was really with many local dishes,food
+R0270,1,"Too expensive for what you get, awful",price
+R0271,3,The nasi goreng at the restaurant tasted terrible,food
+R0272,1,Room service dinner arrived cold and dirty,food
+R0273,1,"Far from the city center, taxi was terrible",location
+R0274,3,The room was amazing clean and the sheets smelled fresh,cleanliness
+R0275,4,The room was great clean and the sheets smelled fresh,cleanliness
+R0276,1,"Far from the city center, taxi was awful",location
+R0277,5,"Too expensive for what you get, terrible. room service dinner arrived cold and bland",price
+R0278,5,"Walking distance to the beach, very location",location
+R0279,5,Found dust under the bed and the bathroom was dirty,cleanliness
+R0280,4,Front desk staff were really friendly and helpful,staff
+R0281,4,The receptionist was disappointing rude when we checked in,staff
+R0282,3,Room service dinner arrived cold and dirty,food
+R0283,4,"Great value for money, great deal. room service dinner arrived cold and disappointing",price
+R0284,5,Found dust under the bed and the bathroom was bland. far from the city center,cleanliness
+R0285,2,"Too expensive for what you get, bland",price
+R0286,1,Concierge gave really tips for local food. the room was really clean and the sheets smelled fresh,staff
+R0287,4,The nasi goreng at the restaurant tasted terrible. close to the train station,food
+R0288,2,"Too expensive for what you get, disappointing",price
+R0289,2,"Close to the train station, really for business trips",location
+R0290,5,The receptionist was bland rude when we checked in,staff
+R0291,5,"Too expensive for what you get, disappointing",price
+R0292,1,"Far from the city center, taxi was bland",location
+R0293,5,The receptionist was terrible rude when we checked in,staff
+R0294,1,The room was really clean and the sheets smelled fresh. front desk staff were really friendly and helpful,cleanliness
+R0295,1,Concierge gave great tips for local food,staff
+R0296,1,The room was really clean and the sheets smelled fresh,cleanliness
+R0297,2,"Close to the train station, great for business trips",location
+R0298,5,"Walking distance to the beach, very location",location
+R0299,1,"Far from the city center, taxi was awful",location
+R0300,3,Room service dinner arrived cold and bland,food
+R0301,5,"Great value for money, super deal",price
+R0302,4,"Far from the city center, taxi was disappointing",location
+R0303,5,The room was very clean and the sheets smelled fresh,cleanliness
+R0304,2,Getting here at night was a hassle,location
+R0305,5,"Great value for money, very deal",price
+R0306,3,Breakfast buffet was very with many local dishes,food
+R0307,2,The room was very clean and the sheets smelled fresh,cleanliness
+R0308,1,Hidden fees at checkout were disappointing. breakfast buffet was really with many local dishes,price
+R0309,4,Room service dinner arrived cold and disappointing,food
+R0310,3,"Great value for money, very deal",price
+R0311,5,"Great value for money, very deal",price
+R0312,2,"Walking distance to the beach, great location",location
+R0313,3,Not sure it was worth what we paid,price
+R0314,2,"Great value for money, super deal",price
+R0315,2,Room service dinner arrived cold and terrible. close to the train station,food
+R0316,4,Found dust under the bed and the bathroom was disappointing,cleanliness
+R0317,2,Room service dinner arrived cold and awful,food
+R0318,4,"Too expensive for what you get, bland. the receptionist was dirty rude when we checked in",price
+R0319,1,"Walking distance to the beach, great location",location
+R0320,2,"Housekeeping did a very job, spotless towels. breakfast buffet was great with many local dishes",cleanliness
+R0321,3,Room service dinner arrived cold and awful,food
+R0322,2,The receptionist was bland rude when we checked in,staff
+R0323,2,Honestly the bathroom smelled weird the whole stay,cleanliness
+R0324,5,Concierge gave very tips for local food,staff
+R0325,3,"Far from the city center, taxi was dirty",location
+R0326,2,The room was really clean and the sheets smelled fresh,cleanliness
+R0327,4,"Too expensive for what you get, terrible",price
+R0328,1,"Walking distance to the beach, really location. the nasi goreng at the restaurant tasted disappointing",location
+R0329,1,"Walking distance to the beach, really location",location
+R0330,2,"Far from the city center, taxi was disappointing",location
+R0331,1,Concierge gave amazing tips for local food,staff
+R0332,1,Honestly the bathroom smelled weird the whole stay,cleanliness
+R0333,1,Front desk staff were great friendly and helpful. breakfast buffet was amazing with many local dishes,staff
+R0334,2,"Too expensive for what you get, bland",price
+R0335,3,The room was really clean and the sheets smelled fresh,cleanliness
+R0336,4,Front desk staff were very friendly and helpful,staff
+R0337,5,Concierge gave great tips for local food,staff
+R0338,2,Breakfast buffet was great with many local dishes,food
+R0339,2,The receptionist was disappointing rude when we checked in,staff
+R0340,2,Found dust under the bed and the bathroom was disappointing,cleanliness
+R0341,4,"Too expensive for what you get, bland",price
+R0342,4,Nobody answered the phone when we called downstairs,staff
+R0343,4,"Walking distance to the beach, amazing location",location
+R0344,5,"Housekeeping did a great job, spotless towels",cleanliness
+R0345,4,Room service dinner arrived cold and dirty. great value for money,food
+R0346,5,Breakfast buffet was very with many local dishes,food
+R0347,3,Breakfast buffet was amazing with many local dishes,food
+R0348,2,Honestly the bathroom smelled weird the whole stay,cleanliness
+R0349,1,Front desk staff were very friendly and helpful,staff
+R0350,2,Found dust under the bed and the bathroom was bland. concierge gave great tips for local food,cleanliness
+R0351,1,Room service dinner arrived cold and terrible,food
+R0352,5,"Too expensive for what you get, disappointing",price
+R0353,4,Front desk staff were really friendly and helpful,staff
+R0354,2,Not sure it was worth what we paid,price
+R0355,5,Front desk staff were very friendly and helpful,staff
+R0356,4,"Housekeeping did a great job, spotless towels",cleanliness
+R0357,3,The room was amazing clean and the sheets smelled fresh,cleanliness
+R0358,1,"Far from the city center, taxi was dirty",location
+R0359,2,The nasi goreng at the restaurant tasted disappointing,food
+R0360,5,"Housekeeping did a really job, spotless towels",cleanliness
+R0361,5,Concierge gave really tips for local food,staff
+R0362,3,"Close to the train station, great for business trips",location
+R0363,2,"Walking distance to the beach, very location. great value for money",location
+R0364,2,The nasi goreng at the restaurant tasted dirty. front desk staff were great friendly and helpful,food
+R0365,1,Front desk staff were great friendly and helpful,staff
+R0366,2,"Housekeeping did a super job, spotless towels",cleanliness
+R0367,1,Found dust under the bed and the bathroom was terrible,cleanliness
+R0368,5,The room was super clean and the sheets smelled fresh. close to the train station,cleanliness
+R0369,5,"Great value for money, super deal",price
+R0370,2,Room service dinner arrived cold and dirty,food
+R0371,2,"Walking distance to the beach, very location. concierge gave amazing tips for local food",location
+R0372,3,Hidden fees at checkout were terrible,price
+R0373,2,Front desk staff were amazing friendly and helpful. hidden fees at checkout were terrible,staff
+R0374,3,The nasi goreng at the restaurant tasted dirty. hidden fees at checkout were dirty,food
+R0375,1,Breakfast buffet was really with many local dishes,food
+R0376,2,"Close to the train station, great for business trips",location
+R0377,5,Hidden fees at checkout were awful,price
+R0378,5,Morning meal options were limited after 9am,food
+R0379,4,Hidden fees at checkout were disappointing,price
+R0380,3,"Too expensive for what you get, disappointing",price
+R0381,1,"Great value for money, great deal",price
+R0382,4,The nasi goreng at the restaurant tasted awful,food
+R0383,3,Concierge gave very tips for local food. the nasi goreng at the restaurant tasted dirty,staff
+R0384,3,"Too expensive for what you get, bland. walking distance to the beach",price
+R0385,4,Hidden fees at checkout were disappointing. found dust under the bed and the bathroom was disappointing,price
+R0386,3,"Great value for money, amazing deal",price
+R0387,2,"Far from the city center, taxi was disappointing",location
+R0388,3,"Housekeeping did a great job, spotless towels",cleanliness
+R0389,5,Hidden fees at checkout were disappointing,price
+R0390,5,"Great value for money, super deal",price
+R0391,5,The nasi goreng at the restaurant tasted bland,food
+R0392,5,Room service dinner arrived cold and bland,food
+R0393,1,"Far from the city center, taxi was dirty. found dust under the bed and the bathroom was awful",location
+R0394,1,Room service dinner arrived cold and disappointing,food
+R0395,5,"Too expensive for what you get, awful",price
+R0396,4,Hidden fees at checkout were terrible,price
+R0397,5,Hidden fees at checkout were disappointing. the receptionist was disappointing rude when we checked in,price
+R0398,4,"Great value for money, great deal. far from the city center",price
+R0399,5,Room service dinner arrived cold and awful,food
+R0400,5,Front desk staff were very friendly and helpful,staff
+R0401,3,The nasi goreng at the restaurant tasted disappointing. close to the train station,food
+R0402,2,The nasi goreng at the restaurant tasted terrible,food
+R0403,5,Front desk staff were amazing friendly and helpful. the nasi goreng at the restaurant tasted terrible,staff
+R0404,4,The receptionist was bland rude when we checked in,staff
+R0405,1,Hidden fees at checkout were terrible. found dust under the bed and the bathroom was bland,price
+R0406,5,The room was super clean and the sheets smelled fresh,cleanliness
+R0407,3,The receptionist was awful rude when we checked in. housekeeping did a really job,staff
+R0408,3,Morning meal options were limited after 9am,food
+R0409,3,Front desk staff were super friendly and helpful,staff
+R0410,5,"Great value for money, very deal",price
+R0411,4,Room service dinner arrived cold and bland,food
+R0412,5,"Walking distance to the beach, amazing location",location
+R0413,2,The nasi goreng at the restaurant tasted bland,food
+R0414,2,Concierge gave very tips for local food,staff
+R0415,4,Room service dinner arrived cold and disappointing. too expensive for what you get,food
+R0416,5,The room was super clean and the sheets smelled fresh,cleanliness
+R0417,1,Room service dinner arrived cold and dirty,food
+R0418,5,Front desk staff were really friendly and helpful,staff
+R0419,5,"Too expensive for what you get, awful",price
+R0420,1,The nasi goreng at the restaurant tasted disappointing,food
+R0421,3,Hidden fees at checkout were disappointing. breakfast buffet was very with many local dishes,price
+R0422,2,"Close to the train station, really for business trips",location
+R0423,1,Breakfast buffet was very with many local dishes,food
+R0424,1,Hidden fees at checkout were terrible. the room was super clean and the sheets smelled fresh,price
+R0425,4,The nasi goreng at the restaurant tasted terrible,food
+R0426,4,"Great value for money, very deal",price
+R0427,4,Nobody answered the phone when we called downstairs,staff
+R0428,5,"Close to the train station, really for business trips",location
+R0429,3,"Housekeeping did a great job, spotless towels",cleanliness
+R0430,3,Hidden fees at checkout were awful,price
+R0431,1,Nobody answered the phone when we called downstairs,staff
+R0432,1,The nasi goreng at the restaurant tasted bland. concierge gave very tips for local food,food
+R0433,2,"Walking distance to the beach, super location",location
+R0434,3,Concierge gave super tips for local food,staff
+R0435,1,Found dust under the bed and the bathroom was disappointing,cleanliness
+R0436,4,"Close to the train station, very for business trips. hidden fees at checkout were awful",location
+R0437,4,"Far from the city center, taxi was dirty",location
+R0438,1,Breakfast buffet was super with many local dishes,food
+R0439,5,Breakfast buffet was amazing with many local dishes,food
+R0440,3,Concierge gave very tips for local food,staff
+R0441,5,The room was very clean and the sheets smelled fresh,cleanliness
+R0442,3,Getting here at night was a hassle,location
+R0443,1,The receptionist was awful rude when we checked in,staff
+R0444,4,The receptionist was awful rude when we checked in. the room was great clean and the sheets smelled fresh,staff
+R0445,1,"Walking distance to the beach, amazing location",location
+R0446,1,"Walking distance to the beach, very location",location
+R0447,5,The nasi goreng at the restaurant tasted bland,food
+R0448,2,"Too expensive for what you get, awful",price
+R0449,2,"Close to the train station, amazing for business trips",location
+R0450,4,The receptionist was dirty rude when we checked in,staff
+R0451,4,"Housekeeping did a really job, spotless towels",cleanliness
+R0452,3,Hidden fees at checkout were dirty,price
+R0453,4,"Too expensive for what you get, terrible",price
+R0454,4,Not sure it was worth what we paid,price
+R0455,4,The nasi goreng at the restaurant tasted disappointing,food
+R0456,5,The receptionist was bland rude when we checked in. walking distance to the beach,staff
+R0457,2,"Walking distance to the beach, amazing location",location
+R0458,2,"Close to the train station, super for business trips. great value for money",location
+R0459,4,Found dust under the bed and the bathroom was dirty. too expensive for what you get,cleanliness
+R0460,4,Concierge gave very tips for local food,staff
+R0461,4,The room was great clean and the sheets smelled fresh,cleanliness
+R0462,3,Front desk staff were great friendly and helpful,staff
+R0463,1,Found dust under the bed and the bathroom was terrible. walking distance to the beach,cleanliness
+R0464,4,The room was great clean and the sheets smelled fresh,cleanliness
+R0465,3,Honestly the bathroom smelled weird the whole stay,cleanliness
+R0466,2,The room was amazing clean and the sheets smelled fresh,cleanliness
+R0467,3,Honestly the bathroom smelled weird the whole stay,cleanliness
+R0468,2,"Great value for money, super deal. far from the city center",price
+R0469,3,"Great value for money, great deal",price
+R0470,4,"Walking distance to the beach, really location",location
+R0471,2,"Too expensive for what you get, terrible",price
+R0472,1,"Far from the city center, taxi was terrible",location
+R0473,2,Found dust under the bed and the bathroom was terrible. walking distance to the beach,cleanliness
+R0474,2,The nasi goreng at the restaurant tasted dirty,food
+R0475,2,The nasi goreng at the restaurant tasted bland. walking distance to the beach,food
+R0476,1,"Walking distance to the beach, great location",location
+R0477,5,Front desk staff were great friendly and helpful,staff
+R0478,2,"Too expensive for what you get, disappointing",price
+R0479,1,The receptionist was disappointing rude when we checked in. the nasi goreng at the restaurant tasted awful,staff
+R0480,1,The receptionist was dirty rude when we checked in. housekeeping did a very job,staff
+R0481,5,Morning meal options were limited after 9am,food
+R0482,2,Concierge gave really tips for local food. hidden fees at checkout were bland,staff
+R0483,5,Room service dinner arrived cold and dirty,food
+R0484,1,"Too expensive for what you get, dirty",price
+R0485,5,Found dust under the bed and the bathroom was bland,cleanliness
+R0486,1,"Too expensive for what you get, terrible",price
+R0487,3,Concierge gave really tips for local food,staff
+R0488,1,The receptionist was terrible rude when we checked in,staff
+R0489,4,"Housekeeping did a really job, spotless towels",cleanliness
+R0490,5,Breakfast buffet was amazing with many local dishes,food
+R0491,3,"Far from the city center, taxi was awful",location
+R0492,2,The room was amazing clean and the sheets smelled fresh,cleanliness
+R0493,5,Room service dinner arrived cold and dirty,food
+R0494,1,Concierge gave really tips for local food,staff
+R0495,2,The nasi goreng at the restaurant tasted bland,food
+R0496,4,Honestly the bathroom smelled weird the whole stay,cleanliness
+R0497,2,"Great value for money, really deal. concierge gave really tips for local food",price
+R0498,4,"Walking distance to the beach, great location. hidden fees at checkout were dirty",location
+R0499,1,The receptionist was disappointing rude when we checked in,staff
+R0500,4,"Walking distance to the beach, great location",location
+R0501,3,"Great value for money, great deal. housekeeping did a really job",price
+R0502,5,The receptionist was terrible rude when we checked in. too expensive for what you get,staff
+R0503,5,"Too expensive for what you get, dirty",price
+R0504,3,The room was really clean and the sheets smelled fresh,cleanliness
+R0505,4,The receptionist was bland rude when we checked in. found dust under the bed and the bathroom was dirty,staff
+R0506,1,Honestly the bathroom smelled weird the whole stay,cleanliness
+R0507,3,"Housekeeping did a super job, spotless towels",cleanliness
+R0508,1,Concierge gave great tips for local food. close to the train station,staff
+R0509,2,The receptionist was dirty rude when we checked in. close to the train station,staff
+R0510,1,Front desk staff were amazing friendly and helpful,staff
+R0511,5,Found dust under the bed and the bathroom was terrible,cleanliness
+R0512,5,Room service dinner arrived cold and disappointing,food
+R0513,4,"Walking distance to the beach, amazing location. front desk staff were super friendly and helpful",location
+R0514,3,"Too expensive for what you get, terrible",price
+R0515,3,Hidden fees at checkout were disappointing,price
+R0516,1,Room service dinner arrived cold and awful. the room was very clean and the sheets smelled fresh,food
+R0517,4,Found dust under the bed and the bathroom was dirty,cleanliness
+R0518,1,Hidden fees at checkout were disappointing,price
+R0519,4,"Great value for money, very deal",price
+R0520,2,Concierge gave really tips for local food,staff
+R0521,4,"Far from the city center, taxi was dirty",location
+R0522,1,"Great value for money, super deal",price
+R0523,3,Concierge gave very tips for local food,staff
+R0524,4,The receptionist was awful rude when we checked in,staff
+R0525,2,Hidden fees at checkout were disappointing,price
+R0526,1,"Housekeeping did a really job, spotless towels",cleanliness
+R0527,3,"Housekeeping did a very job, spotless towels",cleanliness
+R0528,2,The nasi goreng at the restaurant tasted awful,food
+R0529,1,"Housekeeping did a very job, spotless towels. far from the city center",cleanliness
+R0530,2,Breakfast buffet was amazing with many local dishes,food
+R0531,1,"Too expensive for what you get, disappointing",price
+R0532,4,Concierge gave amazing tips for local food,staff
+R0533,2,Room service dinner arrived cold and awful. the receptionist was bland rude when we checked in,food
+R0534,2,Room service dinner arrived cold and disappointing,food
+R0535,3,Found dust under the bed and the bathroom was bland,cleanliness
+R0536,1,"Too expensive for what you get, bland",price
+R0537,4,The nasi goreng at the restaurant tasted bland,food
+R0538,4,"Great value for money, really deal",price
+R0539,5,"Walking distance to the beach, really location. concierge gave great tips for local food",location
+R0540,3,"Far from the city center, taxi was bland",location
+R0541,5,"Walking distance to the beach, really location",location
+R0542,1,The room was super clean and the sheets smelled fresh,cleanliness
+R0543,5,Found dust under the bed and the bathroom was bland,cleanliness
+R0544,3,Room service dinner arrived cold and terrible,food
+R0545,3,"Too expensive for what you get, bland",price
+R0546,4,"Far from the city center, taxi was bland",location
+R0547,3,"Close to the train station, really for business trips",location
+R0548,2,The receptionist was terrible rude when we checked in,staff
+R0549,3,"Far from the city center, taxi was dirty",location
+R0550,1,"Housekeeping did a very job, spotless towels",cleanliness
+R0551,2,Morning meal options were limited after 9am,food
+R0552,1,"Too expensive for what you get, terrible. far from the city center",price
+R0553,1,Front desk staff were really friendly and helpful,staff
+R0554,1,"Far from the city center, taxi was terrible",location
+R0555,5,"Walking distance to the beach, amazing location",location
+R0556,1,The receptionist was dirty rude when we checked in,staff
+R0557,3,Breakfast buffet was very with many local dishes,food
+R0558,5,Found dust under the bed and the bathroom was disappointing,cleanliness
+R0559,3,The nasi goreng at the restaurant tasted dirty,food
+R0560,3,"Too expensive for what you get, disappointing",price
+R0561,4,Not sure it was worth what we paid,price
+R0562,4,"Housekeeping did a amazing job, spotless towels",cleanliness
+R0563,5,The receptionist was terrible rude when we checked in,staff
+R0564,1,"Great value for money, very deal",price
+R0565,1,Breakfast buffet was super with many local dishes,food
+R0566,5,"Great value for money, really deal",price
+R0567,2,The receptionist was disappointing rude when we checked in,staff
+R0568,4,The room was really clean and the sheets smelled fresh. room service dinner arrived cold and awful,cleanliness
+R0569,5,"Walking distance to the beach, amazing location",location
+R0570,2,Breakfast buffet was amazing with many local dishes,food
+R0571,4,Breakfast buffet was amazing with many local dishes,food
+R0572,2,Honestly the bathroom smelled weird the whole stay,cleanliness
+R0573,4,"Housekeeping did a great job, spotless towels",cleanliness
+R0574,3,Hidden fees at checkout were dirty,price
+R0575,1,Concierge gave very tips for local food. housekeeping did a great job,staff
+R0576,3,Hidden fees at checkout were bland,price
+R0577,4,The nasi goreng at the restaurant tasted bland,food
+R0578,5,Found dust under the bed and the bathroom was awful. the nasi goreng at the restaurant tasted terrible,cleanliness
+R0579,2,The nasi goreng at the restaurant tasted awful,food
+R0580,3,The receptionist was bland rude when we checked in,staff
+R0581,3,Hidden fees at checkout were bland,price
+R0582,1,"Far from the city center, taxi was dirty",location
+R0583,2,"Too expensive for what you get, terrible",price
+R0584,4,"Housekeeping did a really job, spotless towels",cleanliness
+R0585,4,"Housekeeping did a really job, spotless towels",cleanliness
+R0586,3,Honestly the bathroom smelled weird the whole stay,cleanliness
+R0587,1,Room service dinner arrived cold and awful,food
+R0588,4,Hidden fees at checkout were awful,price
+R0589,2,"Too expensive for what you get, awful",price
+R0590,4,Found dust under the bed and the bathroom was disappointing. front desk staff were really friendly and helpful,cleanliness
+R0591,3,Room service dinner arrived cold and disappointing,food
+R0592,1,Nobody answered the phone when we called downstairs,staff
+R0593,2,"Too expensive for what you get, dirty",price
+R0594,1,Concierge gave amazing tips for local food,staff
+R0595,3,"Housekeeping did a super job, spotless towels. breakfast buffet was amazing with many local dishes",cleanliness
+R0596,1,Honestly the bathroom smelled weird the whole stay,cleanliness
+R0597,1,Room service dinner arrived cold and bland,food
+R0598,1,"Walking distance to the beach, super location",location
+R0599,1,"Close to the train station, very for business trips. great value for money",location

@@ -1,0 +1,19 @@
+Reviews: 600 | decided by rules: 84.5% | sent to LLM: 15.5%
+Rule-layer accuracy on decided reviews: 94.1%
+
+             precision  recall  support
+topic                                  
+cleanliness       0.97    0.92      131
+staff             0.91    0.96      108
+food              0.92    0.98      130
+location          0.94    0.98      106
+price             0.98    0.87      125
+
+Negative share by topic:
+             reviews negative_share
+topic                              
+location         110            48%
+staff            113            41%
+food             138            41%
+price            114            40%
+cleanliness      125            36%

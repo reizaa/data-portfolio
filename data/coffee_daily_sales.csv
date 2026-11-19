@@ -1,0 +1,2563 @@
+date,store,item,cups_sold,revenue
+2026-05-01,Malioboro,Es Kopi Susu,8,200000
+2026-05-01,Malioboro,Americano,9,198000
+2026-05-01,Malioboro,Latte,16,480000
+2026-05-01,Malioboro,Matcha Latte,19,608000
+2026-05-01,Malioboro,Croissant,16,448000
+2026-05-01,Malioboro,Banana Bread,10,240000
+2026-05-02,Malioboro,Es Kopi Susu,20,500000
+2026-05-02,Malioboro,Americano,10,220000
+2026-05-02,Malioboro,Latte,18,540000
+2026-05-02,Malioboro,Matcha Latte,14,448000
+2026-05-02,Malioboro,Croissant,26,728000
+2026-05-02,Malioboro,Banana Bread,11,264000
+2026-05-03,Malioboro,Es Kopi Susu,19,475000
+2026-05-03,Malioboro,Americano,13,286000
+2026-05-03,Malioboro,Latte,18,540000
+2026-05-03,Malioboro,Matcha Latte,29,928000
+2026-05-03,Malioboro,Croissant,11,308000
+2026-05-03,Malioboro,Banana Bread,17,408000
+2026-05-04,Malioboro,Es Kopi Susu,9,225000
+2026-05-04,Malioboro,Americano,15,330000
+2026-05-04,Malioboro,Latte,7,210000
+2026-05-04,Malioboro,Matcha Latte,12,384000
+2026-05-04,Malioboro,Croissant,12,336000
+2026-05-04,Malioboro,Banana Bread,13,312000
+2026-05-05,Malioboro,Es Kopi Susu,10,250000
+2026-05-05,Malioboro,Americano,14,308000
+2026-05-05,Malioboro,Latte,14,420000
+2026-05-05,Malioboro,Matcha Latte,11,352000
+2026-05-05,Malioboro,Croissant,12,336000
+2026-05-05,Malioboro,Banana Bread,10,240000
+2026-05-06,Malioboro,Es Kopi Susu,22,550000
+2026-05-06,Malioboro,Americano,18,396000
+2026-05-06,Malioboro,Latte,10,300000
+2026-05-06,Malioboro,Matcha Latte,21,672000
+2026-05-06,Malioboro,Croissant,13,364000
+2026-05-06,Malioboro,Banana Bread,7,168000
+2026-05-07,Malioboro,Es Kopi Susu,9,225000
+2026-05-07,Malioboro,Americano,8,176000
+2026-05-07,Malioboro,Latte,16,480000
+2026-05-07,Malioboro,Matcha Latte,11,352000
+2026-05-07,Malioboro,Croissant,11,308000
+2026-05-07,Malioboro,Banana Bread,7,168000
+2026-05-08,Malioboro,Es Kopi Susu,14,350000
+2026-05-08,Malioboro,Americano,14,308000
+2026-05-08,Malioboro,Latte,16,480000
+2026-05-08,Malioboro,Matcha Latte,12,384000
+2026-05-08,Malioboro,Croissant,15,420000
+2026-05-08,Malioboro,Banana Bread,13,312000
+2026-05-09,Malioboro,Es Kopi Susu,18,450000
+2026-05-09,Malioboro,Americano,23,506000
+2026-05-09,Malioboro,Latte,18,540000
+2026-05-09,Malioboro,Matcha Latte,18,576000
+2026-05-09,Malioboro,Croissant,7,196000
+2026-05-09,Malioboro,Banana Bread,23,552000
+2026-05-10,Malioboro,Es Kopi Susu,20,500000
+2026-05-10,Malioboro,Americano,16,352000
+2026-05-10,Malioboro,Latte,18,540000
+2026-05-10,Malioboro,Matcha Latte,24,768000
+2026-05-10,Malioboro,Croissant,18,504000
+2026-05-10,Malioboro,Banana Bread,11,264000
+2026-05-11,Malioboro,Es Kopi Susu,7,175000
+2026-05-11,Malioboro,Americano,15,330000
+2026-05-11,Malioboro,Latte,16,480000
+2026-05-11,Malioboro,Matcha Latte,16,512000
+2026-05-11,Malioboro,Croissant,10,280000
+2026-05-11,Malioboro,Banana Bread,14,336000
+2026-05-12,Malioboro,Es Kopi Susu,4,100000
+2026-05-12,Malioboro,Americano,10,220000
+2026-05-12,Malioboro,Latte,11,330000
+2026-05-12,Malioboro,Matcha Latte,11,352000
+2026-05-12,Malioboro,Croissant,9,252000
+2026-05-12,Malioboro,Banana Bread,12,288000
+2026-05-13,Malioboro,Es Kopi Susu,12,300000
+2026-05-13,Malioboro,Americano,7,154000
+2026-05-13,Malioboro,Latte,13,390000
+2026-05-13,Malioboro,Matcha Latte,19,608000
+2026-05-13,Malioboro,Croissant,19,532000
+2026-05-13,Malioboro,Banana Bread,12,288000
+2026-05-14,Malioboro,Es Kopi Susu,16,400000
+2026-05-14,Malioboro,Americano,11,242000
+2026-05-14,Malioboro,Latte,19,570000
+2026-05-14,Malioboro,Matcha Latte,13,416000
+2026-05-14,Malioboro,Croissant,16,448000
+2026-05-14,Malioboro,Banana Bread,22,528000
+2026-05-15,Malioboro,Es Kopi Susu,11,275000
+2026-05-15,Malioboro,Americano,7,154000
+2026-05-15,Malioboro,Latte,7,210000
+2026-05-15,Malioboro,Matcha Latte,9,288000
+2026-05-15,Malioboro,Croissant,16,448000
+2026-05-15,Malioboro,Banana Bread,11,264000
+2026-05-16,Malioboro,Es Kopi Susu,20,500000
+2026-05-16,Malioboro,Americano,12,264000
+2026-05-16,Malioboro,Latte,24,720000
+2026-05-16,Malioboro,Matcha Latte,20,640000
+2026-05-16,Malioboro,Croissant,23,644000
+2026-05-16,Malioboro,Banana Bread,20,480000
+2026-05-17,Malioboro,Es Kopi Susu,27,675000
+2026-05-17,Malioboro,Americano,22,484000
+2026-05-17,Malioboro,Latte,19,570000
+2026-05-17,Malioboro,Matcha Latte,8,256000
+2026-05-17,Malioboro,Croissant,25,700000
+2026-05-17,Malioboro,Banana Bread,20,480000
+2026-05-18,Malioboro,Es Kopi Susu,15,375000
+2026-05-18,Malioboro,Americano,28,616000
+2026-05-18,Malioboro,Latte,7,210000
+2026-05-18,Malioboro,Matcha Latte,11,352000
+2026-05-18,Malioboro,Croissant,7,196000
+2026-05-18,Malioboro,Banana Bread,9,216000
+2026-05-19,Malioboro,Es Kopi Susu,11,275000
+2026-05-19,Malioboro,Americano,19,418000
+2026-05-19,Malioboro,Latte,3,90000
+2026-05-19,Malioboro,Matcha Latte,13,416000
+2026-05-19,Malioboro,Croissant,14,392000
+2026-05-19,Malioboro,Banana Bread,20,480000
+2026-05-20,Malioboro,Es Kopi Susu,18,450000
+2026-05-20,Malioboro,Americano,11,242000
+2026-05-20,Malioboro,Latte,10,300000
+2026-05-20,Malioboro,Matcha Latte,10,320000
+2026-05-20,Malioboro,Croissant,7,196000
+2026-05-20,Malioboro,Banana Bread,10,240000
+2026-05-21,Malioboro,Es Kopi Susu,14,350000
+2026-05-21,Malioboro,Americano,10,220000
+2026-05-21,Malioboro,Latte,13,390000
+2026-05-21,Malioboro,Matcha Latte,13,416000
+2026-05-21,Malioboro,Croissant,18,504000
+2026-05-21,Malioboro,Banana Bread,15,360000
+2026-05-22,Malioboro,Es Kopi Susu,13,325000
+2026-05-22,Malioboro,Americano,17,374000
+2026-05-22,Malioboro,Latte,21,630000
+2026-05-22,Malioboro,Matcha Latte,12,384000
+2026-05-22,Malioboro,Croissant,8,224000
+2026-05-22,Malioboro,Banana Bread,15,360000
+2026-05-23,Malioboro,Es Kopi Susu,22,550000
+2026-05-23,Malioboro,Americano,24,528000
+2026-05-23,Malioboro,Latte,18,540000
+2026-05-23,Malioboro,Matcha Latte,17,544000
+2026-05-23,Malioboro,Croissant,13,364000
+2026-05-23,Malioboro,Banana Bread,10,240000
+2026-05-24,Malioboro,Es Kopi Susu,21,525000
+2026-05-24,Malioboro,Americano,23,506000
+2026-05-24,Malioboro,Latte,17,510000
+2026-05-24,Malioboro,Matcha Latte,21,672000
+2026-05-24,Malioboro,Croissant,16,448000
+2026-05-24,Malioboro,Banana Bread,22,528000
+2026-05-25,Malioboro,Es Kopi Susu,16,400000
+2026-05-25,Malioboro,Americano,17,374000
+2026-05-25,Malioboro,Latte,10,300000
+2026-05-25,Malioboro,Matcha Latte,12,384000
+2026-05-25,Malioboro,Croissant,16,448000
+2026-05-25,Malioboro,Banana Bread,22,528000
+2026-05-26,Malioboro,Es Kopi Susu,18,450000
+2026-05-26,Malioboro,Americano,10,220000
+2026-05-26,Malioboro,Latte,5,150000
+2026-05-26,Malioboro,Matcha Latte,10,320000
+2026-05-26,Malioboro,Croissant,19,532000
+2026-05-26,Malioboro,Banana Bread,10,240000
+2026-05-27,Malioboro,Es Kopi Susu,9,225000
+2026-05-27,Malioboro,Americano,14,308000
+2026-05-27,Malioboro,Latte,16,480000
+2026-05-27,Malioboro,Matcha Latte,20,640000
+2026-05-27,Malioboro,Croissant,15,420000
+2026-05-27,Malioboro,Banana Bread,12,288000
+2026-05-28,Malioboro,Es Kopi Susu,16,400000
+2026-05-28,Malioboro,Americano,15,330000
+2026-05-28,Malioboro,Latte,8,240000
+2026-05-28,Malioboro,Matcha Latte,10,320000
+2026-05-28,Malioboro,Croissant,20,560000
+2026-05-28,Malioboro,Banana Bread,2,48000
+2026-05-29,Malioboro,Es Kopi Susu,22,550000
+2026-05-29,Malioboro,Americano,9,198000
+2026-05-29,Malioboro,Latte,10,300000
+2026-05-29,Malioboro,Matcha Latte,17,544000
+2026-05-29,Malioboro,Croissant,15,420000
+2026-05-29,Malioboro,Banana Bread,15,360000
+2026-05-30,Malioboro,Es Kopi Susu,23,575000
+2026-05-30,Malioboro,Americano,8,176000
+2026-05-30,Malioboro,Latte,19,570000
+2026-05-30,Malioboro,Matcha Latte,15,480000
+2026-05-30,Malioboro,Croissant,20,560000
+2026-05-30,Malioboro,Banana Bread,9,216000
+2026-05-31,Malioboro,Es Kopi Susu,22,550000
+2026-05-31,Malioboro,Americano,12,264000
+2026-05-31,Malioboro,Latte,13,390000
+2026-05-31,Malioboro,Matcha Latte,21,672000
+2026-05-31,Malioboro,Croissant,8,224000
+2026-05-31,Malioboro,Banana Bread,13,312000
+2026-06-01,Malioboro,Es Kopi Susu,18,450000
+2026-06-01,Malioboro,Americano,11,242000
+2026-06-01,Malioboro,Latte,21,630000
+2026-06-01,Malioboro,Matcha Latte,12,384000
+2026-06-01,Malioboro,Croissant,17,476000
+2026-06-01,Malioboro,Banana Bread,12,288000
+2026-06-02,Malioboro,Es Kopi Susu,10,250000
+2026-06-02,Malioboro,Americano,14,308000
+2026-06-02,Malioboro,Latte,27,810000
+2026-06-02,Malioboro,Matcha Latte,13,416000
+2026-06-02,Malioboro,Croissant,9,252000
+2026-06-02,Malioboro,Banana Bread,14,336000
+2026-06-03,Malioboro,Es Kopi Susu,14,350000
+2026-06-03,Malioboro,Americano,20,440000
+2026-06-03,Malioboro,Latte,11,330000
+2026-06-03,Malioboro,Matcha Latte,14,448000
+2026-06-03,Malioboro,Croissant,14,392000
+2026-06-03,Malioboro,Banana Bread,15,360000
+2026-06-04,Malioboro,Es Kopi Susu,9,225000
+2026-06-04,Malioboro,Americano,17,374000
+2026-06-04,Malioboro,Latte,12,360000
+2026-06-04,Malioboro,Matcha Latte,16,512000
+2026-06-04,Malioboro,Croissant,16,448000
+2026-06-04,Malioboro,Banana Bread,16,384000
+2026-06-05,Malioboro,Es Kopi Susu,17,425000
+2026-06-05,Malioboro,Americano,19,418000
+2026-06-05,Malioboro,Latte,23,690000
+2026-06-05,Malioboro,Matcha Latte,28,896000
+2026-06-05,Malioboro,Croissant,17,476000
+2026-06-05,Malioboro,Banana Bread,13,312000
+2026-06-06,Malioboro,Es Kopi Susu,16,400000
+2026-06-06,Malioboro,Americano,14,308000
+2026-06-06,Malioboro,Latte,19,570000
+2026-06-06,Malioboro,Matcha Latte,16,512000
+2026-06-06,Malioboro,Croissant,24,672000
+2026-06-06,Malioboro,Banana Bread,17,408000
+2026-06-07,Malioboro,Es Kopi Susu,20,500000
+2026-06-07,Malioboro,Americano,19,418000
+2026-06-07,Malioboro,Latte,22,660000
+2026-06-07,Malioboro,Matcha Latte,21,672000
+2026-06-07,Malioboro,Croissant,10,280000
+2026-06-07,Malioboro,Banana Bread,25,600000
+2026-06-08,Malioboro,Es Kopi Susu,11,275000
+2026-06-08,Malioboro,Americano,5,110000
+2026-06-08,Malioboro,Latte,19,570000
+2026-06-08,Malioboro,Matcha Latte,7,224000
+2026-06-08,Malioboro,Croissant,9,252000
+2026-06-08,Malioboro,Banana Bread,15,360000
+2026-06-09,Malioboro,Es Kopi Susu,11,275000
+2026-06-09,Malioboro,Americano,13,286000
+2026-06-09,Malioboro,Latte,10,300000
+2026-06-09,Malioboro,Matcha Latte,7,224000
+2026-06-09,Malioboro,Croissant,15,420000
+2026-06-09,Malioboro,Banana Bread,14,336000
+2026-06-10,Malioboro,Es Kopi Susu,9,225000
+2026-06-10,Malioboro,Americano,6,132000
+2026-06-10,Malioboro,Latte,10,300000
+2026-06-10,Malioboro,Matcha Latte,12,384000
+2026-06-10,Malioboro,Croissant,19,532000
+2026-06-10,Malioboro,Banana Bread,14,336000
+2026-06-11,Malioboro,Es Kopi Susu,13,325000
+2026-06-11,Malioboro,Americano,18,396000
+2026-06-11,Malioboro,Latte,12,360000
+2026-06-11,Malioboro,Matcha Latte,16,512000
+2026-06-11,Malioboro,Croissant,15,420000
+2026-06-11,Malioboro,Banana Bread,13,312000
+2026-06-12,Malioboro,Es Kopi Susu,11,275000
+2026-06-12,Malioboro,Americano,13,286000
+2026-06-12,Malioboro,Latte,20,600000
+2026-06-12,Malioboro,Matcha Latte,8,256000
+2026-06-12,Malioboro,Croissant,16,448000
+2026-06-12,Malioboro,Banana Bread,11,264000
+2026-06-13,Malioboro,Es Kopi Susu,19,475000
+2026-06-13,Malioboro,Americano,22,484000
+2026-06-13,Malioboro,Latte,13,390000
+2026-06-13,Malioboro,Matcha Latte,19,608000
+2026-06-13,Malioboro,Croissant,16,448000
+2026-06-13,Malioboro,Banana Bread,17,408000
+2026-06-14,Malioboro,Es Kopi Susu,14,350000
+2026-06-14,Malioboro,Americano,20,440000
+2026-06-14,Malioboro,Latte,29,870000
+2026-06-14,Malioboro,Matcha Latte,8,256000
+2026-06-14,Malioboro,Croissant,20,560000
+2026-06-14,Malioboro,Banana Bread,24,576000
+2026-06-15,Malioboro,Es Kopi Susu,13,325000
+2026-06-15,Malioboro,Americano,9,198000
+2026-06-15,Malioboro,Latte,8,240000
+2026-06-15,Malioboro,Matcha Latte,21,672000
+2026-06-15,Malioboro,Croissant,12,336000
+2026-06-15,Malioboro,Banana Bread,7,168000
+2026-06-16,Malioboro,Es Kopi Susu,8,200000
+2026-06-16,Malioboro,Americano,17,374000
+2026-06-16,Malioboro,Latte,11,330000
+2026-06-16,Malioboro,Matcha Latte,21,672000
+2026-06-16,Malioboro,Croissant,14,392000
+2026-06-16,Malioboro,Banana Bread,7,168000
+2026-06-17,Malioboro,Es Kopi Susu,9,225000
+2026-06-17,Malioboro,Americano,12,264000
+2026-06-17,Malioboro,Latte,15,450000
+2026-06-17,Malioboro,Matcha Latte,15,480000
+2026-06-17,Malioboro,Croissant,18,504000
+2026-06-17,Malioboro,Banana Bread,11,264000
+2026-06-18,Malioboro,Es Kopi Susu,10,250000
+2026-06-18,Malioboro,Americano,10,220000
+2026-06-18,Malioboro,Latte,6,180000
+2026-06-18,Malioboro,Matcha Latte,25,800000
+2026-06-18,Malioboro,Croissant,9,252000
+2026-06-18,Malioboro,Banana Bread,17,408000
+2026-06-19,Malioboro,Es Kopi Susu,15,375000
+2026-06-19,Malioboro,Americano,5,110000
+2026-06-19,Malioboro,Latte,9,270000
+2026-06-19,Malioboro,Matcha Latte,26,832000
+2026-06-19,Malioboro,Croissant,13,364000
+2026-06-19,Malioboro,Banana Bread,13,312000
+2026-06-20,Malioboro,Es Kopi Susu,15,375000
+2026-06-20,Malioboro,Americano,23,506000
+2026-06-20,Malioboro,Latte,15,450000
+2026-06-20,Malioboro,Matcha Latte,16,512000
+2026-06-20,Malioboro,Croissant,19,532000
+2026-06-20,Malioboro,Banana Bread,18,432000
+2026-06-21,Malioboro,Es Kopi Susu,19,475000
+2026-06-21,Malioboro,Americano,29,638000
+2026-06-21,Malioboro,Latte,19,570000
+2026-06-21,Malioboro,Matcha Latte,16,512000
+2026-06-21,Malioboro,Croissant,27,756000
+2026-06-21,Malioboro,Banana Bread,21,504000
+2026-06-22,Malioboro,Es Kopi Susu,15,375000
+2026-06-22,Malioboro,Americano,17,374000
+2026-06-22,Malioboro,Latte,6,180000
+2026-06-22,Malioboro,Matcha Latte,15,480000
+2026-06-22,Malioboro,Croissant,4,112000
+2026-06-22,Malioboro,Banana Bread,9,216000
+2026-06-23,Malioboro,Es Kopi Susu,8,200000
+2026-06-23,Malioboro,Americano,10,220000
+2026-06-23,Malioboro,Latte,9,270000
+2026-06-23,Malioboro,Matcha Latte,9,288000
+2026-06-23,Malioboro,Croissant,12,336000
+2026-06-23,Malioboro,Banana Bread,19,456000
+2026-06-24,Malioboro,Es Kopi Susu,8,200000
+2026-06-24,Malioboro,Americano,15,330000
+2026-06-24,Malioboro,Latte,25,750000
+2026-06-24,Malioboro,Matcha Latte,20,640000
+2026-06-24,Malioboro,Croissant,8,224000
+2026-06-24,Malioboro,Banana Bread,11,264000
+2026-06-25,Malioboro,Es Kopi Susu,9,225000
+2026-06-25,Malioboro,Americano,13,286000
+2026-06-25,Malioboro,Latte,26,780000
+2026-06-25,Malioboro,Matcha Latte,12,384000
+2026-06-25,Malioboro,Croissant,12,336000
+2026-06-25,Malioboro,Banana Bread,10,240000
+2026-06-26,Malioboro,Es Kopi Susu,5,125000
+2026-06-26,Malioboro,Americano,14,308000
+2026-06-26,Malioboro,Latte,8,240000
+2026-06-26,Malioboro,Matcha Latte,14,448000
+2026-06-26,Malioboro,Croissant,8,224000
+2026-06-26,Malioboro,Banana Bread,13,312000
+2026-06-27,Malioboro,Es Kopi Susu,25,625000
+2026-06-27,Malioboro,Americano,6,132000
+2026-06-27,Malioboro,Latte,14,420000
+2026-06-27,Malioboro,Matcha Latte,19,608000
+2026-06-27,Malioboro,Croissant,21,588000
+2026-06-27,Malioboro,Banana Bread,18,432000
+2026-06-28,Malioboro,Es Kopi Susu,17,425000
+2026-06-28,Malioboro,Americano,25,550000
+2026-06-28,Malioboro,Latte,18,540000
+2026-06-28,Malioboro,Matcha Latte,18,576000
+2026-06-28,Malioboro,Croissant,18,504000
+2026-06-28,Malioboro,Banana Bread,20,480000
+2026-06-29,Malioboro,Es Kopi Susu,6,150000
+2026-06-29,Malioboro,Americano,16,352000
+2026-06-29,Malioboro,Latte,11,330000
+2026-06-29,Malioboro,Matcha Latte,11,352000
+2026-06-29,Malioboro,Croissant,20,560000
+2026-06-29,Malioboro,Banana Bread,11,264000
+2026-06-30,Malioboro,Es Kopi Susu,13,325000
+2026-06-30,Malioboro,Americano,7,154000
+2026-06-30,Malioboro,Latte,15,450000
+2026-06-30,Malioboro,Matcha Latte,19,608000
+2026-06-30,Malioboro,Croissant,14,392000
+2026-06-30,Malioboro,Banana Bread,15,360000
+2026-05-01,Kemang,Es Kopi Susu,16,400000
+2026-05-01,Kemang,Americano,14,308000
+2026-05-01,Kemang,Latte,16,480000
+2026-05-01,Kemang,Matcha Latte,11,352000
+2026-05-01,Kemang,Croissant,15,420000
+2026-05-01,Kemang,Banana Bread,17,408000
+2026-05-02,Kemang,Es Kopi Susu,20,500000
+2026-05-02,Kemang,Americano,15,330000
+2026-05-02,Kemang,Latte,23,690000
+2026-05-02,Kemang,Matcha Latte,21,672000
+2026-05-02,Kemang,Croissant,20,560000
+2026-05-02,Kemang,Banana Bread,16,384000
+2026-05-03,Kemang,Es Kopi Susu,20,500000
+2026-05-03,Kemang,Americano,39,858000
+2026-05-03,Kemang,Latte,21,630000
+2026-05-03,Kemang,Matcha Latte,15,480000
+2026-05-03,Kemang,Croissant,21,588000
+2026-05-03,Kemang,Banana Bread,19,456000
+2026-05-04,Kemang,Es Kopi Susu,27,675000
+2026-05-04,Kemang,Americano,9,198000
+2026-05-04,Kemang,Latte,12,360000
+2026-05-04,Kemang,Matcha Latte,13,416000
+2026-05-04,Kemang,Croissant,9,252000
+2026-05-04,Kemang,Banana Bread,16,384000
+2026-05-05,Kemang,Es Kopi Susu,18,450000
+2026-05-05,Kemang,Americano,22,484000
+2026-05-05,Kemang,Latte,11,330000
+2026-05-05,Kemang,Matcha Latte,17,544000
+2026-05-05,Kemang,Croissant,13,364000
+2026-05-05,Kemang,Banana Bread,18,432000
+2026-05-06,Kemang,Es Kopi Susu,19,475000
+2026-05-06,Kemang,Americano,14,308000
+2026-05-06,Kemang,Latte,24,720000
+2026-05-06,Kemang,Matcha Latte,18,576000
+2026-05-06,Kemang,Croissant,17,476000
+2026-05-06,Kemang,Banana Bread,8,192000
+2026-05-07,Kemang,Es Kopi Susu,12,300000
+2026-05-07,Kemang,Americano,17,374000
+2026-05-07,Kemang,Latte,6,180000
+2026-05-07,Kemang,Matcha Latte,10,320000
+2026-05-07,Kemang,Croissant,20,560000
+2026-05-07,Kemang,Banana Bread,15,360000
+2026-05-08,Kemang,Es Kopi Susu,21,525000
+2026-05-08,Kemang,Americano,10,220000
+2026-05-08,Kemang,Latte,15,450000
+2026-05-08,Kemang,Matcha Latte,12,384000
+2026-05-08,Kemang,Croissant,17,476000
+2026-05-08,Kemang,Banana Bread,17,408000
+2026-05-09,Kemang,Es Kopi Susu,30,750000
+2026-05-09,Kemang,Americano,23,506000
+2026-05-09,Kemang,Latte,24,720000
+2026-05-09,Kemang,Matcha Latte,28,896000
+2026-05-09,Kemang,Croissant,27,756000
+2026-05-09,Kemang,Banana Bread,21,504000
+2026-05-10,Kemang,Es Kopi Susu,15,375000
+2026-05-10,Kemang,Americano,14,308000
+2026-05-10,Kemang,Latte,36,1080000
+2026-05-10,Kemang,Matcha Latte,33,1056000
+2026-05-10,Kemang,Croissant,27,756000
+2026-05-10,Kemang,Banana Bread,16,384000
+2026-05-11,Kemang,Es Kopi Susu,15,375000
+2026-05-11,Kemang,Americano,18,396000
+2026-05-11,Kemang,Latte,18,540000
+2026-05-11,Kemang,Matcha Latte,21,672000
+2026-05-11,Kemang,Croissant,18,504000
+2026-05-11,Kemang,Banana Bread,27,648000
+2026-05-12,Kemang,Es Kopi Susu,9,225000
+2026-05-12,Kemang,Americano,27,594000
+2026-05-12,Kemang,Latte,20,600000
+2026-05-12,Kemang,Matcha Latte,11,352000
+2026-05-12,Kemang,Croissant,11,308000
+2026-05-12,Kemang,Banana Bread,14,336000
+2026-05-13,Kemang,Es Kopi Susu,20,500000
+2026-05-13,Kemang,Americano,14,308000
+2026-05-13,Kemang,Latte,17,510000
+2026-05-13,Kemang,Matcha Latte,11,352000
+2026-05-13,Kemang,Croissant,19,532000
+2026-05-13,Kemang,Banana Bread,20,480000
+2026-05-14,Kemang,Es Kopi Susu,25,625000
+2026-05-14,Kemang,Americano,8,176000
+2026-05-14,Kemang,Latte,11,330000
+2026-05-14,Kemang,Matcha Latte,28,896000
+2026-05-14,Kemang,Croissant,14,392000
+2026-05-14,Kemang,Banana Bread,14,336000
+2026-05-15,Kemang,Es Kopi Susu,17,425000
+2026-05-15,Kemang,Americano,12,264000
+2026-05-15,Kemang,Latte,18,540000
+2026-05-15,Kemang,Matcha Latte,27,864000
+2026-05-15,Kemang,Croissant,9,252000
+2026-05-15,Kemang,Banana Bread,13,312000
+2026-05-16,Kemang,Es Kopi Susu,23,575000
+2026-05-16,Kemang,Americano,29,638000
+2026-05-16,Kemang,Latte,11,330000
+2026-05-16,Kemang,Matcha Latte,30,960000
+2026-05-16,Kemang,Croissant,33,924000
+2026-05-16,Kemang,Banana Bread,24,576000
+2026-05-17,Kemang,Es Kopi Susu,26,650000
+2026-05-17,Kemang,Americano,23,506000
+2026-05-17,Kemang,Latte,19,570000
+2026-05-17,Kemang,Matcha Latte,19,608000
+2026-05-17,Kemang,Croissant,26,728000
+2026-05-17,Kemang,Banana Bread,19,456000
+2026-05-18,Kemang,Es Kopi Susu,21,525000
+2026-05-18,Kemang,Americano,8,176000
+2026-05-18,Kemang,Latte,20,600000
+2026-05-18,Kemang,Matcha Latte,12,384000
+2026-05-18,Kemang,Croissant,13,364000
+2026-05-18,Kemang,Banana Bread,10,240000
+2026-05-19,Kemang,Es Kopi Susu,14,350000
+2026-05-19,Kemang,Americano,12,264000
+2026-05-19,Kemang,Latte,16,480000
+2026-05-19,Kemang,Matcha Latte,13,416000
+2026-05-19,Kemang,Croissant,17,476000
+2026-05-19,Kemang,Banana Bread,10,240000
+2026-05-20,Kemang,Es Kopi Susu,17,425000
+2026-05-20,Kemang,Americano,16,352000
+2026-05-20,Kemang,Latte,18,540000
+2026-05-20,Kemang,Matcha Latte,15,480000
+2026-05-20,Kemang,Croissant,11,308000
+2026-05-20,Kemang,Banana Bread,11,264000
+2026-05-21,Kemang,Es Kopi Susu,28,700000
+2026-05-21,Kemang,Americano,16,352000
+2026-05-21,Kemang,Latte,22,660000
+2026-05-21,Kemang,Matcha Latte,13,416000
+2026-05-21,Kemang,Croissant,10,280000
+2026-05-21,Kemang,Banana Bread,15,360000
+2026-05-22,Kemang,Es Kopi Susu,20,500000
+2026-05-22,Kemang,Americano,20,440000
+2026-05-22,Kemang,Latte,12,360000
+2026-05-22,Kemang,Matcha Latte,3,96000
+2026-05-22,Kemang,Croissant,14,392000
+2026-05-22,Kemang,Banana Bread,10,240000
+2026-05-23,Kemang,Es Kopi Susu,33,825000
+2026-05-23,Kemang,Americano,19,418000
+2026-05-23,Kemang,Latte,23,690000
+2026-05-23,Kemang,Matcha Latte,30,960000
+2026-05-23,Kemang,Croissant,22,616000
+2026-05-23,Kemang,Banana Bread,17,408000
+2026-05-24,Kemang,Es Kopi Susu,18,450000
+2026-05-24,Kemang,Americano,36,792000
+2026-05-24,Kemang,Latte,27,810000
+2026-05-24,Kemang,Matcha Latte,20,640000
+2026-05-24,Kemang,Croissant,19,532000
+2026-05-24,Kemang,Banana Bread,27,648000
+2026-05-25,Kemang,Es Kopi Susu,21,525000
+2026-05-25,Kemang,Americano,19,418000
+2026-05-25,Kemang,Latte,12,360000
+2026-05-25,Kemang,Matcha Latte,21,672000
+2026-05-25,Kemang,Croissant,12,336000
+2026-05-25,Kemang,Banana Bread,10,240000
+2026-05-26,Kemang,Es Kopi Susu,12,300000
+2026-05-26,Kemang,Americano,18,396000
+2026-05-26,Kemang,Latte,17,510000
+2026-05-26,Kemang,Matcha Latte,15,480000
+2026-05-26,Kemang,Croissant,13,364000
+2026-05-26,Kemang,Banana Bread,21,504000
+2026-05-27,Kemang,Es Kopi Susu,9,225000
+2026-05-27,Kemang,Americano,13,286000
+2026-05-27,Kemang,Latte,16,480000
+2026-05-27,Kemang,Matcha Latte,16,512000
+2026-05-27,Kemang,Croissant,21,588000
+2026-05-27,Kemang,Banana Bread,16,384000
+2026-05-28,Kemang,Es Kopi Susu,15,375000
+2026-05-28,Kemang,Americano,13,286000
+2026-05-28,Kemang,Latte,24,720000
+2026-05-28,Kemang,Matcha Latte,16,512000
+2026-05-28,Kemang,Croissant,17,476000
+2026-05-28,Kemang,Banana Bread,21,504000
+2026-05-29,Kemang,Es Kopi Susu,21,525000
+2026-05-29,Kemang,Americano,14,308000
+2026-05-29,Kemang,Latte,13,390000
+2026-05-29,Kemang,Matcha Latte,18,576000
+2026-05-29,Kemang,Croissant,9,252000
+2026-05-29,Kemang,Banana Bread,20,480000
+2026-05-30,Kemang,Es Kopi Susu,25,625000
+2026-05-30,Kemang,Americano,33,726000
+2026-05-30,Kemang,Latte,22,660000
+2026-05-30,Kemang,Matcha Latte,31,992000
+2026-05-30,Kemang,Croissant,25,700000
+2026-05-30,Kemang,Banana Bread,17,408000
+2026-05-31,Kemang,Es Kopi Susu,25,625000
+2026-05-31,Kemang,Americano,17,374000
+2026-05-31,Kemang,Latte,24,720000
+2026-05-31,Kemang,Matcha Latte,24,768000
+2026-05-31,Kemang,Croissant,17,476000
+2026-05-31,Kemang,Banana Bread,23,552000
+2026-06-01,Kemang,Es Kopi Susu,11,275000
+2026-06-01,Kemang,Americano,11,242000
+2026-06-01,Kemang,Latte,18,540000
+2026-06-01,Kemang,Matcha Latte,15,480000
+2026-06-01,Kemang,Croissant,15,420000
+2026-06-01,Kemang,Banana Bread,20,480000
+2026-06-02,Kemang,Es Kopi Susu,25,625000
+2026-06-02,Kemang,Americano,25,550000
+2026-06-02,Kemang,Latte,19,570000
+2026-06-02,Kemang,Matcha Latte,4,128000
+2026-06-02,Kemang,Croissant,19,532000
+2026-06-02,Kemang,Banana Bread,24,576000
+2026-06-03,Kemang,Es Kopi Susu,13,325000
+2026-06-03,Kemang,Americano,14,308000
+2026-06-03,Kemang,Latte,14,420000
+2026-06-03,Kemang,Matcha Latte,27,864000
+2026-06-03,Kemang,Croissant,15,420000
+2026-06-03,Kemang,Banana Bread,16,384000
+2026-06-04,Kemang,Es Kopi Susu,8,200000
+2026-06-04,Kemang,Americano,13,286000
+2026-06-04,Kemang,Latte,19,570000
+2026-06-04,Kemang,Matcha Latte,19,608000
+2026-06-04,Kemang,Croissant,10,280000
+2026-06-04,Kemang,Banana Bread,16,384000
+2026-06-05,Kemang,Es Kopi Susu,8,200000
+2026-06-05,Kemang,Americano,20,440000
+2026-06-05,Kemang,Latte,18,540000
+2026-06-05,Kemang,Matcha Latte,20,640000
+2026-06-05,Kemang,Croissant,8,224000
+2026-06-05,Kemang,Banana Bread,20,480000
+2026-06-06,Kemang,Es Kopi Susu,19,475000
+2026-06-06,Kemang,Americano,21,462000
+2026-06-06,Kemang,Latte,16,480000
+2026-06-06,Kemang,Matcha Latte,20,640000
+2026-06-06,Kemang,Croissant,14,392000
+2026-06-06,Kemang,Banana Bread,29,696000
+2026-06-07,Kemang,Es Kopi Susu,39,975000
+2026-06-07,Kemang,Americano,21,462000
+2026-06-07,Kemang,Latte,16,480000
+2026-06-07,Kemang,Matcha Latte,14,448000
+2026-06-07,Kemang,Croissant,26,728000
+2026-06-07,Kemang,Banana Bread,22,528000
+2026-06-08,Kemang,Es Kopi Susu,14,350000
+2026-06-08,Kemang,Americano,19,418000
+2026-06-08,Kemang,Latte,13,390000
+2026-06-08,Kemang,Matcha Latte,13,416000
+2026-06-08,Kemang,Croissant,9,252000
+2026-06-08,Kemang,Banana Bread,17,408000
+2026-06-09,Kemang,Es Kopi Susu,26,650000
+2026-06-09,Kemang,Americano,14,308000
+2026-06-09,Kemang,Latte,12,360000
+2026-06-09,Kemang,Matcha Latte,22,704000
+2026-06-09,Kemang,Croissant,16,448000
+2026-06-09,Kemang,Banana Bread,18,432000
+2026-06-10,Kemang,Es Kopi Susu,11,275000
+2026-06-10,Kemang,Americano,8,176000
+2026-06-10,Kemang,Latte,13,390000
+2026-06-10,Kemang,Matcha Latte,11,352000
+2026-06-10,Kemang,Croissant,11,308000
+2026-06-10,Kemang,Banana Bread,25,600000
+2026-06-11,Kemang,Es Kopi Susu,11,275000
+2026-06-11,Kemang,Americano,13,286000
+2026-06-11,Kemang,Latte,14,420000
+2026-06-11,Kemang,Matcha Latte,16,512000
+2026-06-11,Kemang,Croissant,16,448000
+2026-06-11,Kemang,Banana Bread,20,480000
+2026-06-12,Kemang,Es Kopi Susu,19,475000
+2026-06-12,Kemang,Americano,18,396000
+2026-06-12,Kemang,Latte,8,240000
+2026-06-12,Kemang,Matcha Latte,22,704000
+2026-06-12,Kemang,Croissant,24,672000
+2026-06-12,Kemang,Banana Bread,25,600000
+2026-06-13,Kemang,Es Kopi Susu,20,500000
+2026-06-13,Kemang,Americano,36,792000
+2026-06-13,Kemang,Latte,16,480000
+2026-06-13,Kemang,Matcha Latte,18,576000
+2026-06-13,Kemang,Croissant,24,672000
+2026-06-13,Kemang,Banana Bread,18,432000
+2026-06-14,Kemang,Es Kopi Susu,26,650000
+2026-06-14,Kemang,Americano,23,506000
+2026-06-14,Kemang,Latte,20,600000
+2026-06-14,Kemang,Matcha Latte,13,416000
+2026-06-14,Kemang,Croissant,16,448000
+2026-06-14,Kemang,Banana Bread,21,504000
+2026-06-15,Kemang,Es Kopi Susu,17,425000
+2026-06-15,Kemang,Americano,16,352000
+2026-06-15,Kemang,Latte,9,270000
+2026-06-15,Kemang,Matcha Latte,26,832000
+2026-06-15,Kemang,Croissant,17,476000
+2026-06-15,Kemang,Banana Bread,17,408000
+2026-06-16,Kemang,Es Kopi Susu,17,425000
+2026-06-16,Kemang,Americano,22,484000
+2026-06-16,Kemang,Latte,19,570000
+2026-06-16,Kemang,Matcha Latte,15,480000
+2026-06-16,Kemang,Croissant,10,280000
+2026-06-16,Kemang,Banana Bread,24,576000
+2026-06-17,Kemang,Es Kopi Susu,8,200000
+2026-06-17,Kemang,Americano,14,308000
+2026-06-17,Kemang,Latte,12,360000
+2026-06-17,Kemang,Matcha Latte,12,384000
+2026-06-17,Kemang,Croissant,18,504000
+2026-06-17,Kemang,Banana Bread,9,216000
+2026-06-18,Kemang,Es Kopi Susu,23,575000
+2026-06-18,Kemang,Americano,8,176000
+2026-06-18,Kemang,Latte,19,570000
+2026-06-18,Kemang,Matcha Latte,9,288000
+2026-06-18,Kemang,Croissant,16,448000
+2026-06-18,Kemang,Banana Bread,25,600000
+2026-06-19,Kemang,Es Kopi Susu,22,550000
+2026-06-19,Kemang,Americano,17,374000
+2026-06-19,Kemang,Latte,19,570000
+2026-06-19,Kemang,Matcha Latte,16,512000
+2026-06-19,Kemang,Croissant,11,308000
+2026-06-19,Kemang,Banana Bread,15,360000
+2026-06-20,Kemang,Es Kopi Susu,20,500000
+2026-06-20,Kemang,Americano,25,550000
+2026-06-20,Kemang,Latte,24,720000
+2026-06-20,Kemang,Matcha Latte,24,768000
+2026-06-20,Kemang,Croissant,17,476000
+2026-06-20,Kemang,Banana Bread,20,480000
+2026-06-21,Kemang,Es Kopi Susu,26,650000
+2026-06-21,Kemang,Americano,24,528000
+2026-06-21,Kemang,Latte,21,630000
+2026-06-21,Kemang,Matcha Latte,15,480000
+2026-06-21,Kemang,Croissant,15,420000
+2026-06-21,Kemang,Banana Bread,12,288000
+2026-06-22,Kemang,Es Kopi Susu,23,575000
+2026-06-22,Kemang,Americano,14,308000
+2026-06-22,Kemang,Latte,15,450000
+2026-06-22,Kemang,Matcha Latte,19,608000
+2026-06-22,Kemang,Croissant,12,336000
+2026-06-22,Kemang,Banana Bread,15,360000
+2026-06-23,Kemang,Es Kopi Susu,15,375000
+2026-06-23,Kemang,Americano,17,374000
+2026-06-23,Kemang,Latte,19,570000
+2026-06-23,Kemang,Matcha Latte,20,640000
+2026-06-23,Kemang,Croissant,16,448000
+2026-06-23,Kemang,Banana Bread,15,360000
+2026-06-24,Kemang,Es Kopi Susu,14,350000
+2026-06-24,Kemang,Americano,14,308000
+2026-06-24,Kemang,Latte,9,270000
+2026-06-24,Kemang,Matcha Latte,24,768000
+2026-06-24,Kemang,Croissant,19,532000
+2026-06-24,Kemang,Banana Bread,22,528000
+2026-06-25,Kemang,Es Kopi Susu,7,175000
+2026-06-25,Kemang,Americano,22,484000
+2026-06-25,Kemang,Latte,11,330000
+2026-06-25,Kemang,Matcha Latte,12,384000
+2026-06-25,Kemang,Croissant,22,616000
+2026-06-25,Kemang,Banana Bread,21,504000
+2026-06-26,Kemang,Es Kopi Susu,17,425000
+2026-06-26,Kemang,Americano,14,308000
+2026-06-26,Kemang,Latte,32,960000
+2026-06-26,Kemang,Matcha Latte,11,352000
+2026-06-26,Kemang,Croissant,15,420000
+2026-06-26,Kemang,Banana Bread,17,408000
+2026-06-27,Kemang,Es Kopi Susu,16,400000
+2026-06-27,Kemang,Americano,25,550000
+2026-06-27,Kemang,Latte,16,480000
+2026-06-27,Kemang,Matcha Latte,17,544000
+2026-06-27,Kemang,Croissant,15,420000
+2026-06-27,Kemang,Banana Bread,11,264000
+2026-06-28,Kemang,Es Kopi Susu,17,425000
+2026-06-28,Kemang,Americano,14,308000
+2026-06-28,Kemang,Latte,24,720000
+2026-06-28,Kemang,Matcha Latte,15,480000
+2026-06-28,Kemang,Croissant,17,476000
+2026-06-28,Kemang,Banana Bread,22,528000
+2026-06-29,Kemang,Es Kopi Susu,13,325000
+2026-06-29,Kemang,Americano,29,638000
+2026-06-29,Kemang,Latte,22,660000
+2026-06-29,Kemang,Matcha Latte,13,416000
+2026-06-29,Kemang,Croissant,26,728000
+2026-06-29,Kemang,Banana Bread,15,360000
+2026-06-30,Kemang,Es Kopi Susu,17,425000
+2026-06-30,Kemang,Americano,26,572000
+2026-06-30,Kemang,Latte,8,240000
+2026-06-30,Kemang,Matcha Latte,26,832000
+2026-06-30,Kemang,Croissant,23,644000
+2026-06-30,Kemang,Banana Bread,23,552000
+2026-05-01,Dago,Es Kopi Susu,17,425000
+2026-05-01,Dago,Americano,24,528000
+2026-05-01,Dago,Latte,17,510000
+2026-05-01,Dago,Matcha Latte,23,736000
+2026-05-01,Dago,Croissant,13,364000
+2026-05-01,Dago,Banana Bread,20,480000
+2026-05-02,Dago,Es Kopi Susu,15,375000
+2026-05-02,Dago,Americano,16,352000
+2026-05-02,Dago,Latte,24,720000
+2026-05-02,Dago,Matcha Latte,16,512000
+2026-05-02,Dago,Croissant,33,924000
+2026-05-02,Dago,Banana Bread,28,672000
+2026-05-03,Dago,Es Kopi Susu,14,350000
+2026-05-03,Dago,Americano,17,374000
+2026-05-03,Dago,Latte,36,1080000
+2026-05-03,Dago,Matcha Latte,23,736000
+2026-05-03,Dago,Croissant,22,616000
+2026-05-03,Dago,Banana Bread,27,648000
+2026-05-04,Dago,Es Kopi Susu,16,400000
+2026-05-04,Dago,Americano,11,242000
+2026-05-04,Dago,Latte,15,450000
+2026-05-04,Dago,Matcha Latte,15,480000
+2026-05-04,Dago,Croissant,18,504000
+2026-05-04,Dago,Banana Bread,10,240000
+2026-05-05,Dago,Es Kopi Susu,13,325000
+2026-05-05,Dago,Americano,26,572000
+2026-05-05,Dago,Latte,19,570000
+2026-05-05,Dago,Matcha Latte,25,800000
+2026-05-05,Dago,Croissant,21,588000
+2026-05-05,Dago,Banana Bread,13,312000
+2026-05-06,Dago,Es Kopi Susu,19,475000
+2026-05-06,Dago,Americano,13,286000
+2026-05-06,Dago,Latte,14,420000
+2026-05-06,Dago,Matcha Latte,19,608000
+2026-05-06,Dago,Croissant,14,392000
+2026-05-06,Dago,Banana Bread,22,528000
+2026-05-07,Dago,Es Kopi Susu,25,625000
+2026-05-07,Dago,Americano,18,396000
+2026-05-07,Dago,Latte,21,630000
+2026-05-07,Dago,Matcha Latte,18,576000
+2026-05-07,Dago,Croissant,13,364000
+2026-05-07,Dago,Banana Bread,15,360000
+2026-05-08,Dago,Es Kopi Susu,15,375000
+2026-05-08,Dago,Americano,21,462000
+2026-05-08,Dago,Latte,15,450000
+2026-05-08,Dago,Matcha Latte,22,704000
+2026-05-08,Dago,Croissant,12,336000
+2026-05-08,Dago,Banana Bread,13,312000
+2026-05-09,Dago,Es Kopi Susu,25,625000
+2026-05-09,Dago,Americano,31,682000
+2026-05-09,Dago,Latte,21,630000
+2026-05-09,Dago,Matcha Latte,30,960000
+2026-05-09,Dago,Croissant,21,588000
+2026-05-09,Dago,Banana Bread,18,432000
+2026-05-10,Dago,Es Kopi Susu,25,625000
+2026-05-10,Dago,Americano,20,440000
+2026-05-10,Dago,Latte,24,720000
+2026-05-10,Dago,Matcha Latte,34,1088000
+2026-05-10,Dago,Croissant,22,616000
+2026-05-10,Dago,Banana Bread,27,648000
+2026-05-11,Dago,Es Kopi Susu,27,675000
+2026-05-11,Dago,Americano,22,484000
+2026-05-11,Dago,Latte,31,930000
+2026-05-11,Dago,Matcha Latte,16,512000
+2026-05-11,Dago,Croissant,17,476000
+2026-05-11,Dago,Banana Bread,9,216000
+2026-05-12,Dago,Es Kopi Susu,23,575000
+2026-05-12,Dago,Americano,29,638000
+2026-05-12,Dago,Latte,25,750000
+2026-05-12,Dago,Matcha Latte,17,544000
+2026-05-12,Dago,Croissant,20,560000
+2026-05-12,Dago,Banana Bread,15,360000
+2026-05-13,Dago,Es Kopi Susu,24,600000
+2026-05-13,Dago,Americano,21,462000
+2026-05-13,Dago,Latte,16,480000
+2026-05-13,Dago,Matcha Latte,15,480000
+2026-05-13,Dago,Croissant,5,140000
+2026-05-13,Dago,Banana Bread,13,312000
+2026-05-14,Dago,Es Kopi Susu,16,400000
+2026-05-14,Dago,Americano,31,682000
+2026-05-14,Dago,Latte,15,450000
+2026-05-14,Dago,Matcha Latte,16,512000
+2026-05-14,Dago,Croissant,8,224000
+2026-05-14,Dago,Banana Bread,12,288000
+2026-05-15,Dago,Es Kopi Susu,22,550000
+2026-05-15,Dago,Americano,16,352000
+2026-05-15,Dago,Latte,11,330000
+2026-05-15,Dago,Matcha Latte,15,480000
+2026-05-15,Dago,Croissant,4,112000
+2026-05-15,Dago,Banana Bread,26,624000
+2026-05-16,Dago,Es Kopi Susu,28,700000
+2026-05-16,Dago,Americano,22,484000
+2026-05-16,Dago,Latte,37,1110000
+2026-05-16,Dago,Matcha Latte,20,640000
+2026-05-16,Dago,Croissant,35,980000
+2026-05-16,Dago,Banana Bread,16,384000
+2026-05-17,Dago,Es Kopi Susu,16,400000
+2026-05-17,Dago,Americano,23,506000
+2026-05-17,Dago,Latte,28,840000
+2026-05-17,Dago,Matcha Latte,29,928000
+2026-05-17,Dago,Croissant,18,504000
+2026-05-17,Dago,Banana Bread,17,408000
+2026-05-18,Dago,Es Kopi Susu,16,400000
+2026-05-18,Dago,Americano,25,550000
+2026-05-18,Dago,Latte,22,660000
+2026-05-18,Dago,Matcha Latte,14,448000
+2026-05-18,Dago,Croissant,28,784000
+2026-05-18,Dago,Banana Bread,20,480000
+2026-05-19,Dago,Es Kopi Susu,13,325000
+2026-05-19,Dago,Americano,12,264000
+2026-05-19,Dago,Latte,17,510000
+2026-05-19,Dago,Matcha Latte,11,352000
+2026-05-19,Dago,Croissant,34,952000
+2026-05-19,Dago,Banana Bread,20,480000
+2026-05-20,Dago,Es Kopi Susu,19,475000
+2026-05-20,Dago,Americano,30,660000
+2026-05-20,Dago,Latte,26,780000
+2026-05-20,Dago,Matcha Latte,10,320000
+2026-05-20,Dago,Croissant,25,700000
+2026-05-20,Dago,Banana Bread,14,336000
+2026-05-21,Dago,Es Kopi Susu,20,500000
+2026-05-21,Dago,Americano,30,660000
+2026-05-21,Dago,Latte,17,510000
+2026-05-21,Dago,Matcha Latte,17,544000
+2026-05-21,Dago,Croissant,18,504000
+2026-05-21,Dago,Banana Bread,24,576000
+2026-05-22,Dago,Es Kopi Susu,16,400000
+2026-05-22,Dago,Americano,21,462000
+2026-05-22,Dago,Latte,25,750000
+2026-05-22,Dago,Matcha Latte,20,640000
+2026-05-22,Dago,Croissant,25,700000
+2026-05-22,Dago,Banana Bread,8,192000
+2026-05-23,Dago,Es Kopi Susu,34,850000
+2026-05-23,Dago,Americano,41,902000
+2026-05-23,Dago,Latte,28,840000
+2026-05-23,Dago,Matcha Latte,28,896000
+2026-05-23,Dago,Croissant,23,644000
+2026-05-23,Dago,Banana Bread,30,720000
+2026-05-24,Dago,Es Kopi Susu,31,775000
+2026-05-24,Dago,Americano,16,352000
+2026-05-24,Dago,Latte,20,600000
+2026-05-24,Dago,Matcha Latte,34,1088000
+2026-05-24,Dago,Croissant,19,532000
+2026-05-24,Dago,Banana Bread,20,480000
+2026-05-25,Dago,Es Kopi Susu,25,625000
+2026-05-25,Dago,Americano,27,594000
+2026-05-25,Dago,Latte,13,390000
+2026-05-25,Dago,Matcha Latte,12,384000
+2026-05-25,Dago,Croissant,21,588000
+2026-05-25,Dago,Banana Bread,29,696000
+2026-05-26,Dago,Es Kopi Susu,19,475000
+2026-05-26,Dago,Americano,17,374000
+2026-05-26,Dago,Latte,19,570000
+2026-05-26,Dago,Matcha Latte,21,672000
+2026-05-26,Dago,Croissant,18,504000
+2026-05-26,Dago,Banana Bread,23,552000
+2026-05-27,Dago,Es Kopi Susu,12,300000
+2026-05-27,Dago,Americano,21,462000
+2026-05-27,Dago,Latte,13,390000
+2026-05-27,Dago,Matcha Latte,15,480000
+2026-05-27,Dago,Croissant,19,532000
+2026-05-27,Dago,Banana Bread,20,480000
+2026-05-28,Dago,Es Kopi Susu,19,475000
+2026-05-28,Dago,Americano,24,528000
+2026-05-28,Dago,Latte,17,510000
+2026-05-28,Dago,Matcha Latte,25,800000
+2026-05-28,Dago,Croissant,11,308000
+2026-05-28,Dago,Banana Bread,17,408000
+2026-05-29,Dago,Es Kopi Susu,30,750000
+2026-05-29,Dago,Americano,23,506000
+2026-05-29,Dago,Latte,20,600000
+2026-05-29,Dago,Matcha Latte,21,672000
+2026-05-29,Dago,Croissant,22,616000
+2026-05-29,Dago,Banana Bread,23,552000
+2026-05-30,Dago,Es Kopi Susu,25,625000
+2026-05-30,Dago,Americano,27,594000
+2026-05-30,Dago,Latte,34,1020000
+2026-05-30,Dago,Matcha Latte,27,864000
+2026-05-30,Dago,Croissant,17,476000
+2026-05-30,Dago,Banana Bread,25,600000
+2026-05-31,Dago,Es Kopi Susu,23,575000
+2026-05-31,Dago,Americano,35,770000
+2026-05-31,Dago,Latte,29,870000
+2026-05-31,Dago,Matcha Latte,33,1056000
+2026-05-31,Dago,Croissant,42,1176000
+2026-05-31,Dago,Banana Bread,23,552000
+2026-06-01,Dago,Es Kopi Susu,26,650000
+2026-06-01,Dago,Americano,26,572000
+2026-06-01,Dago,Latte,29,870000
+2026-06-01,Dago,Matcha Latte,13,416000
+2026-06-01,Dago,Croissant,21,588000
+2026-06-01,Dago,Banana Bread,14,336000
+2026-06-02,Dago,Es Kopi Susu,29,725000
+2026-06-02,Dago,Americano,11,242000
+2026-06-02,Dago,Latte,15,450000
+2026-06-02,Dago,Matcha Latte,22,704000
+2026-06-02,Dago,Croissant,27,756000
+2026-06-02,Dago,Banana Bread,12,288000
+2026-06-03,Dago,Es Kopi Susu,16,400000
+2026-06-03,Dago,Americano,15,330000
+2026-06-03,Dago,Latte,13,390000
+2026-06-03,Dago,Matcha Latte,11,352000
+2026-06-03,Dago,Croissant,16,448000
+2026-06-03,Dago,Banana Bread,19,456000
+2026-06-04,Dago,Es Kopi Susu,24,600000
+2026-06-04,Dago,Americano,20,440000
+2026-06-04,Dago,Latte,23,690000
+2026-06-04,Dago,Matcha Latte,13,416000
+2026-06-04,Dago,Croissant,14,392000
+2026-06-04,Dago,Banana Bread,25,600000
+2026-06-05,Dago,Es Kopi Susu,35,875000
+2026-06-05,Dago,Americano,16,352000
+2026-06-05,Dago,Latte,23,690000
+2026-06-05,Dago,Matcha Latte,20,640000
+2026-06-05,Dago,Croissant,23,644000
+2026-06-05,Dago,Banana Bread,20,480000
+2026-06-06,Dago,Es Kopi Susu,20,500000
+2026-06-06,Dago,Americano,31,682000
+2026-06-06,Dago,Latte,20,600000
+2026-06-06,Dago,Matcha Latte,18,576000
+2026-06-06,Dago,Croissant,24,672000
+2026-06-06,Dago,Banana Bread,22,528000
+2026-06-07,Dago,Es Kopi Susu,35,875000
+2026-06-07,Dago,Americano,22,484000
+2026-06-07,Dago,Latte,29,870000
+2026-06-07,Dago,Matcha Latte,27,864000
+2026-06-07,Dago,Croissant,29,812000
+2026-06-07,Dago,Banana Bread,26,624000
+2026-06-08,Dago,Es Kopi Susu,25,625000
+2026-06-08,Dago,Americano,11,242000
+2026-06-08,Dago,Latte,24,720000
+2026-06-08,Dago,Matcha Latte,10,320000
+2026-06-08,Dago,Croissant,25,700000
+2026-06-08,Dago,Banana Bread,11,264000
+2026-06-09,Dago,Es Kopi Susu,21,525000
+2026-06-09,Dago,Americano,26,572000
+2026-06-09,Dago,Latte,27,810000
+2026-06-09,Dago,Matcha Latte,24,768000
+2026-06-09,Dago,Croissant,29,812000
+2026-06-09,Dago,Banana Bread,14,336000
+2026-06-10,Dago,Es Kopi Susu,19,475000
+2026-06-10,Dago,Americano,20,440000
+2026-06-10,Dago,Latte,21,630000
+2026-06-10,Dago,Matcha Latte,7,224000
+2026-06-10,Dago,Croissant,18,504000
+2026-06-10,Dago,Banana Bread,12,288000
+2026-06-11,Dago,Es Kopi Susu,18,450000
+2026-06-11,Dago,Americano,23,506000
+2026-06-11,Dago,Latte,24,720000
+2026-06-11,Dago,Matcha Latte,27,864000
+2026-06-11,Dago,Croissant,21,588000
+2026-06-11,Dago,Banana Bread,19,456000
+2026-06-12,Dago,Es Kopi Susu,17,425000
+2026-06-12,Dago,Americano,27,594000
+2026-06-12,Dago,Latte,8,240000
+2026-06-12,Dago,Matcha Latte,15,480000
+2026-06-12,Dago,Croissant,13,364000
+2026-06-12,Dago,Banana Bread,22,528000
+2026-06-13,Dago,Es Kopi Susu,27,675000
+2026-06-13,Dago,Americano,26,572000
+2026-06-13,Dago,Latte,26,780000
+2026-06-13,Dago,Matcha Latte,31,992000
+2026-06-13,Dago,Croissant,20,560000
+2026-06-13,Dago,Banana Bread,20,480000
+2026-06-14,Dago,Es Kopi Susu,11,275000
+2026-06-14,Dago,Americano,20,440000
+2026-06-14,Dago,Latte,33,990000
+2026-06-14,Dago,Matcha Latte,16,512000
+2026-06-14,Dago,Croissant,26,728000
+2026-06-14,Dago,Banana Bread,28,672000
+2026-06-15,Dago,Es Kopi Susu,18,450000
+2026-06-15,Dago,Americano,13,286000
+2026-06-15,Dago,Latte,16,480000
+2026-06-15,Dago,Matcha Latte,14,448000
+2026-06-15,Dago,Croissant,19,532000
+2026-06-15,Dago,Banana Bread,21,504000
+2026-06-16,Dago,Es Kopi Susu,18,450000
+2026-06-16,Dago,Americano,13,286000
+2026-06-16,Dago,Latte,13,390000
+2026-06-16,Dago,Matcha Latte,29,928000
+2026-06-16,Dago,Croissant,20,560000
+2026-06-16,Dago,Banana Bread,12,288000
+2026-06-17,Dago,Es Kopi Susu,23,575000
+2026-06-17,Dago,Americano,14,308000
+2026-06-17,Dago,Latte,26,780000
+2026-06-17,Dago,Matcha Latte,24,768000
+2026-06-17,Dago,Croissant,21,588000
+2026-06-17,Dago,Banana Bread,18,432000
+2026-06-18,Dago,Es Kopi Susu,13,325000
+2026-06-18,Dago,Americano,14,308000
+2026-06-18,Dago,Latte,21,630000
+2026-06-18,Dago,Matcha Latte,13,416000
+2026-06-18,Dago,Croissant,27,756000
+2026-06-18,Dago,Banana Bread,18,432000
+2026-06-19,Dago,Es Kopi Susu,15,375000
+2026-06-19,Dago,Americano,24,528000
+2026-06-19,Dago,Latte,22,660000
+2026-06-19,Dago,Matcha Latte,19,608000
+2026-06-19,Dago,Croissant,28,784000
+2026-06-19,Dago,Banana Bread,13,312000
+2026-06-20,Dago,Es Kopi Susu,34,850000
+2026-06-20,Dago,Americano,30,660000
+2026-06-20,Dago,Latte,34,1020000
+2026-06-20,Dago,Matcha Latte,17,544000
+2026-06-20,Dago,Croissant,27,756000
+2026-06-20,Dago,Banana Bread,38,912000
+2026-06-21,Dago,Es Kopi Susu,24,600000
+2026-06-21,Dago,Americano,31,682000
+2026-06-21,Dago,Latte,21,630000
+2026-06-21,Dago,Matcha Latte,30,960000
+2026-06-21,Dago,Croissant,27,756000
+2026-06-21,Dago,Banana Bread,22,528000
+2026-06-22,Dago,Es Kopi Susu,24,600000
+2026-06-22,Dago,Americano,13,286000
+2026-06-22,Dago,Latte,12,360000
+2026-06-22,Dago,Matcha Latte,12,384000
+2026-06-22,Dago,Croissant,28,784000
+2026-06-22,Dago,Banana Bread,8,192000
+2026-06-23,Dago,Es Kopi Susu,16,400000
+2026-06-23,Dago,Americano,20,440000
+2026-06-23,Dago,Latte,20,600000
+2026-06-23,Dago,Matcha Latte,15,480000
+2026-06-23,Dago,Croissant,24,672000
+2026-06-23,Dago,Banana Bread,25,600000
+2026-06-24,Dago,Es Kopi Susu,14,350000
+2026-06-24,Dago,Americano,25,550000
+2026-06-24,Dago,Latte,26,780000
+2026-06-24,Dago,Matcha Latte,18,576000
+2026-06-24,Dago,Croissant,7,196000
+2026-06-24,Dago,Banana Bread,14,336000
+2026-06-25,Dago,Es Kopi Susu,14,350000
+2026-06-25,Dago,Americano,14,308000
+2026-06-25,Dago,Latte,12,360000
+2026-06-25,Dago,Matcha Latte,18,576000
+2026-06-25,Dago,Croissant,16,448000
+2026-06-25,Dago,Banana Bread,30,720000
+2026-06-26,Dago,Es Kopi Susu,9,225000
+2026-06-26,Dago,Americano,8,176000
+2026-06-26,Dago,Latte,14,420000
+2026-06-26,Dago,Matcha Latte,14,448000
+2026-06-26,Dago,Croissant,19,532000
+2026-06-26,Dago,Banana Bread,20,480000
+2026-06-27,Dago,Es Kopi Susu,25,625000
+2026-06-27,Dago,Americano,23,506000
+2026-06-27,Dago,Latte,26,780000
+2026-06-27,Dago,Matcha Latte,25,800000
+2026-06-27,Dago,Croissant,16,448000
+2026-06-27,Dago,Banana Bread,19,456000
+2026-06-28,Dago,Es Kopi Susu,18,450000
+2026-06-28,Dago,Americano,40,880000
+2026-06-28,Dago,Latte,28,840000
+2026-06-28,Dago,Matcha Latte,32,1024000
+2026-06-28,Dago,Croissant,19,532000
+2026-06-28,Dago,Banana Bread,10,240000
+2026-06-29,Dago,Es Kopi Susu,14,350000
+2026-06-29,Dago,Americano,19,418000
+2026-06-29,Dago,Latte,24,720000
+2026-06-29,Dago,Matcha Latte,18,576000
+2026-06-29,Dago,Croissant,23,644000
+2026-06-29,Dago,Banana Bread,21,504000
+2026-06-30,Dago,Es Kopi Susu,7,175000
+2026-06-30,Dago,Americano,3,66000
+2026-06-30,Dago,Latte,6,180000
+2026-06-30,Dago,Matcha Latte,11,352000
+2026-06-30,Dago,Croissant,4,112000
+2026-06-30,Dago,Banana Bread,7,168000
+2026-05-01,Tunjungan,Es Kopi Susu,17,425000
+2026-05-01,Tunjungan,Americano,23,506000
+2026-05-01,Tunjungan,Latte,23,690000
+2026-05-01,Tunjungan,Matcha Latte,29,928000
+2026-05-01,Tunjungan,Croissant,15,420000
+2026-05-01,Tunjungan,Banana Bread,23,552000
+2026-05-02,Tunjungan,Es Kopi Susu,37,925000
+2026-05-02,Tunjungan,Americano,17,374000
+2026-05-02,Tunjungan,Latte,19,570000
+2026-05-02,Tunjungan,Matcha Latte,39,1248000
+2026-05-02,Tunjungan,Croissant,31,868000
+2026-05-02,Tunjungan,Banana Bread,33,792000
+2026-05-03,Tunjungan,Es Kopi Susu,32,800000
+2026-05-03,Tunjungan,Americano,23,506000
+2026-05-03,Tunjungan,Latte,35,1050000
+2026-05-03,Tunjungan,Matcha Latte,22,704000
+2026-05-03,Tunjungan,Croissant,21,588000
+2026-05-03,Tunjungan,Banana Bread,30,720000
+2026-05-04,Tunjungan,Es Kopi Susu,18,450000
+2026-05-04,Tunjungan,Americano,35,770000
+2026-05-04,Tunjungan,Latte,21,630000
+2026-05-04,Tunjungan,Matcha Latte,14,448000
+2026-05-04,Tunjungan,Croissant,10,280000
+2026-05-04,Tunjungan,Banana Bread,29,696000
+2026-05-05,Tunjungan,Es Kopi Susu,9,225000
+2026-05-05,Tunjungan,Americano,24,528000
+2026-05-05,Tunjungan,Latte,34,1020000
+2026-05-05,Tunjungan,Matcha Latte,18,576000
+2026-05-05,Tunjungan,Croissant,27,756000
+2026-05-05,Tunjungan,Banana Bread,25,600000
+2026-05-06,Tunjungan,Es Kopi Susu,19,475000
+2026-05-06,Tunjungan,Americano,25,550000
+2026-05-06,Tunjungan,Latte,23,690000
+2026-05-06,Tunjungan,Matcha Latte,33,1056000
+2026-05-06,Tunjungan,Croissant,26,728000
+2026-05-06,Tunjungan,Banana Bread,24,576000
+2026-05-07,Tunjungan,Es Kopi Susu,34,850000
+2026-05-07,Tunjungan,Americano,12,264000
+2026-05-07,Tunjungan,Latte,26,780000
+2026-05-07,Tunjungan,Matcha Latte,16,512000
+2026-05-07,Tunjungan,Croissant,17,476000
+2026-05-07,Tunjungan,Banana Bread,20,480000
+2026-05-08,Tunjungan,Es Kopi Susu,25,625000
+2026-05-08,Tunjungan,Americano,20,440000
+2026-05-08,Tunjungan,Latte,29,870000
+2026-05-08,Tunjungan,Matcha Latte,20,640000
+2026-05-08,Tunjungan,Croissant,20,560000
+2026-05-08,Tunjungan,Banana Bread,11,264000
+2026-05-09,Tunjungan,Es Kopi Susu,39,975000
+2026-05-09,Tunjungan,Americano,21,462000
+2026-05-09,Tunjungan,Latte,29,870000
+2026-05-09,Tunjungan,Matcha Latte,25,800000
+2026-05-09,Tunjungan,Croissant,35,980000
+2026-05-09,Tunjungan,Banana Bread,22,528000
+2026-05-10,Tunjungan,Es Kopi Susu,35,875000
+2026-05-10,Tunjungan,Americano,47,1034000
+2026-05-10,Tunjungan,Latte,44,1320000
+2026-05-10,Tunjungan,Matcha Latte,21,672000
+2026-05-10,Tunjungan,Croissant,34,952000
+2026-05-10,Tunjungan,Banana Bread,40,960000
+2026-05-11,Tunjungan,Es Kopi Susu,17,425000
+2026-05-11,Tunjungan,Americano,20,440000
+2026-05-11,Tunjungan,Latte,26,780000
+2026-05-11,Tunjungan,Matcha Latte,17,544000
+2026-05-11,Tunjungan,Croissant,20,560000
+2026-05-11,Tunjungan,Banana Bread,15,360000
+2026-05-12,Tunjungan,Es Kopi Susu,17,425000
+2026-05-12,Tunjungan,Americano,11,242000
+2026-05-12,Tunjungan,Latte,15,450000
+2026-05-12,Tunjungan,Matcha Latte,19,608000
+2026-05-12,Tunjungan,Croissant,18,504000
+2026-05-12,Tunjungan,Banana Bread,31,744000
+2026-05-13,Tunjungan,Es Kopi Susu,20,500000
+2026-05-13,Tunjungan,Americano,33,726000
+2026-05-13,Tunjungan,Latte,15,450000
+2026-05-13,Tunjungan,Matcha Latte,21,672000
+2026-05-13,Tunjungan,Croissant,17,476000
+2026-05-13,Tunjungan,Banana Bread,35,840000
+2026-05-14,Tunjungan,Es Kopi Susu,17,425000
+2026-05-14,Tunjungan,Americano,17,374000
+2026-05-14,Tunjungan,Latte,24,720000
+2026-05-14,Tunjungan,Matcha Latte,14,448000
+2026-05-14,Tunjungan,Croissant,22,616000
+2026-05-14,Tunjungan,Banana Bread,22,528000
+2026-05-15,Tunjungan,Es Kopi Susu,16,400000
+2026-05-15,Tunjungan,Americano,22,484000
+2026-05-15,Tunjungan,Latte,17,510000
+2026-05-15,Tunjungan,Matcha Latte,18,576000
+2026-05-15,Tunjungan,Croissant,24,672000
+2026-05-15,Tunjungan,Banana Bread,30,720000
+2026-05-16,Tunjungan,Es Kopi Susu,27,675000
+2026-05-16,Tunjungan,Americano,16,352000
+2026-05-16,Tunjungan,Latte,33,990000
+2026-05-16,Tunjungan,Matcha Latte,22,704000
+2026-05-16,Tunjungan,Croissant,21,588000
+2026-05-16,Tunjungan,Banana Bread,29,696000
+2026-05-17,Tunjungan,Es Kopi Susu,46,1150000
+2026-05-17,Tunjungan,Americano,25,550000
+2026-05-17,Tunjungan,Latte,40,1200000
+2026-05-17,Tunjungan,Matcha Latte,38,1216000
+2026-05-17,Tunjungan,Croissant,28,784000
+2026-05-17,Tunjungan,Banana Bread,21,504000
+2026-05-18,Tunjungan,Es Kopi Susu,12,300000
+2026-05-18,Tunjungan,Americano,38,836000
+2026-05-18,Tunjungan,Latte,19,570000
+2026-05-18,Tunjungan,Matcha Latte,11,352000
+2026-05-18,Tunjungan,Croissant,29,812000
+2026-05-18,Tunjungan,Banana Bread,21,504000
+2026-05-19,Tunjungan,Es Kopi Susu,27,675000
+2026-05-19,Tunjungan,Americano,25,550000
+2026-05-19,Tunjungan,Latte,31,930000
+2026-05-19,Tunjungan,Matcha Latte,29,928000
+2026-05-19,Tunjungan,Croissant,20,560000
+2026-05-19,Tunjungan,Banana Bread,31,744000
+2026-05-20,Tunjungan,Es Kopi Susu,32,800000
+2026-05-20,Tunjungan,Americano,24,528000
+2026-05-20,Tunjungan,Latte,30,900000
+2026-05-20,Tunjungan,Matcha Latte,27,864000
+2026-05-20,Tunjungan,Croissant,12,336000
+2026-05-20,Tunjungan,Banana Bread,18,432000
+2026-05-21,Tunjungan,Es Kopi Susu,18,450000
+2026-05-21,Tunjungan,Americano,16,352000
+2026-05-21,Tunjungan,Latte,33,990000
+2026-05-21,Tunjungan,Matcha Latte,28,896000
+2026-05-21,Tunjungan,Croissant,24,672000
+2026-05-21,Tunjungan,Banana Bread,19,456000
+2026-05-22,Tunjungan,Es Kopi Susu,18,450000
+2026-05-22,Tunjungan,Americano,28,616000
+2026-05-22,Tunjungan,Latte,27,810000
+2026-05-22,Tunjungan,Matcha Latte,15,480000
+2026-05-22,Tunjungan,Croissant,25,700000
+2026-05-22,Tunjungan,Banana Bread,13,312000
+2026-05-23,Tunjungan,Es Kopi Susu,32,800000
+2026-05-23,Tunjungan,Americano,34,748000
+2026-05-23,Tunjungan,Latte,28,840000
+2026-05-23,Tunjungan,Matcha Latte,29,928000
+2026-05-23,Tunjungan,Croissant,30,840000
+2026-05-23,Tunjungan,Banana Bread,32,768000
+2026-05-24,Tunjungan,Es Kopi Susu,38,950000
+2026-05-24,Tunjungan,Americano,26,572000
+2026-05-24,Tunjungan,Latte,39,1170000
+2026-05-24,Tunjungan,Matcha Latte,25,800000
+2026-05-24,Tunjungan,Croissant,28,784000
+2026-05-24,Tunjungan,Banana Bread,36,864000
+2026-05-25,Tunjungan,Es Kopi Susu,18,450000
+2026-05-25,Tunjungan,Americano,25,550000
+2026-05-25,Tunjungan,Latte,22,660000
+2026-05-25,Tunjungan,Matcha Latte,16,512000
+2026-05-25,Tunjungan,Croissant,20,560000
+2026-05-25,Tunjungan,Banana Bread,17,408000
+2026-05-26,Tunjungan,Es Kopi Susu,18,450000
+2026-05-26,Tunjungan,Americano,37,814000
+2026-05-26,Tunjungan,Latte,29,870000
+2026-05-26,Tunjungan,Matcha Latte,18,576000
+2026-05-26,Tunjungan,Croissant,31,868000
+2026-05-26,Tunjungan,Banana Bread,21,504000
+2026-05-27,Tunjungan,Es Kopi Susu,29,725000
+2026-05-27,Tunjungan,Americano,31,682000
+2026-05-27,Tunjungan,Latte,28,840000
+2026-05-27,Tunjungan,Matcha Latte,16,512000
+2026-05-27,Tunjungan,Croissant,18,504000
+2026-05-27,Tunjungan,Banana Bread,27,648000
+2026-05-28,Tunjungan,Es Kopi Susu,24,600000
+2026-05-28,Tunjungan,Americano,24,528000
+2026-05-28,Tunjungan,Latte,16,480000
+2026-05-28,Tunjungan,Matcha Latte,24,768000
+2026-05-28,Tunjungan,Croissant,18,504000
+2026-05-28,Tunjungan,Banana Bread,21,504000
+2026-05-29,Tunjungan,Es Kopi Susu,20,500000
+2026-05-29,Tunjungan,Americano,26,572000
+2026-05-29,Tunjungan,Latte,24,720000
+2026-05-29,Tunjungan,Matcha Latte,26,832000
+2026-05-29,Tunjungan,Croissant,17,476000
+2026-05-29,Tunjungan,Banana Bread,12,288000
+2026-05-30,Tunjungan,Es Kopi Susu,23,575000
+2026-05-30,Tunjungan,Americano,21,462000
+2026-05-30,Tunjungan,Latte,34,1020000
+2026-05-30,Tunjungan,Matcha Latte,40,1280000
+2026-05-30,Tunjungan,Croissant,16,448000
+2026-05-30,Tunjungan,Banana Bread,22,528000
+2026-05-31,Tunjungan,Es Kopi Susu,24,600000
+2026-05-31,Tunjungan,Americano,27,594000
+2026-05-31,Tunjungan,Latte,26,780000
+2026-05-31,Tunjungan,Matcha Latte,27,864000
+2026-05-31,Tunjungan,Croissant,13,364000
+2026-05-31,Tunjungan,Banana Bread,39,936000
+2026-06-01,Tunjungan,Es Kopi Susu,17,425000
+2026-06-01,Tunjungan,Americano,25,550000
+2026-06-01,Tunjungan,Latte,7,210000
+2026-06-01,Tunjungan,Matcha Latte,25,800000
+2026-06-01,Tunjungan,Croissant,10,280000
+2026-06-01,Tunjungan,Banana Bread,14,336000
+2026-06-02,Tunjungan,Es Kopi Susu,23,575000
+2026-06-02,Tunjungan,Americano,25,550000
+2026-06-02,Tunjungan,Latte,28,840000
+2026-06-02,Tunjungan,Matcha Latte,32,1024000
+2026-06-02,Tunjungan,Croissant,10,280000
+2026-06-02,Tunjungan,Banana Bread,25,600000
+2026-06-03,Tunjungan,Es Kopi Susu,31,775000
+2026-06-03,Tunjungan,Americano,28,616000
+2026-06-03,Tunjungan,Latte,12,360000
+2026-06-03,Tunjungan,Matcha Latte,28,896000
+2026-06-03,Tunjungan,Croissant,29,812000
+2026-06-03,Tunjungan,Banana Bread,21,504000
+2026-06-04,Tunjungan,Es Kopi Susu,25,625000
+2026-06-04,Tunjungan,Americano,26,572000
+2026-06-04,Tunjungan,Latte,22,660000
+2026-06-04,Tunjungan,Matcha Latte,31,992000
+2026-06-04,Tunjungan,Croissant,14,392000
+2026-06-04,Tunjungan,Banana Bread,23,552000
+2026-06-05,Tunjungan,Es Kopi Susu,18,450000
+2026-06-05,Tunjungan,Americano,13,286000
+2026-06-05,Tunjungan,Latte,13,390000
+2026-06-05,Tunjungan,Matcha Latte,19,608000
+2026-06-05,Tunjungan,Croissant,22,616000
+2026-06-05,Tunjungan,Banana Bread,26,624000
+2026-06-06,Tunjungan,Es Kopi Susu,31,775000
+2026-06-06,Tunjungan,Americano,40,880000
+2026-06-06,Tunjungan,Latte,23,690000
+2026-06-06,Tunjungan,Matcha Latte,30,960000
+2026-06-06,Tunjungan,Croissant,41,1148000
+2026-06-06,Tunjungan,Banana Bread,23,552000
+2026-06-07,Tunjungan,Es Kopi Susu,27,675000
+2026-06-07,Tunjungan,Americano,26,572000
+2026-06-07,Tunjungan,Latte,30,900000
+2026-06-07,Tunjungan,Matcha Latte,41,1312000
+2026-06-07,Tunjungan,Croissant,29,812000
+2026-06-07,Tunjungan,Banana Bread,27,648000
+2026-06-08,Tunjungan,Es Kopi Susu,16,400000
+2026-06-08,Tunjungan,Americano,9,198000
+2026-06-08,Tunjungan,Latte,18,540000
+2026-06-08,Tunjungan,Matcha Latte,19,608000
+2026-06-08,Tunjungan,Croissant,11,308000
+2026-06-08,Tunjungan,Banana Bread,21,504000
+2026-06-09,Tunjungan,Es Kopi Susu,31,775000
+2026-06-09,Tunjungan,Americano,15,330000
+2026-06-09,Tunjungan,Latte,22,660000
+2026-06-09,Tunjungan,Matcha Latte,30,960000
+2026-06-09,Tunjungan,Croissant,23,644000
+2026-06-09,Tunjungan,Banana Bread,21,504000
+2026-06-10,Tunjungan,Es Kopi Susu,27,675000
+2026-06-10,Tunjungan,Americano,26,572000
+2026-06-10,Tunjungan,Latte,16,480000
+2026-06-10,Tunjungan,Matcha Latte,28,896000
+2026-06-10,Tunjungan,Croissant,15,420000
+2026-06-10,Tunjungan,Banana Bread,19,456000
+2026-06-11,Tunjungan,Es Kopi Susu,20,500000
+2026-06-11,Tunjungan,Americano,26,572000
+2026-06-11,Tunjungan,Latte,29,870000
+2026-06-11,Tunjungan,Matcha Latte,34,1088000
+2026-06-11,Tunjungan,Croissant,11,308000
+2026-06-11,Tunjungan,Banana Bread,37,888000
+2026-06-12,Tunjungan,Es Kopi Susu,17,425000
+2026-06-12,Tunjungan,Americano,21,462000
+2026-06-12,Tunjungan,Latte,13,390000
+2026-06-12,Tunjungan,Matcha Latte,34,1088000
+2026-06-12,Tunjungan,Croissant,22,616000
+2026-06-12,Tunjungan,Banana Bread,21,504000
+2026-06-13,Tunjungan,Es Kopi Susu,20,500000
+2026-06-13,Tunjungan,Americano,25,550000
+2026-06-13,Tunjungan,Latte,20,600000
+2026-06-13,Tunjungan,Matcha Latte,28,896000
+2026-06-13,Tunjungan,Croissant,42,1176000
+2026-06-13,Tunjungan,Banana Bread,30,720000
+2026-06-14,Tunjungan,Es Kopi Susu,34,850000
+2026-06-14,Tunjungan,Americano,35,770000
+2026-06-14,Tunjungan,Latte,33,990000
+2026-06-14,Tunjungan,Matcha Latte,36,1152000
+2026-06-14,Tunjungan,Croissant,36,1008000
+2026-06-14,Tunjungan,Banana Bread,53,1272000
+2026-06-15,Tunjungan,Es Kopi Susu,30,750000
+2026-06-15,Tunjungan,Americano,17,374000
+2026-06-15,Tunjungan,Latte,41,1230000
+2026-06-15,Tunjungan,Matcha Latte,32,1024000
+2026-06-15,Tunjungan,Croissant,30,840000
+2026-06-15,Tunjungan,Banana Bread,18,432000
+2026-06-16,Tunjungan,Es Kopi Susu,18,450000
+2026-06-16,Tunjungan,Americano,27,594000
+2026-06-16,Tunjungan,Latte,19,570000
+2026-06-16,Tunjungan,Matcha Latte,36,1152000
+2026-06-16,Tunjungan,Croissant,30,840000
+2026-06-16,Tunjungan,Banana Bread,26,624000
+2026-06-17,Tunjungan,Es Kopi Susu,16,400000
+2026-06-17,Tunjungan,Americano,16,352000
+2026-06-17,Tunjungan,Latte,26,780000
+2026-06-17,Tunjungan,Matcha Latte,26,832000
+2026-06-17,Tunjungan,Croissant,18,504000
+2026-06-17,Tunjungan,Banana Bread,21,504000
+2026-06-18,Tunjungan,Es Kopi Susu,30,750000
+2026-06-18,Tunjungan,Americano,18,396000
+2026-06-18,Tunjungan,Latte,30,900000
+2026-06-18,Tunjungan,Matcha Latte,13,416000
+2026-06-18,Tunjungan,Croissant,26,728000
+2026-06-18,Tunjungan,Banana Bread,32,768000
+2026-06-19,Tunjungan,Es Kopi Susu,19,475000
+2026-06-19,Tunjungan,Americano,14,308000
+2026-06-19,Tunjungan,Latte,31,930000
+2026-06-19,Tunjungan,Matcha Latte,26,832000
+2026-06-19,Tunjungan,Croissant,33,924000
+2026-06-19,Tunjungan,Banana Bread,20,480000
+2026-06-20,Tunjungan,Es Kopi Susu,22,550000
+2026-06-20,Tunjungan,Americano,28,616000
+2026-06-20,Tunjungan,Latte,18,540000
+2026-06-20,Tunjungan,Matcha Latte,30,960000
+2026-06-20,Tunjungan,Croissant,24,672000
+2026-06-20,Tunjungan,Banana Bread,38,912000
+2026-06-21,Tunjungan,Es Kopi Susu,17,425000
+2026-06-21,Tunjungan,Americano,21,462000
+2026-06-21,Tunjungan,Latte,35,1050000
+2026-06-21,Tunjungan,Matcha Latte,32,1024000
+2026-06-21,Tunjungan,Croissant,18,504000
+2026-06-21,Tunjungan,Banana Bread,22,528000
+2026-06-22,Tunjungan,Es Kopi Susu,20,500000
+2026-06-22,Tunjungan,Americano,13,286000
+2026-06-22,Tunjungan,Latte,25,750000
+2026-06-22,Tunjungan,Matcha Latte,17,544000
+2026-06-22,Tunjungan,Croissant,10,280000
+2026-06-22,Tunjungan,Banana Bread,18,432000
+2026-06-23,Tunjungan,Es Kopi Susu,16,400000
+2026-06-23,Tunjungan,Americano,18,396000
+2026-06-23,Tunjungan,Latte,13,390000
+2026-06-23,Tunjungan,Matcha Latte,18,576000
+2026-06-23,Tunjungan,Croissant,16,448000
+2026-06-23,Tunjungan,Banana Bread,25,600000
+2026-06-24,Tunjungan,Es Kopi Susu,26,650000
+2026-06-24,Tunjungan,Americano,31,682000
+2026-06-24,Tunjungan,Latte,29,870000
+2026-06-24,Tunjungan,Matcha Latte,28,896000
+2026-06-24,Tunjungan,Croissant,16,448000
+2026-06-24,Tunjungan,Banana Bread,20,480000
+2026-06-25,Tunjungan,Es Kopi Susu,12,300000
+2026-06-25,Tunjungan,Americano,12,264000
+2026-06-25,Tunjungan,Latte,30,900000
+2026-06-25,Tunjungan,Matcha Latte,16,512000
+2026-06-25,Tunjungan,Croissant,16,448000
+2026-06-25,Tunjungan,Banana Bread,26,624000
+2026-06-26,Tunjungan,Es Kopi Susu,26,650000
+2026-06-26,Tunjungan,Americano,18,396000
+2026-06-26,Tunjungan,Latte,17,510000
+2026-06-26,Tunjungan,Matcha Latte,27,864000
+2026-06-26,Tunjungan,Croissant,11,308000
+2026-06-26,Tunjungan,Banana Bread,21,504000
+2026-06-27,Tunjungan,Es Kopi Susu,28,700000
+2026-06-27,Tunjungan,Americano,18,396000
+2026-06-27,Tunjungan,Latte,22,660000
+2026-06-27,Tunjungan,Matcha Latte,32,1024000
+2026-06-27,Tunjungan,Croissant,26,728000
+2026-06-27,Tunjungan,Banana Bread,36,864000
+2026-06-28,Tunjungan,Es Kopi Susu,29,725000
+2026-06-28,Tunjungan,Americano,24,528000
+2026-06-28,Tunjungan,Latte,21,630000
+2026-06-28,Tunjungan,Matcha Latte,34,1088000
+2026-06-28,Tunjungan,Croissant,11,308000
+2026-06-28,Tunjungan,Banana Bread,30,720000
+2026-06-29,Tunjungan,Es Kopi Susu,13,325000
+2026-06-29,Tunjungan,Americano,18,396000
+2026-06-29,Tunjungan,Latte,27,810000
+2026-06-29,Tunjungan,Matcha Latte,15,480000
+2026-06-29,Tunjungan,Croissant,14,392000
+2026-06-29,Tunjungan,Banana Bread,20,480000
+2026-06-30,Tunjungan,Es Kopi Susu,16,400000
+2026-06-30,Tunjungan,Americano,22,484000
+2026-06-30,Tunjungan,Latte,23,690000
+2026-06-30,Tunjungan,Matcha Latte,29,928000
+2026-06-30,Tunjungan,Croissant,36,1008000
+2026-06-30,Tunjungan,Banana Bread,11,264000
+2026-05-01,Sanur,Es Kopi Susu,21,525000
+2026-05-01,Sanur,Americano,23,506000
+2026-05-01,Sanur,Latte,11,330000
+2026-05-01,Sanur,Matcha Latte,16,512000
+2026-05-01,Sanur,Croissant,21,588000
+2026-05-01,Sanur,Banana Bread,15,360000
+2026-05-02,Sanur,Es Kopi Susu,31,775000
+2026-05-02,Sanur,Americano,32,704000
+2026-05-02,Sanur,Latte,45,1350000
+2026-05-02,Sanur,Matcha Latte,27,864000
+2026-05-02,Sanur,Croissant,33,924000
+2026-05-02,Sanur,Banana Bread,32,768000
+2026-05-03,Sanur,Es Kopi Susu,35,875000
+2026-05-03,Sanur,Americano,32,704000
+2026-05-03,Sanur,Latte,21,630000
+2026-05-03,Sanur,Matcha Latte,20,640000
+2026-05-03,Sanur,Croissant,30,840000
+2026-05-03,Sanur,Banana Bread,34,816000
+2026-05-04,Sanur,Es Kopi Susu,22,550000
+2026-05-04,Sanur,Americano,13,286000
+2026-05-04,Sanur,Latte,28,840000
+2026-05-04,Sanur,Matcha Latte,18,576000
+2026-05-04,Sanur,Croissant,28,784000
+2026-05-04,Sanur,Banana Bread,21,504000
+2026-05-05,Sanur,Es Kopi Susu,27,675000
+2026-05-05,Sanur,Americano,24,528000
+2026-05-05,Sanur,Latte,21,630000
+2026-05-05,Sanur,Matcha Latte,30,960000
+2026-05-05,Sanur,Croissant,27,756000
+2026-05-05,Sanur,Banana Bread,10,240000
+2026-05-06,Sanur,Es Kopi Susu,24,600000
+2026-05-06,Sanur,Americano,20,440000
+2026-05-06,Sanur,Latte,34,1020000
+2026-05-06,Sanur,Matcha Latte,27,864000
+2026-05-06,Sanur,Croissant,23,644000
+2026-05-06,Sanur,Banana Bread,24,576000
+2026-05-07,Sanur,Es Kopi Susu,37,925000
+2026-05-07,Sanur,Americano,23,506000
+2026-05-07,Sanur,Latte,12,360000
+2026-05-07,Sanur,Matcha Latte,17,544000
+2026-05-07,Sanur,Croissant,25,700000
+2026-05-07,Sanur,Banana Bread,22,528000
+2026-05-08,Sanur,Es Kopi Susu,31,775000
+2026-05-08,Sanur,Americano,26,572000
+2026-05-08,Sanur,Latte,29,870000
+2026-05-08,Sanur,Matcha Latte,32,1024000
+2026-05-08,Sanur,Croissant,21,588000
+2026-05-08,Sanur,Banana Bread,21,504000
+2026-05-09,Sanur,Es Kopi Susu,30,750000
+2026-05-09,Sanur,Americano,25,550000
+2026-05-09,Sanur,Latte,30,900000
+2026-05-09,Sanur,Matcha Latte,28,896000
+2026-05-09,Sanur,Croissant,30,840000
+2026-05-09,Sanur,Banana Bread,34,816000
+2026-05-10,Sanur,Es Kopi Susu,28,700000
+2026-05-10,Sanur,Americano,40,880000
+2026-05-10,Sanur,Latte,35,1050000
+2026-05-10,Sanur,Matcha Latte,37,1184000
+2026-05-10,Sanur,Croissant,29,812000
+2026-05-10,Sanur,Banana Bread,17,408000
+2026-05-11,Sanur,Es Kopi Susu,17,425000
+2026-05-11,Sanur,Americano,23,506000
+2026-05-11,Sanur,Latte,35,1050000
+2026-05-11,Sanur,Matcha Latte,33,1056000
+2026-05-11,Sanur,Croissant,26,728000
+2026-05-11,Sanur,Banana Bread,32,768000
+2026-05-12,Sanur,Es Kopi Susu,15,375000
+2026-05-12,Sanur,Americano,32,704000
+2026-05-12,Sanur,Latte,29,870000
+2026-05-12,Sanur,Matcha Latte,29,928000
+2026-05-12,Sanur,Croissant,33,924000
+2026-05-12,Sanur,Banana Bread,28,672000
+2026-05-13,Sanur,Es Kopi Susu,27,675000
+2026-05-13,Sanur,Americano,38,836000
+2026-05-13,Sanur,Latte,26,780000
+2026-05-13,Sanur,Matcha Latte,34,1088000
+2026-05-13,Sanur,Croissant,30,840000
+2026-05-13,Sanur,Banana Bread,21,504000
+2026-05-14,Sanur,Es Kopi Susu,26,650000
+2026-05-14,Sanur,Americano,33,726000
+2026-05-14,Sanur,Latte,32,960000
+2026-05-14,Sanur,Matcha Latte,18,576000
+2026-05-14,Sanur,Croissant,23,644000
+2026-05-14,Sanur,Banana Bread,22,528000
+2026-05-15,Sanur,Es Kopi Susu,23,575000
+2026-05-15,Sanur,Americano,26,572000
+2026-05-15,Sanur,Latte,13,390000
+2026-05-15,Sanur,Matcha Latte,13,416000
+2026-05-15,Sanur,Croissant,23,644000
+2026-05-15,Sanur,Banana Bread,26,624000
+2026-05-16,Sanur,Es Kopi Susu,42,1050000
+2026-05-16,Sanur,Americano,22,484000
+2026-05-16,Sanur,Latte,41,1230000
+2026-05-16,Sanur,Matcha Latte,47,1504000
+2026-05-16,Sanur,Croissant,54,1512000
+2026-05-16,Sanur,Banana Bread,30,720000
+2026-05-17,Sanur,Es Kopi Susu,28,700000
+2026-05-17,Sanur,Americano,20,440000
+2026-05-17,Sanur,Latte,28,840000
+2026-05-17,Sanur,Matcha Latte,41,1312000
+2026-05-17,Sanur,Croissant,27,756000
+2026-05-17,Sanur,Banana Bread,37,888000
+2026-05-18,Sanur,Es Kopi Susu,23,575000
+2026-05-18,Sanur,Americano,24,528000
+2026-05-18,Sanur,Latte,10,300000
+2026-05-18,Sanur,Matcha Latte,19,608000
+2026-05-18,Sanur,Croissant,27,756000
+2026-05-18,Sanur,Banana Bread,30,720000
+2026-05-19,Sanur,Es Kopi Susu,19,475000
+2026-05-19,Sanur,Americano,28,616000
+2026-05-19,Sanur,Latte,10,300000
+2026-05-19,Sanur,Matcha Latte,12,384000
+2026-05-19,Sanur,Croissant,25,700000
+2026-05-19,Sanur,Banana Bread,23,552000
+2026-05-20,Sanur,Es Kopi Susu,26,650000
+2026-05-20,Sanur,Americano,28,616000
+2026-05-20,Sanur,Latte,34,1020000
+2026-05-20,Sanur,Matcha Latte,41,1312000
+2026-05-20,Sanur,Croissant,20,560000
+2026-05-20,Sanur,Banana Bread,26,624000
+2026-05-21,Sanur,Es Kopi Susu,10,250000
+2026-05-21,Sanur,Americano,25,550000
+2026-05-21,Sanur,Latte,24,720000
+2026-05-21,Sanur,Matcha Latte,27,864000
+2026-05-21,Sanur,Croissant,34,952000
+2026-05-21,Sanur,Banana Bread,29,696000
+2026-05-22,Sanur,Es Kopi Susu,28,700000
+2026-05-22,Sanur,Americano,18,396000
+2026-05-22,Sanur,Latte,28,840000
+2026-05-22,Sanur,Matcha Latte,20,640000
+2026-05-22,Sanur,Croissant,33,924000
+2026-05-22,Sanur,Banana Bread,38,912000
+2026-05-23,Sanur,Es Kopi Susu,48,1200000
+2026-05-23,Sanur,Americano,29,638000
+2026-05-23,Sanur,Latte,22,660000
+2026-05-23,Sanur,Matcha Latte,39,1248000
+2026-05-23,Sanur,Croissant,38,1064000
+2026-05-23,Sanur,Banana Bread,36,864000
+2026-05-24,Sanur,Es Kopi Susu,41,1025000
+2026-05-24,Sanur,Americano,33,726000
+2026-05-24,Sanur,Latte,32,960000
+2026-05-24,Sanur,Matcha Latte,24,768000
+2026-05-24,Sanur,Croissant,48,1344000
+2026-05-24,Sanur,Banana Bread,24,576000
+2026-05-25,Sanur,Es Kopi Susu,28,700000
+2026-05-25,Sanur,Americano,28,616000
+2026-05-25,Sanur,Latte,18,540000
+2026-05-25,Sanur,Matcha Latte,28,896000
+2026-05-25,Sanur,Croissant,49,1372000
+2026-05-25,Sanur,Banana Bread,23,552000
+2026-05-26,Sanur,Es Kopi Susu,18,450000
+2026-05-26,Sanur,Americano,18,396000
+2026-05-26,Sanur,Latte,26,780000
+2026-05-26,Sanur,Matcha Latte,24,768000
+2026-05-26,Sanur,Croissant,19,532000
+2026-05-26,Sanur,Banana Bread,34,816000
+2026-05-27,Sanur,Es Kopi Susu,23,575000
+2026-05-27,Sanur,Americano,28,616000
+2026-05-27,Sanur,Latte,32,960000
+2026-05-27,Sanur,Matcha Latte,25,800000
+2026-05-27,Sanur,Croissant,20,560000
+2026-05-27,Sanur,Banana Bread,14,336000
+2026-05-28,Sanur,Es Kopi Susu,21,525000
+2026-05-28,Sanur,Americano,28,616000
+2026-05-28,Sanur,Latte,29,870000
+2026-05-28,Sanur,Matcha Latte,14,448000
+2026-05-28,Sanur,Croissant,18,504000
+2026-05-28,Sanur,Banana Bread,29,696000
+2026-05-29,Sanur,Es Kopi Susu,17,425000
+2026-05-29,Sanur,Americano,25,550000
+2026-05-29,Sanur,Latte,18,540000
+2026-05-29,Sanur,Matcha Latte,29,928000
+2026-05-29,Sanur,Croissant,14,392000
+2026-05-29,Sanur,Banana Bread,18,432000
+2026-05-30,Sanur,Es Kopi Susu,32,800000
+2026-05-30,Sanur,Americano,27,594000
+2026-05-30,Sanur,Latte,25,750000
+2026-05-30,Sanur,Matcha Latte,38,1216000
+2026-05-30,Sanur,Croissant,44,1232000
+2026-05-30,Sanur,Banana Bread,23,552000
+2026-05-31,Sanur,Es Kopi Susu,38,950000
+2026-05-31,Sanur,Americano,32,704000
+2026-05-31,Sanur,Latte,34,1020000
+2026-05-31,Sanur,Matcha Latte,30,960000
+2026-05-31,Sanur,Croissant,34,952000
+2026-05-31,Sanur,Banana Bread,33,792000
+2026-06-01,Sanur,Es Kopi Susu,23,575000
+2026-06-01,Sanur,Americano,32,704000
+2026-06-01,Sanur,Latte,26,780000
+2026-06-01,Sanur,Matcha Latte,21,672000
+2026-06-01,Sanur,Croissant,23,644000
+2026-06-01,Sanur,Banana Bread,25,600000
+2026-06-02,Sanur,Es Kopi Susu,33,825000
+2026-06-02,Sanur,Americano,22,484000
+2026-06-02,Sanur,Latte,24,720000
+2026-06-02,Sanur,Matcha Latte,27,864000
+2026-06-02,Sanur,Croissant,14,392000
+2026-06-02,Sanur,Banana Bread,17,408000
+2026-06-03,Sanur,Es Kopi Susu,28,700000
+2026-06-03,Sanur,Americano,20,440000
+2026-06-03,Sanur,Latte,21,630000
+2026-06-03,Sanur,Matcha Latte,22,704000
+2026-06-03,Sanur,Croissant,34,952000
+2026-06-03,Sanur,Banana Bread,20,480000
+2026-06-04,Sanur,Es Kopi Susu,20,500000
+2026-06-04,Sanur,Americano,37,814000
+2026-06-04,Sanur,Latte,29,870000
+2026-06-04,Sanur,Matcha Latte,23,736000
+2026-06-04,Sanur,Croissant,28,784000
+2026-06-04,Sanur,Banana Bread,22,528000
+2026-06-05,Sanur,Es Kopi Susu,25,625000
+2026-06-05,Sanur,Americano,22,484000
+2026-06-05,Sanur,Latte,25,750000
+2026-06-05,Sanur,Matcha Latte,39,1248000
+2026-06-05,Sanur,Croissant,14,392000
+2026-06-05,Sanur,Banana Bread,29,696000
+2026-06-06,Sanur,Es Kopi Susu,29,725000
+2026-06-06,Sanur,Americano,31,682000
+2026-06-06,Sanur,Latte,11,330000
+2026-06-06,Sanur,Matcha Latte,21,672000
+2026-06-06,Sanur,Croissant,24,672000
+2026-06-06,Sanur,Banana Bread,25,600000
+2026-06-07,Sanur,Es Kopi Susu,30,750000
+2026-06-07,Sanur,Americano,47,1034000
+2026-06-07,Sanur,Latte,25,750000
+2026-06-07,Sanur,Matcha Latte,46,1472000
+2026-06-07,Sanur,Croissant,21,588000
+2026-06-07,Sanur,Banana Bread,36,864000
+2026-06-08,Sanur,Es Kopi Susu,33,825000
+2026-06-08,Sanur,Americano,21,462000
+2026-06-08,Sanur,Latte,35,1050000
+2026-06-08,Sanur,Matcha Latte,23,736000
+2026-06-08,Sanur,Croissant,22,616000
+2026-06-08,Sanur,Banana Bread,14,336000
+2026-06-09,Sanur,Es Kopi Susu,28,700000
+2026-06-09,Sanur,Americano,14,308000
+2026-06-09,Sanur,Latte,26,780000
+2026-06-09,Sanur,Matcha Latte,26,832000
+2026-06-09,Sanur,Croissant,27,756000
+2026-06-09,Sanur,Banana Bread,19,456000
+2026-06-10,Sanur,Es Kopi Susu,22,550000
+2026-06-10,Sanur,Americano,22,484000
+2026-06-10,Sanur,Latte,14,420000
+2026-06-10,Sanur,Matcha Latte,17,544000
+2026-06-10,Sanur,Croissant,35,980000
+2026-06-10,Sanur,Banana Bread,14,336000
+2026-06-11,Sanur,Es Kopi Susu,25,625000
+2026-06-11,Sanur,Americano,18,396000
+2026-06-11,Sanur,Latte,21,630000
+2026-06-11,Sanur,Matcha Latte,17,544000
+2026-06-11,Sanur,Croissant,25,700000
+2026-06-11,Sanur,Banana Bread,14,336000
+2026-06-12,Sanur,Es Kopi Susu,33,825000
+2026-06-12,Sanur,Americano,22,484000
+2026-06-12,Sanur,Latte,30,900000
+2026-06-12,Sanur,Matcha Latte,25,800000
+2026-06-12,Sanur,Croissant,28,784000
+2026-06-12,Sanur,Banana Bread,16,384000
+2026-06-13,Sanur,Es Kopi Susu,40,1000000
+2026-06-13,Sanur,Americano,31,682000
+2026-06-13,Sanur,Latte,36,1080000
+2026-06-13,Sanur,Matcha Latte,28,896000
+2026-06-13,Sanur,Croissant,20,560000
+2026-06-13,Sanur,Banana Bread,35,840000
+2026-06-14,Sanur,Es Kopi Susu,41,1025000
+2026-06-14,Sanur,Americano,25,550000
+2026-06-14,Sanur,Latte,30,900000
+2026-06-14,Sanur,Matcha Latte,46,1472000
+2026-06-14,Sanur,Croissant,27,756000
+2026-06-14,Sanur,Banana Bread,23,552000
+2026-06-15,Sanur,Es Kopi Susu,21,525000
+2026-06-15,Sanur,Americano,31,682000
+2026-06-15,Sanur,Latte,25,750000
+2026-06-15,Sanur,Matcha Latte,32,1024000
+2026-06-15,Sanur,Croissant,32,896000
+2026-06-15,Sanur,Banana Bread,27,648000
+2026-06-16,Sanur,Es Kopi Susu,21,525000
+2026-06-16,Sanur,Americano,26,572000
+2026-06-16,Sanur,Latte,29,870000
+2026-06-16,Sanur,Matcha Latte,35,1120000
+2026-06-16,Sanur,Croissant,33,924000
+2026-06-16,Sanur,Banana Bread,27,648000
+2026-06-17,Sanur,Es Kopi Susu,20,500000
+2026-06-17,Sanur,Americano,25,550000
+2026-06-17,Sanur,Latte,19,570000
+2026-06-17,Sanur,Matcha Latte,25,800000
+2026-06-17,Sanur,Croissant,28,784000
+2026-06-17,Sanur,Banana Bread,38,912000
+2026-06-18,Sanur,Es Kopi Susu,27,675000
+2026-06-18,Sanur,Americano,17,374000
+2026-06-18,Sanur,Latte,23,690000
+2026-06-18,Sanur,Matcha Latte,32,1024000
+2026-06-18,Sanur,Croissant,25,700000
+2026-06-18,Sanur,Banana Bread,28,672000
+2026-06-19,Sanur,Es Kopi Susu,22,550000
+2026-06-19,Sanur,Americano,30,660000
+2026-06-19,Sanur,Latte,15,450000
+2026-06-19,Sanur,Matcha Latte,17,544000
+2026-06-19,Sanur,Croissant,36,1008000
+2026-06-19,Sanur,Banana Bread,25,600000
+2026-06-20,Sanur,Es Kopi Susu,34,850000
+2026-06-20,Sanur,Americano,38,836000
+2026-06-20,Sanur,Latte,27,810000
+2026-06-20,Sanur,Matcha Latte,29,928000
+2026-06-20,Sanur,Croissant,33,924000
+2026-06-20,Sanur,Banana Bread,25,600000
+2026-06-21,Sanur,Es Kopi Susu,33,825000
+2026-06-21,Sanur,Americano,30,660000
+2026-06-21,Sanur,Latte,41,1230000
+2026-06-21,Sanur,Matcha Latte,32,1024000
+2026-06-21,Sanur,Croissant,37,1036000
+2026-06-21,Sanur,Banana Bread,25,600000
+2026-06-22,Sanur,Es Kopi Susu,37,925000
+2026-06-22,Sanur,Americano,34,748000
+2026-06-22,Sanur,Latte,12,360000
+2026-06-22,Sanur,Matcha Latte,40,1280000
+2026-06-22,Sanur,Croissant,36,1008000
+2026-06-22,Sanur,Banana Bread,23,552000
+2026-06-23,Sanur,Es Kopi Susu,23,575000
+2026-06-23,Sanur,Americano,32,704000
+2026-06-23,Sanur,Latte,7,210000
+2026-06-23,Sanur,Matcha Latte,22,704000
+2026-06-23,Sanur,Croissant,22,616000
+2026-06-23,Sanur,Banana Bread,21,504000
+2026-06-24,Sanur,Es Kopi Susu,25,625000
+2026-06-24,Sanur,Americano,35,770000
+2026-06-24,Sanur,Latte,31,930000
+2026-06-24,Sanur,Matcha Latte,23,736000
+2026-06-24,Sanur,Croissant,22,616000
+2026-06-24,Sanur,Banana Bread,39,936000
+2026-06-25,Sanur,Es Kopi Susu,23,575000
+2026-06-25,Sanur,Americano,29,638000
+2026-06-25,Sanur,Latte,11,330000
+2026-06-25,Sanur,Matcha Latte,21,672000
+2026-06-25,Sanur,Croissant,19,532000
+2026-06-25,Sanur,Banana Bread,30,720000
+2026-06-26,Sanur,Es Kopi Susu,19,475000
+2026-06-26,Sanur,Americano,15,330000
+2026-06-26,Sanur,Latte,29,870000
+2026-06-26,Sanur,Matcha Latte,39,1248000
+2026-06-26,Sanur,Croissant,24,672000
+2026-06-26,Sanur,Banana Bread,24,576000
+2026-06-27,Sanur,Es Kopi Susu,24,600000
+2026-06-27,Sanur,Americano,26,572000
+2026-06-27,Sanur,Latte,34,1020000
+2026-06-27,Sanur,Matcha Latte,27,864000
+2026-06-27,Sanur,Croissant,38,1064000
+2026-06-27,Sanur,Banana Bread,40,960000
+2026-06-28,Sanur,Es Kopi Susu,53,1325000
+2026-06-28,Sanur,Americano,33,726000
+2026-06-28,Sanur,Latte,26,780000
+2026-06-28,Sanur,Matcha Latte,21,672000
+2026-06-28,Sanur,Croissant,34,952000
+2026-06-28,Sanur,Banana Bread,16,384000
+2026-06-29,Sanur,Es Kopi Susu,21,525000
+2026-06-29,Sanur,Americano,16,352000
+2026-06-29,Sanur,Latte,25,750000
+2026-06-29,Sanur,Matcha Latte,28,896000
+2026-06-29,Sanur,Croissant,25,700000
+2026-06-29,Sanur,Banana Bread,32,768000
+2026-06-30,Sanur,Es Kopi Susu,32,800000
+2026-06-30,Sanur,Americano,32,704000
+2026-06-30,Sanur,Latte,28,840000
+2026-06-30,Sanur,Matcha Latte,70,2240000
+2026-06-30,Sanur,Croissant,35,980000
+2026-06-30,Sanur,Banana Bread,18,432000
+2026-05-01,Kotabaru,Es Kopi Susu,23,575000
+2026-05-01,Kotabaru,Americano,27,594000
+2026-05-01,Kotabaru,Latte,26,780000
+2026-05-01,Kotabaru,Matcha Latte,20,640000
+2026-05-01,Kotabaru,Croissant,32,896000
+2026-05-01,Kotabaru,Banana Bread,19,456000
+2026-05-02,Kotabaru,Es Kopi Susu,42,1050000
+2026-05-02,Kotabaru,Americano,30,660000
+2026-05-02,Kotabaru,Latte,36,1080000
+2026-05-02,Kotabaru,Matcha Latte,29,928000
+2026-05-02,Kotabaru,Croissant,27,756000
+2026-05-02,Kotabaru,Banana Bread,29,696000
+2026-05-03,Kotabaru,Es Kopi Susu,40,1000000
+2026-05-03,Kotabaru,Americano,26,572000
+2026-05-03,Kotabaru,Latte,50,1500000
+2026-05-03,Kotabaru,Matcha Latte,32,1024000
+2026-05-03,Kotabaru,Croissant,38,1064000
+2026-05-03,Kotabaru,Banana Bread,41,984000
+2026-05-04,Kotabaru,Es Kopi Susu,26,650000
+2026-05-04,Kotabaru,Americano,25,550000
+2026-05-04,Kotabaru,Latte,28,840000
+2026-05-04,Kotabaru,Matcha Latte,19,608000
+2026-05-04,Kotabaru,Croissant,26,728000
+2026-05-04,Kotabaru,Banana Bread,34,816000
+2026-05-05,Kotabaru,Es Kopi Susu,38,950000
+2026-05-05,Kotabaru,Americano,22,484000
+2026-05-05,Kotabaru,Latte,22,660000
+2026-05-05,Kotabaru,Matcha Latte,25,800000
+2026-05-05,Kotabaru,Croissant,35,980000
+2026-05-05,Kotabaru,Banana Bread,24,576000
+2026-05-06,Kotabaru,Es Kopi Susu,26,650000
+2026-05-06,Kotabaru,Americano,23,506000
+2026-05-06,Kotabaru,Latte,26,780000
+2026-05-06,Kotabaru,Matcha Latte,31,992000
+2026-05-06,Kotabaru,Croissant,31,868000
+2026-05-06,Kotabaru,Banana Bread,37,888000
+2026-05-07,Kotabaru,Es Kopi Susu,13,325000
+2026-05-07,Kotabaru,Americano,32,704000
+2026-05-07,Kotabaru,Latte,24,720000
+2026-05-07,Kotabaru,Matcha Latte,27,864000
+2026-05-07,Kotabaru,Croissant,19,532000
+2026-05-07,Kotabaru,Banana Bread,26,624000
+2026-05-08,Kotabaru,Es Kopi Susu,23,575000
+2026-05-08,Kotabaru,Americano,30,660000
+2026-05-08,Kotabaru,Latte,27,810000
+2026-05-08,Kotabaru,Matcha Latte,26,832000
+2026-05-08,Kotabaru,Croissant,39,1092000
+2026-05-08,Kotabaru,Banana Bread,21,504000
+2026-05-09,Kotabaru,Es Kopi Susu,32,800000
+2026-05-09,Kotabaru,Americano,41,902000
+2026-05-09,Kotabaru,Latte,17,510000
+2026-05-09,Kotabaru,Matcha Latte,37,1184000
+2026-05-09,Kotabaru,Croissant,49,1372000
+2026-05-09,Kotabaru,Banana Bread,50,1200000
+2026-05-10,Kotabaru,Es Kopi Susu,39,975000
+2026-05-10,Kotabaru,Americano,31,682000
+2026-05-10,Kotabaru,Latte,32,960000
+2026-05-10,Kotabaru,Matcha Latte,23,736000
+2026-05-10,Kotabaru,Croissant,39,1092000
+2026-05-10,Kotabaru,Banana Bread,34,816000
+2026-05-11,Kotabaru,Es Kopi Susu,26,650000
+2026-05-11,Kotabaru,Americano,23,506000
+2026-05-11,Kotabaru,Latte,18,540000
+2026-05-11,Kotabaru,Matcha Latte,33,1056000
+2026-05-11,Kotabaru,Croissant,23,644000
+2026-05-11,Kotabaru,Banana Bread,27,648000
+2026-05-12,Kotabaru,Es Kopi Susu,29,725000
+2026-05-12,Kotabaru,Americano,21,462000
+2026-05-12,Kotabaru,Latte,14,420000
+2026-05-12,Kotabaru,Matcha Latte,11,352000
+2026-05-12,Kotabaru,Croissant,23,644000
+2026-05-12,Kotabaru,Banana Bread,14,336000
+2026-05-13,Kotabaru,Es Kopi Susu,17,425000
+2026-05-13,Kotabaru,Americano,24,528000
+2026-05-13,Kotabaru,Latte,22,660000
+2026-05-13,Kotabaru,Matcha Latte,33,1056000
+2026-05-13,Kotabaru,Croissant,21,588000
+2026-05-13,Kotabaru,Banana Bread,37,888000
+2026-05-14,Kotabaru,Es Kopi Susu,39,975000
+2026-05-14,Kotabaru,Americano,15,330000
+2026-05-14,Kotabaru,Latte,23,690000
+2026-05-14,Kotabaru,Matcha Latte,25,800000
+2026-05-14,Kotabaru,Croissant,34,952000
+2026-05-14,Kotabaru,Banana Bread,27,648000
+2026-05-15,Kotabaru,Es Kopi Susu,28,700000
+2026-05-15,Kotabaru,Americano,32,704000
+2026-05-15,Kotabaru,Latte,29,870000
+2026-05-15,Kotabaru,Matcha Latte,20,640000
+2026-05-15,Kotabaru,Croissant,24,672000
+2026-05-15,Kotabaru,Banana Bread,30,720000
+2026-05-16,Kotabaru,Es Kopi Susu,50,1250000
+2026-05-16,Kotabaru,Americano,27,594000
+2026-05-16,Kotabaru,Latte,30,900000
+2026-05-16,Kotabaru,Matcha Latte,39,1248000
+2026-05-16,Kotabaru,Croissant,25,700000
+2026-05-16,Kotabaru,Banana Bread,52,1248000
+2026-05-17,Kotabaru,Es Kopi Susu,34,850000
+2026-05-17,Kotabaru,Americano,33,726000
+2026-05-17,Kotabaru,Latte,36,1080000
+2026-05-17,Kotabaru,Matcha Latte,43,1376000
+2026-05-17,Kotabaru,Croissant,34,952000
+2026-05-17,Kotabaru,Banana Bread,33,792000
+2026-05-18,Kotabaru,Es Kopi Susu,29,725000
+2026-05-18,Kotabaru,Americano,25,550000
+2026-05-18,Kotabaru,Latte,29,870000
+2026-05-18,Kotabaru,Matcha Latte,18,576000
+2026-05-18,Kotabaru,Croissant,34,952000
+2026-05-18,Kotabaru,Banana Bread,20,480000
+2026-05-19,Kotabaru,Es Kopi Susu,38,950000
+2026-05-19,Kotabaru,Americano,31,682000
+2026-05-19,Kotabaru,Latte,16,480000
+2026-05-19,Kotabaru,Matcha Latte,21,672000
+2026-05-19,Kotabaru,Croissant,32,896000
+2026-05-19,Kotabaru,Banana Bread,35,840000
+2026-05-20,Kotabaru,Es Kopi Susu,21,525000
+2026-05-20,Kotabaru,Americano,21,462000
+2026-05-20,Kotabaru,Latte,29,870000
+2026-05-20,Kotabaru,Matcha Latte,24,768000
+2026-05-20,Kotabaru,Croissant,35,980000
+2026-05-20,Kotabaru,Banana Bread,34,816000
+2026-05-21,Kotabaru,Es Kopi Susu,17,425000
+2026-05-21,Kotabaru,Americano,27,594000
+2026-05-21,Kotabaru,Latte,18,540000
+2026-05-21,Kotabaru,Matcha Latte,24,768000
+2026-05-21,Kotabaru,Croissant,24,672000
+2026-05-21,Kotabaru,Banana Bread,18,432000
+2026-05-22,Kotabaru,Es Kopi Susu,32,800000
+2026-05-22,Kotabaru,Americano,24,528000
+2026-05-22,Kotabaru,Latte,22,660000
+2026-05-22,Kotabaru,Matcha Latte,15,480000
+2026-05-22,Kotabaru,Croissant,29,812000
+2026-05-22,Kotabaru,Banana Bread,17,408000
+2026-05-23,Kotabaru,Es Kopi Susu,55,1375000
+2026-05-23,Kotabaru,Americano,40,880000
+2026-05-23,Kotabaru,Latte,23,690000
+2026-05-23,Kotabaru,Matcha Latte,36,1152000
+2026-05-23,Kotabaru,Croissant,38,1064000
+2026-05-23,Kotabaru,Banana Bread,27,648000
+2026-05-24,Kotabaru,Es Kopi Susu,63,1575000
+2026-05-24,Kotabaru,Americano,43,946000
+2026-05-24,Kotabaru,Latte,27,810000
+2026-05-24,Kotabaru,Matcha Latte,29,928000
+2026-05-24,Kotabaru,Croissant,33,924000
+2026-05-24,Kotabaru,Banana Bread,29,696000
+2026-05-25,Kotabaru,Es Kopi Susu,26,650000
+2026-05-25,Kotabaru,Americano,32,704000
+2026-05-25,Kotabaru,Latte,22,660000
+2026-05-25,Kotabaru,Matcha Latte,19,608000
+2026-05-25,Kotabaru,Croissant,42,1176000
+2026-05-25,Kotabaru,Banana Bread,22,528000
+2026-05-26,Kotabaru,Es Kopi Susu,31,775000
+2026-05-26,Kotabaru,Americano,31,682000
+2026-05-26,Kotabaru,Latte,23,690000
+2026-05-26,Kotabaru,Matcha Latte,20,640000
+2026-05-26,Kotabaru,Croissant,21,588000
+2026-05-26,Kotabaru,Banana Bread,26,624000
+2026-05-27,Kotabaru,Es Kopi Susu,25,625000
+2026-05-27,Kotabaru,Americano,21,462000
+2026-05-27,Kotabaru,Latte,24,720000
+2026-05-27,Kotabaru,Matcha Latte,32,1024000
+2026-05-27,Kotabaru,Croissant,20,560000
+2026-05-27,Kotabaru,Banana Bread,25,600000
+2026-05-28,Kotabaru,Es Kopi Susu,36,900000
+2026-05-28,Kotabaru,Americano,18,396000
+2026-05-28,Kotabaru,Latte,26,780000
+2026-05-28,Kotabaru,Matcha Latte,35,1120000
+2026-05-28,Kotabaru,Croissant,38,1064000
+2026-05-28,Kotabaru,Banana Bread,30,720000
+2026-05-29,Kotabaru,Es Kopi Susu,27,675000
+2026-05-29,Kotabaru,Americano,32,704000
+2026-05-29,Kotabaru,Latte,28,840000
+2026-05-29,Kotabaru,Matcha Latte,15,480000
+2026-05-29,Kotabaru,Croissant,24,672000
+2026-05-29,Kotabaru,Banana Bread,34,816000
+2026-05-30,Kotabaru,Es Kopi Susu,46,1150000
+2026-05-30,Kotabaru,Americano,36,792000
+2026-05-30,Kotabaru,Latte,51,1530000
+2026-05-30,Kotabaru,Matcha Latte,45,1440000
+2026-05-30,Kotabaru,Croissant,25,700000
+2026-05-30,Kotabaru,Banana Bread,23,552000
+2026-05-31,Kotabaru,Es Kopi Susu,40,1000000
+2026-05-31,Kotabaru,Americano,20,440000
+2026-05-31,Kotabaru,Latte,29,870000
+2026-05-31,Kotabaru,Matcha Latte,30,960000
+2026-05-31,Kotabaru,Croissant,31,868000
+2026-05-31,Kotabaru,Banana Bread,51,1224000
+2026-06-01,Kotabaru,Es Kopi Susu,27,675000
+2026-06-01,Kotabaru,Americano,23,506000
+2026-06-01,Kotabaru,Latte,34,1020000
+2026-06-01,Kotabaru,Matcha Latte,33,1056000
+2026-06-01,Kotabaru,Croissant,31,868000
+2026-06-01,Kotabaru,Banana Bread,17,408000
+2026-06-02,Kotabaru,Es Kopi Susu,25,625000
+2026-06-02,Kotabaru,Americano,34,748000
+2026-06-02,Kotabaru,Latte,17,510000
+2026-06-02,Kotabaru,Matcha Latte,33,1056000
+2026-06-02,Kotabaru,Croissant,35,980000
+2026-06-02,Kotabaru,Banana Bread,15,360000
+2026-06-03,Kotabaru,Es Kopi Susu,29,725000
+2026-06-03,Kotabaru,Americano,43,946000
+2026-06-03,Kotabaru,Latte,20,600000
+2026-06-03,Kotabaru,Matcha Latte,9,288000
+2026-06-03,Kotabaru,Croissant,34,952000
+2026-06-03,Kotabaru,Banana Bread,36,864000
+2026-06-04,Kotabaru,Es Kopi Susu,40,1000000
+2026-06-04,Kotabaru,Americano,40,880000
+2026-06-04,Kotabaru,Latte,34,1020000
+2026-06-04,Kotabaru,Matcha Latte,37,1184000
+2026-06-04,Kotabaru,Croissant,18,504000
+2026-06-04,Kotabaru,Banana Bread,39,936000
+2026-06-05,Kotabaru,Es Kopi Susu,21,525000
+2026-06-05,Kotabaru,Americano,27,594000
+2026-06-05,Kotabaru,Latte,19,570000
+2026-06-05,Kotabaru,Matcha Latte,34,1088000
+2026-06-05,Kotabaru,Croissant,29,812000
+2026-06-05,Kotabaru,Banana Bread,19,456000
+2026-06-06,Kotabaru,Es Kopi Susu,25,625000
+2026-06-06,Kotabaru,Americano,24,528000
+2026-06-06,Kotabaru,Latte,27,810000
+2026-06-06,Kotabaru,Matcha Latte,38,1216000
+2026-06-06,Kotabaru,Croissant,25,700000
+2026-06-06,Kotabaru,Banana Bread,23,552000
+2026-06-07,Kotabaru,Es Kopi Susu,29,725000
+2026-06-07,Kotabaru,Americano,20,440000
+2026-06-07,Kotabaru,Latte,27,810000
+2026-06-07,Kotabaru,Matcha Latte,36,1152000
+2026-06-07,Kotabaru,Croissant,51,1428000
+2026-06-07,Kotabaru,Banana Bread,37,888000
+2026-06-08,Kotabaru,Es Kopi Susu,21,525000
+2026-06-08,Kotabaru,Americano,32,704000
+2026-06-08,Kotabaru,Latte,28,840000
+2026-06-08,Kotabaru,Matcha Latte,33,1056000
+2026-06-08,Kotabaru,Croissant,19,532000
+2026-06-08,Kotabaru,Banana Bread,26,624000
+2026-06-09,Kotabaru,Es Kopi Susu,19,475000
+2026-06-09,Kotabaru,Americano,20,440000
+2026-06-09,Kotabaru,Latte,23,690000
+2026-06-09,Kotabaru,Matcha Latte,40,1280000
+2026-06-09,Kotabaru,Croissant,44,1232000
+2026-06-09,Kotabaru,Banana Bread,39,936000
+2026-06-10,Kotabaru,Es Kopi Susu,17,425000
+2026-06-10,Kotabaru,Americano,16,352000
+2026-06-10,Kotabaru,Latte,24,720000
+2026-06-10,Kotabaru,Matcha Latte,39,1248000
+2026-06-10,Kotabaru,Croissant,24,672000
+2026-06-10,Kotabaru,Banana Bread,29,696000
+2026-06-11,Kotabaru,Es Kopi Susu,37,925000
+2026-06-11,Kotabaru,Americano,19,418000
+2026-06-11,Kotabaru,Latte,25,750000
+2026-06-11,Kotabaru,Matcha Latte,38,1216000
+2026-06-11,Kotabaru,Croissant,29,812000
+2026-06-11,Kotabaru,Banana Bread,46,1104000
+2026-06-12,Kotabaru,Es Kopi Susu,29,725000
+2026-06-12,Kotabaru,Americano,29,638000
+2026-06-12,Kotabaru,Latte,32,960000
+2026-06-12,Kotabaru,Matcha Latte,29,928000
+2026-06-12,Kotabaru,Croissant,21,588000
+2026-06-12,Kotabaru,Banana Bread,33,792000
+2026-06-13,Kotabaru,Es Kopi Susu,36,900000
+2026-06-13,Kotabaru,Americano,56,1232000
+2026-06-13,Kotabaru,Latte,38,1140000
+2026-06-13,Kotabaru,Matcha Latte,24,768000
+2026-06-13,Kotabaru,Croissant,31,868000
+2026-06-13,Kotabaru,Banana Bread,39,936000
+2026-06-14,Kotabaru,Es Kopi Susu,26,650000
+2026-06-14,Kotabaru,Americano,31,682000
+2026-06-14,Kotabaru,Latte,19,570000
+2026-06-14,Kotabaru,Matcha Latte,41,1312000
+2026-06-14,Kotabaru,Croissant,58,1624000
+2026-06-14,Kotabaru,Banana Bread,42,1008000
+2026-06-15,Kotabaru,Es Kopi Susu,15,375000
+2026-06-15,Kotabaru,Americano,20,440000
+2026-06-15,Kotabaru,Latte,13,390000
+2026-06-15,Kotabaru,Matcha Latte,24,768000
+2026-06-15,Kotabaru,Croissant,18,504000
+2026-06-15,Kotabaru,Banana Bread,27,648000
+2026-06-16,Kotabaru,Es Kopi Susu,20,500000
+2026-06-16,Kotabaru,Americano,26,572000
+2026-06-16,Kotabaru,Latte,30,900000
+2026-06-16,Kotabaru,Matcha Latte,20,640000
+2026-06-16,Kotabaru,Croissant,22,616000
+2026-06-16,Kotabaru,Banana Bread,24,576000
+2026-06-17,Kotabaru,Es Kopi Susu,34,850000
+2026-06-17,Kotabaru,Americano,22,484000
+2026-06-17,Kotabaru,Latte,40,1200000
+2026-06-17,Kotabaru,Matcha Latte,36,1152000
+2026-06-17,Kotabaru,Croissant,13,364000
+2026-06-17,Kotabaru,Banana Bread,23,552000
+2026-06-18,Kotabaru,Es Kopi Susu,27,675000
+2026-06-18,Kotabaru,Americano,18,396000
+2026-06-18,Kotabaru,Latte,30,900000
+2026-06-18,Kotabaru,Matcha Latte,33,1056000
+2026-06-18,Kotabaru,Croissant,38,1064000
+2026-06-18,Kotabaru,Banana Bread,29,696000
+2026-06-19,Kotabaru,Es Kopi Susu,23,575000
+2026-06-19,Kotabaru,Americano,25,550000
+2026-06-19,Kotabaru,Latte,36,1080000
+2026-06-19,Kotabaru,Matcha Latte,26,832000
+2026-06-19,Kotabaru,Croissant,18,504000
+2026-06-19,Kotabaru,Banana Bread,21,504000
+2026-06-20,Kotabaru,Es Kopi Susu,45,1125000
+2026-06-20,Kotabaru,Americano,20,440000
+2026-06-20,Kotabaru,Latte,54,1620000
+2026-06-20,Kotabaru,Matcha Latte,34,1088000
+2026-06-20,Kotabaru,Croissant,39,1092000
+2026-06-20,Kotabaru,Banana Bread,26,624000
+2026-06-21,Kotabaru,Es Kopi Susu,34,850000
+2026-06-21,Kotabaru,Americano,35,770000
+2026-06-21,Kotabaru,Latte,38,1140000
+2026-06-21,Kotabaru,Matcha Latte,41,1312000
+2026-06-21,Kotabaru,Croissant,44,1232000
+2026-06-21,Kotabaru,Banana Bread,44,1056000
+2026-06-22,Kotabaru,Es Kopi Susu,32,800000
+2026-06-22,Kotabaru,Americano,15,330000
+2026-06-22,Kotabaru,Latte,32,960000
+2026-06-22,Kotabaru,Matcha Latte,15,480000
+2026-06-22,Kotabaru,Croissant,23,644000
+2026-06-22,Kotabaru,Banana Bread,27,648000
+2026-06-23,Kotabaru,Es Kopi Susu,33,825000
+2026-06-23,Kotabaru,Americano,32,704000
+2026-06-23,Kotabaru,Latte,22,660000
+2026-06-23,Kotabaru,Matcha Latte,25,800000
+2026-06-23,Kotabaru,Croissant,23,644000
+2026-06-23,Kotabaru,Banana Bread,35,840000
+2026-06-24,Kotabaru,Es Kopi Susu,22,550000
+2026-06-24,Kotabaru,Americano,34,748000
+2026-06-24,Kotabaru,Latte,16,480000
+2026-06-24,Kotabaru,Matcha Latte,24,768000
+2026-06-24,Kotabaru,Croissant,42,1176000
+2026-06-24,Kotabaru,Banana Bread,26,624000
+2026-06-25,Kotabaru,Es Kopi Susu,21,525000
+2026-06-25,Kotabaru,Americano,14,308000
+2026-06-25,Kotabaru,Latte,26,780000
+2026-06-25,Kotabaru,Matcha Latte,32,1024000
+2026-06-25,Kotabaru,Croissant,28,784000
+2026-06-25,Kotabaru,Banana Bread,25,600000
+2026-06-26,Kotabaru,Es Kopi Susu,27,675000
+2026-06-26,Kotabaru,Americano,31,682000
+2026-06-26,Kotabaru,Latte,22,660000
+2026-06-26,Kotabaru,Matcha Latte,19,608000
+2026-06-26,Kotabaru,Croissant,28,784000
+2026-06-26,Kotabaru,Banana Bread,18,432000
+2026-06-27,Kotabaru,Es Kopi Susu,40,1000000
+2026-06-27,Kotabaru,Americano,29,638000
+2026-06-27,Kotabaru,Latte,41,1230000
+2026-06-27,Kotabaru,Matcha Latte,43,1376000
+2026-06-27,Kotabaru,Croissant,32,896000
+2026-06-27,Kotabaru,Banana Bread,46,1104000
+2026-06-28,Kotabaru,Es Kopi Susu,26,650000
+2026-06-28,Kotabaru,Americano,39,858000
+2026-06-28,Kotabaru,Latte,36,1080000
+2026-06-28,Kotabaru,Matcha Latte,42,1344000
+2026-06-28,Kotabaru,Croissant,33,924000
+2026-06-28,Kotabaru,Banana Bread,34,816000
+2026-06-29,Kotabaru,Es Kopi Susu,19,475000
+2026-06-29,Kotabaru,Americano,34,748000
+2026-06-29,Kotabaru,Latte,20,600000
+2026-06-29,Kotabaru,Matcha Latte,16,512000
+2026-06-29,Kotabaru,Croissant,42,1176000
+2026-06-29,Kotabaru,Banana Bread,20,480000
+2026-06-30,Kotabaru,Es Kopi Susu,25,625000
+2026-06-30,Kotabaru,Americano,34,748000
+2026-06-30,Kotabaru,Latte,29,870000
+2026-06-30,Kotabaru,Matcha Latte,31,992000
+2026-06-30,Kotabaru,Croissant,26,728000
+2026-06-30,Kotabaru,Banana Bread,32,768000
+2026-05-01,Senopati,Es Kopi Susu,47,1175000
+2026-05-01,Senopati,Americano,35,770000
+2026-05-01,Senopati,Latte,35,1050000
+2026-05-01,Senopati,Matcha Latte,42,1344000
+2026-05-01,Senopati,Croissant,32,896000
+2026-05-01,Senopati,Banana Bread,37,888000
+2026-05-02,Senopati,Es Kopi Susu,31,775000
+2026-05-02,Senopati,Americano,34,748000
+2026-05-02,Senopati,Latte,38,1140000
+2026-05-02,Senopati,Matcha Latte,43,1376000
+2026-05-02,Senopati,Croissant,48,1344000
+2026-05-02,Senopati,Banana Bread,34,816000
+2026-05-03,Senopati,Es Kopi Susu,51,1275000
+2026-05-03,Senopati,Americano,20,440000
+2026-05-03,Senopati,Latte,32,960000
+2026-05-03,Senopati,Matcha Latte,32,1024000
+2026-05-03,Senopati,Croissant,42,1176000
+2026-05-03,Senopati,Banana Bread,39,936000
+2026-05-04,Senopati,Es Kopi Susu,37,925000
+2026-05-04,Senopati,Americano,35,770000
+2026-05-04,Senopati,Latte,30,900000
+2026-05-04,Senopati,Matcha Latte,45,1440000
+2026-05-04,Senopati,Croissant,20,560000
+2026-05-04,Senopati,Banana Bread,23,552000
+2026-05-05,Senopati,Es Kopi Susu,43,1075000
+2026-05-05,Senopati,Americano,30,660000
+2026-05-05,Senopati,Latte,36,1080000
+2026-05-05,Senopati,Matcha Latte,42,1344000
+2026-05-05,Senopati,Croissant,31,868000
+2026-05-05,Senopati,Banana Bread,24,576000
+2026-05-06,Senopati,Es Kopi Susu,27,675000
+2026-05-06,Senopati,Americano,46,1012000
+2026-05-06,Senopati,Latte,28,840000
+2026-05-06,Senopati,Matcha Latte,22,704000
+2026-05-06,Senopati,Croissant,22,616000
+2026-05-06,Senopati,Banana Bread,32,768000
+2026-05-07,Senopati,Es Kopi Susu,41,1025000
+2026-05-07,Senopati,Americano,33,726000
+2026-05-07,Senopati,Latte,28,840000
+2026-05-07,Senopati,Matcha Latte,50,1600000
+2026-05-07,Senopati,Croissant,34,952000
+2026-05-07,Senopati,Banana Bread,36,864000
+2026-05-08,Senopati,Es Kopi Susu,30,750000
+2026-05-08,Senopati,Americano,37,814000
+2026-05-08,Senopati,Latte,30,900000
+2026-05-08,Senopati,Matcha Latte,20,640000
+2026-05-08,Senopati,Croissant,28,784000
+2026-05-08,Senopati,Banana Bread,35,840000
+2026-05-09,Senopati,Es Kopi Susu,28,700000
+2026-05-09,Senopati,Americano,39,858000
+2026-05-09,Senopati,Latte,52,1560000
+2026-05-09,Senopati,Matcha Latte,29,928000
+2026-05-09,Senopati,Croissant,32,896000
+2026-05-09,Senopati,Banana Bread,50,1200000
+2026-05-10,Senopati,Es Kopi Susu,29,725000
+2026-05-10,Senopati,Americano,52,1144000
+2026-05-10,Senopati,Latte,43,1290000
+2026-05-10,Senopati,Matcha Latte,32,1024000
+2026-05-10,Senopati,Croissant,39,1092000
+2026-05-10,Senopati,Banana Bread,37,888000
+2026-05-11,Senopati,Es Kopi Susu,42,1050000
+2026-05-11,Senopati,Americano,24,528000
+2026-05-11,Senopati,Latte,13,390000
+2026-05-11,Senopati,Matcha Latte,39,1248000
+2026-05-11,Senopati,Croissant,15,420000
+2026-05-11,Senopati,Banana Bread,11,264000
+2026-05-12,Senopati,Es Kopi Susu,27,675000
+2026-05-12,Senopati,Americano,28,616000
+2026-05-12,Senopati,Latte,42,1260000
+2026-05-12,Senopati,Matcha Latte,32,1024000
+2026-05-12,Senopati,Croissant,23,644000
+2026-05-12,Senopati,Banana Bread,36,864000
+2026-05-13,Senopati,Es Kopi Susu,38,950000
+2026-05-13,Senopati,Americano,20,440000
+2026-05-13,Senopati,Latte,12,360000
+2026-05-13,Senopati,Matcha Latte,34,1088000
+2026-05-13,Senopati,Croissant,21,588000
+2026-05-13,Senopati,Banana Bread,53,1272000
+2026-05-14,Senopati,Es Kopi Susu,24,600000
+2026-05-14,Senopati,Americano,19,418000
+2026-05-14,Senopati,Latte,31,930000
+2026-05-14,Senopati,Matcha Latte,27,864000
+2026-05-14,Senopati,Croissant,27,756000
+2026-05-14,Senopati,Banana Bread,43,1032000
+2026-05-15,Senopati,Es Kopi Susu,24,600000
+2026-05-15,Senopati,Americano,30,660000
+2026-05-15,Senopati,Latte,21,630000
+2026-05-15,Senopati,Matcha Latte,19,608000
+2026-05-15,Senopati,Croissant,36,1008000
+2026-05-15,Senopati,Banana Bread,39,936000
+2026-05-16,Senopati,Es Kopi Susu,31,775000
+2026-05-16,Senopati,Americano,55,1210000
+2026-05-16,Senopati,Latte,48,1440000
+2026-05-16,Senopati,Matcha Latte,36,1152000
+2026-05-16,Senopati,Croissant,33,924000
+2026-05-16,Senopati,Banana Bread,43,1032000
+2026-05-17,Senopati,Es Kopi Susu,25,625000
+2026-05-17,Senopati,Americano,42,924000
+2026-05-17,Senopati,Latte,40,1200000
+2026-05-17,Senopati,Matcha Latte,49,1568000
+2026-05-17,Senopati,Croissant,57,1596000
+2026-05-17,Senopati,Banana Bread,59,1416000
+2026-05-18,Senopati,Es Kopi Susu,21,525000
+2026-05-18,Senopati,Americano,23,506000
+2026-05-18,Senopati,Latte,27,810000
+2026-05-18,Senopati,Matcha Latte,34,1088000
+2026-05-18,Senopati,Croissant,31,868000
+2026-05-18,Senopati,Banana Bread,44,1056000
+2026-05-19,Senopati,Es Kopi Susu,34,850000
+2026-05-19,Senopati,Americano,22,484000
+2026-05-19,Senopati,Latte,25,750000
+2026-05-19,Senopati,Matcha Latte,29,928000
+2026-05-19,Senopati,Croissant,35,980000
+2026-05-19,Senopati,Banana Bread,40,960000
+2026-05-20,Senopati,Es Kopi Susu,38,950000
+2026-05-20,Senopati,Americano,39,858000
+2026-05-20,Senopati,Latte,45,1350000
+2026-05-20,Senopati,Matcha Latte,20,640000
+2026-05-20,Senopati,Croissant,32,896000
+2026-05-20,Senopati,Banana Bread,34,816000
+2026-05-21,Senopati,Es Kopi Susu,31,775000
+2026-05-21,Senopati,Americano,22,484000
+2026-05-21,Senopati,Latte,44,1320000
+2026-05-21,Senopati,Matcha Latte,24,768000
+2026-05-21,Senopati,Croissant,43,1204000
+2026-05-21,Senopati,Banana Bread,34,816000
+2026-05-22,Senopati,Es Kopi Susu,30,750000
+2026-05-22,Senopati,Americano,34,748000
+2026-05-22,Senopati,Latte,17,510000
+2026-05-22,Senopati,Matcha Latte,20,640000
+2026-05-22,Senopati,Croissant,33,924000
+2026-05-22,Senopati,Banana Bread,29,696000
+2026-05-23,Senopati,Es Kopi Susu,46,1150000
+2026-05-23,Senopati,Americano,23,506000
+2026-05-23,Senopati,Latte,46,1380000
+2026-05-23,Senopati,Matcha Latte,39,1248000
+2026-05-23,Senopati,Croissant,31,868000
+2026-05-23,Senopati,Banana Bread,40,960000
+2026-05-24,Senopati,Es Kopi Susu,56,1400000
+2026-05-24,Senopati,Americano,49,1078000
+2026-05-24,Senopati,Latte,34,1020000
+2026-05-24,Senopati,Matcha Latte,45,1440000
+2026-05-24,Senopati,Croissant,23,644000
+2026-05-24,Senopati,Banana Bread,43,1032000
+2026-05-25,Senopati,Es Kopi Susu,39,975000
+2026-05-25,Senopati,Americano,27,594000
+2026-05-25,Senopati,Latte,25,750000
+2026-05-25,Senopati,Matcha Latte,36,1152000
+2026-05-25,Senopati,Croissant,25,700000
+2026-05-25,Senopati,Banana Bread,20,480000
+2026-05-26,Senopati,Es Kopi Susu,28,700000
+2026-05-26,Senopati,Americano,30,660000
+2026-05-26,Senopati,Latte,21,630000
+2026-05-26,Senopati,Matcha Latte,28,896000
+2026-05-26,Senopati,Croissant,30,840000
+2026-05-26,Senopati,Banana Bread,44,1056000
+2026-05-27,Senopati,Es Kopi Susu,28,700000
+2026-05-27,Senopati,Americano,32,704000
+2026-05-27,Senopati,Latte,30,900000
+2026-05-27,Senopati,Matcha Latte,23,736000
+2026-05-27,Senopati,Croissant,29,812000
+2026-05-27,Senopati,Banana Bread,21,504000
+2026-05-28,Senopati,Es Kopi Susu,29,725000
+2026-05-28,Senopati,Americano,20,440000
+2026-05-28,Senopati,Latte,32,960000
+2026-05-28,Senopati,Matcha Latte,41,1312000
+2026-05-28,Senopati,Croissant,19,532000
+2026-05-28,Senopati,Banana Bread,28,672000
+2026-05-29,Senopati,Es Kopi Susu,20,500000
+2026-05-29,Senopati,Americano,45,990000
+2026-05-29,Senopati,Latte,41,1230000
+2026-05-29,Senopati,Matcha Latte,19,608000
+2026-05-29,Senopati,Croissant,28,784000
+2026-05-29,Senopati,Banana Bread,19,456000
+2026-05-30,Senopati,Es Kopi Susu,30,750000
+2026-05-30,Senopati,Americano,41,902000
+2026-05-30,Senopati,Latte,38,1140000
+2026-05-30,Senopati,Matcha Latte,42,1344000
+2026-05-30,Senopati,Croissant,47,1316000
+2026-05-30,Senopati,Banana Bread,32,768000
+2026-05-31,Senopati,Es Kopi Susu,49,1225000
+2026-05-31,Senopati,Americano,26,572000
+2026-05-31,Senopati,Latte,29,870000
+2026-05-31,Senopati,Matcha Latte,49,1568000
+2026-05-31,Senopati,Croissant,30,840000
+2026-05-31,Senopati,Banana Bread,44,1056000
+2026-06-01,Senopati,Es Kopi Susu,26,650000
+2026-06-01,Senopati,Americano,23,506000
+2026-06-01,Senopati,Latte,40,1200000
+2026-06-01,Senopati,Matcha Latte,32,1024000
+2026-06-01,Senopati,Croissant,33,924000
+2026-06-01,Senopati,Banana Bread,48,1152000
+2026-06-02,Senopati,Es Kopi Susu,26,650000
+2026-06-02,Senopati,Americano,34,748000
+2026-06-02,Senopati,Latte,23,690000
+2026-06-02,Senopati,Matcha Latte,36,1152000
+2026-06-02,Senopati,Croissant,27,756000
+2026-06-02,Senopati,Banana Bread,22,528000
+2026-06-03,Senopati,Es Kopi Susu,31,775000
+2026-06-03,Senopati,Americano,32,704000
+2026-06-03,Senopati,Latte,29,870000
+2026-06-03,Senopati,Matcha Latte,34,1088000
+2026-06-03,Senopati,Croissant,25,700000
+2026-06-03,Senopati,Banana Bread,35,840000
+2026-06-04,Senopati,Es Kopi Susu,24,600000
+2026-06-04,Senopati,Americano,13,286000
+2026-06-04,Senopati,Latte,35,1050000
+2026-06-04,Senopati,Matcha Latte,30,960000
+2026-06-04,Senopati,Croissant,28,784000
+2026-06-04,Senopati,Banana Bread,22,528000
+2026-06-05,Senopati,Es Kopi Susu,32,800000
+2026-06-05,Senopati,Americano,31,682000
+2026-06-05,Senopati,Latte,17,510000
+2026-06-05,Senopati,Matcha Latte,22,704000
+2026-06-05,Senopati,Croissant,37,1036000
+2026-06-05,Senopati,Banana Bread,27,648000
+2026-06-06,Senopati,Es Kopi Susu,39,975000
+2026-06-06,Senopati,Americano,43,946000
+2026-06-06,Senopati,Latte,48,1440000
+2026-06-06,Senopati,Matcha Latte,26,832000
+2026-06-06,Senopati,Croissant,28,784000
+2026-06-06,Senopati,Banana Bread,11,264000
+2026-06-07,Senopati,Es Kopi Susu,62,1550000
+2026-06-07,Senopati,Americano,28,616000
+2026-06-07,Senopati,Latte,51,1530000
+2026-06-07,Senopati,Matcha Latte,40,1280000
+2026-06-07,Senopati,Croissant,30,840000
+2026-06-07,Senopati,Banana Bread,42,1008000
+2026-06-08,Senopati,Es Kopi Susu,21,525000
+2026-06-08,Senopati,Americano,21,462000
+2026-06-08,Senopati,Latte,40,1200000
+2026-06-08,Senopati,Matcha Latte,26,832000
+2026-06-08,Senopati,Croissant,20,560000
+2026-06-08,Senopati,Banana Bread,27,648000
+2026-06-09,Senopati,Es Kopi Susu,38,950000
+2026-06-09,Senopati,Americano,26,572000
+2026-06-09,Senopati,Latte,33,990000
+2026-06-09,Senopati,Matcha Latte,25,800000
+2026-06-09,Senopati,Croissant,31,868000
+2026-06-09,Senopati,Banana Bread,39,936000
+2026-06-10,Senopati,Es Kopi Susu,34,850000
+2026-06-10,Senopati,Americano,32,704000
+2026-06-10,Senopati,Latte,37,1110000
+2026-06-10,Senopati,Matcha Latte,26,832000
+2026-06-10,Senopati,Croissant,28,784000
+2026-06-10,Senopati,Banana Bread,18,432000
+2026-06-11,Senopati,Es Kopi Susu,34,850000
+2026-06-11,Senopati,Americano,25,550000
+2026-06-11,Senopati,Latte,37,1110000
+2026-06-11,Senopati,Matcha Latte,30,960000
+2026-06-11,Senopati,Croissant,15,420000
+2026-06-11,Senopati,Banana Bread,34,816000
+2026-06-12,Senopati,Es Kopi Susu,22,550000
+2026-06-12,Senopati,Americano,22,484000
+2026-06-12,Senopati,Latte,30,900000
+2026-06-12,Senopati,Matcha Latte,19,608000
+2026-06-12,Senopati,Croissant,20,560000
+2026-06-12,Senopati,Banana Bread,43,1032000
+2026-06-13,Senopati,Es Kopi Susu,42,1050000
+2026-06-13,Senopati,Americano,38,836000
+2026-06-13,Senopati,Latte,29,870000
+2026-06-13,Senopati,Matcha Latte,38,1216000
+2026-06-13,Senopati,Croissant,52,1456000
+2026-06-13,Senopati,Banana Bread,60,1440000
+2026-06-14,Senopati,Es Kopi Susu,32,800000
+2026-06-14,Senopati,Americano,23,506000
+2026-06-14,Senopati,Latte,61,1830000
+2026-06-14,Senopati,Matcha Latte,40,1280000
+2026-06-14,Senopati,Croissant,47,1316000
+2026-06-14,Senopati,Banana Bread,41,984000
+2026-06-15,Senopati,Es Kopi Susu,27,675000
+2026-06-15,Senopati,Americano,35,770000
+2026-06-15,Senopati,Latte,34,1020000
+2026-06-15,Senopati,Matcha Latte,20,640000
+2026-06-15,Senopati,Croissant,40,1120000
+2026-06-15,Senopati,Banana Bread,28,672000
+2026-06-16,Senopati,Es Kopi Susu,25,625000
+2026-06-16,Senopati,Americano,19,418000
+2026-06-16,Senopati,Latte,25,750000
+2026-06-16,Senopati,Matcha Latte,29,928000
+2026-06-16,Senopati,Croissant,33,924000
+2026-06-16,Senopati,Banana Bread,14,336000
+2026-06-17,Senopati,Es Kopi Susu,32,800000
+2026-06-17,Senopati,Americano,34,748000
+2026-06-17,Senopati,Latte,21,630000
+2026-06-17,Senopati,Matcha Latte,19,608000
+2026-06-17,Senopati,Croissant,36,1008000
+2026-06-17,Senopati,Banana Bread,36,864000
+2026-06-18,Senopati,Es Kopi Susu,26,650000
+2026-06-18,Senopati,Americano,36,792000
+2026-06-18,Senopati,Latte,31,930000
+2026-06-18,Senopati,Matcha Latte,18,576000
+2026-06-18,Senopati,Croissant,35,980000
+2026-06-18,Senopati,Banana Bread,30,720000
+2026-06-19,Senopati,Es Kopi Susu,22,550000
+2026-06-19,Senopati,Americano,19,418000
+2026-06-19,Senopati,Latte,28,840000
+2026-06-19,Senopati,Matcha Latte,36,1152000
+2026-06-19,Senopati,Croissant,43,1204000
+2026-06-19,Senopati,Banana Bread,23,552000
+2026-06-20,Senopati,Es Kopi Susu,46,1150000
+2026-06-20,Senopati,Americano,30,660000
+2026-06-20,Senopati,Latte,36,1080000
+2026-06-20,Senopati,Matcha Latte,50,1600000
+2026-06-20,Senopati,Croissant,28,784000
+2026-06-20,Senopati,Banana Bread,21,504000
+2026-06-21,Senopati,Es Kopi Susu,48,1200000
+2026-06-21,Senopati,Americano,49,1078000
+2026-06-21,Senopati,Latte,58,1740000
+2026-06-21,Senopati,Matcha Latte,52,1664000
+2026-06-21,Senopati,Croissant,26,728000
+2026-06-21,Senopati,Banana Bread,38,912000
+2026-06-22,Senopati,Es Kopi Susu,34,850000
+2026-06-22,Senopati,Americano,36,792000
+2026-06-22,Senopati,Latte,23,690000
+2026-06-22,Senopati,Matcha Latte,38,1216000
+2026-06-22,Senopati,Croissant,31,868000
+2026-06-22,Senopati,Banana Bread,21,504000
+2026-06-23,Senopati,Es Kopi Susu,22,550000
+2026-06-23,Senopati,Americano,30,660000
+2026-06-23,Senopati,Latte,32,960000
+2026-06-23,Senopati,Matcha Latte,44,1408000
+2026-06-23,Senopati,Croissant,33,924000
+2026-06-23,Senopati,Banana Bread,12,288000
+2026-06-24,Senopati,Es Kopi Susu,28,700000
+2026-06-24,Senopati,Americano,40,880000
+2026-06-24,Senopati,Latte,30,900000
+2026-06-24,Senopati,Matcha Latte,37,1184000
+2026-06-24,Senopati,Croissant,18,504000
+2026-06-24,Senopati,Banana Bread,36,864000
+2026-06-25,Senopati,Es Kopi Susu,27,675000
+2026-06-25,Senopati,Americano,31,682000
+2026-06-25,Senopati,Latte,17,510000
+2026-06-25,Senopati,Matcha Latte,32,1024000
+2026-06-25,Senopati,Croissant,40,1120000
+2026-06-25,Senopati,Banana Bread,24,576000
+2026-06-26,Senopati,Es Kopi Susu,32,800000
+2026-06-26,Senopati,Americano,43,946000
+2026-06-26,Senopati,Latte,39,1170000
+2026-06-26,Senopati,Matcha Latte,31,992000
+2026-06-26,Senopati,Croissant,36,1008000
+2026-06-26,Senopati,Banana Bread,29,696000
+2026-06-27,Senopati,Es Kopi Susu,38,950000
+2026-06-27,Senopati,Americano,53,1166000
+2026-06-27,Senopati,Latte,19,570000
+2026-06-27,Senopati,Matcha Latte,61,1952000
+2026-06-27,Senopati,Croissant,48,1344000
+2026-06-27,Senopati,Banana Bread,29,696000
+2026-06-28,Senopati,Es Kopi Susu,57,1425000
+2026-06-28,Senopati,Americano,47,1034000
+2026-06-28,Senopati,Latte,31,930000
+2026-06-28,Senopati,Matcha Latte,36,1152000
+2026-06-28,Senopati,Croissant,29,812000
+2026-06-28,Senopati,Banana Bread,40,960000
+2026-06-29,Senopati,Es Kopi Susu,34,850000
+2026-06-29,Senopati,Americano,36,792000
+2026-06-29,Senopati,Latte,34,1020000
+2026-06-29,Senopati,Matcha Latte,37,1184000
+2026-06-29,Senopati,Croissant,42,1176000
+2026-06-29,Senopati,Banana Bread,22,528000
+2026-06-30,Senopati,Es Kopi Susu,21,525000
+2026-06-30,Senopati,Americano,34,748000
+2026-06-30,Senopati,Latte,17,510000
+2026-06-30,Senopati,Matcha Latte,17,544000
+2026-06-30,Senopati,Croissant,35,980000
+2026-06-30,Senopati,Banana Bread,29,696000

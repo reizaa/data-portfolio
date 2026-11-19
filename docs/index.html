@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reiza Sahawaly — Data Portfolio</title>
+<style>
+  :root {
+    --bg: #f7f8fa; --surface: #ffffff; --text: #111827; --muted: #5b6474;
+    --border: #e5e7eb; --accent: #0f766e; --accent-soft: #e6f4f2; --code: #f1f3f5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #0f1115; --surface: #171a21; --text: #e8eaee; --muted: #9aa3b2;
+            --border: #262b35; --accent: #2dd4bf; --accent-soft: #11302d; --code: #1e222b; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 980px; margin: 0 auto; padding: 48px 16px 64px; }
+  header h1 { font-size: 2rem; margin: 0 0 4px; letter-spacing: -0.02em; }
+  header p { color: var(--muted); margin: 0 0 8px; max-width: 680px; }
+  .note { display: inline-block; font-size: .85rem; background: var(--accent-soft); color: var(--accent);
+          padding: 4px 10px; border-radius: 999px; margin-top: 8px; }
+  .skills { display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0 36px; padding: 0; list-style: none; }
+  .skills li { border: 1px solid var(--border); background: var(--surface); border-radius: 8px;
+               padding: 4px 10px; font-size: .85rem; color: var(--muted); }
+  .grid { display: grid; gap: 20px; }
+  article { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 24px; }
+  article .num { color: var(--accent); font-weight: 700; font-size: .85rem; letter-spacing: .06em; }
+  article h2 { margin: 2px 0 8px; font-size: 1.25rem; }
+  article p { margin: 0 0 12px; color: var(--muted); }
+  .result { font-weight: 600; color: var(--text); }
+  .result b { color: var(--accent); }
+  img { width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--border); background: #fff; margin-top: 8px; }
+  pre { background: var(--code); border-radius: 10px; padding: 14px; overflow-x: auto; font-size: .82rem; line-height: 1.45; margin: 8px 0 0; }
+  a { color: var(--accent); }
+  footer { margin-top: 40px; color: var(--muted); font-size: .9rem; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Reiza Sahawaly</h1>
+    <p>Data Scientist. I clean and reconcile messy business data, track subscriptions and retention,
+       make slow queries fast, and automate the reports and alerts that teams rely on every day.</p>
+    <span class="note">All datasets are synthetic and describe fictional businesses</span>
+  </header>
+
+  <ul class="skills">
+    <li>SQL · PostgreSQL · ClickHouse</li><li>Python · pandas</li><li>Cohort &amp; retention</li>
+    <li>Data cleaning</li><li>Query optimization</li><li>Reporting automation</li><li>LLM text classification</li><li>Metabase · n8n</li>
+  </ul>
+
+  <section class="grid">
+    <article>
+      <div class="num">PROJECT 01</div>
+      <h2>Customer &amp; revenue retention cohorts</h2>
+      <p>Order lines from a fictional online plant shop, grouped by first-order month. Shows how many customers
+         return and how much of their first-month revenue is kept over the following year, by city.</p>
+      <p class="result">Average M6 net revenue retention: <b>≈35%</b></p>
+      <img src="img/revenue_retention.png" alt="Heatmap of net revenue retention by monthly cohort">
+    </article>
+
+    <article>
+      <div class="num">PROJECT 02</div>
+      <h2>Query optimization on 3 million sensor readings</h2>
+      <p>One business question, three approaches. Each one must return exactly the same numbers before its speed counts.</p>
+      <pre>1. naive full scan                    ~600 ms     1x
+2. sargable filter + covering index   ~150 ms     4x
+3. pre-aggregated hourly table       8–20 ms  30–75x   same result
+(timings vary by run and machine; results are checked to be identical)</pre>
+    </article>
+
+    <article>
+      <div class="num">PROJECT 03</div>
+      <h2>Daily sales change alert</h2>
+      <p>Compares yesterday with the same weekday last week, lists the store and item combinations that moved
+         the total most, and flags stores outside 3 standard deviations. Output is a chat-ready message.</p>
+      <pre>*Kopi Senja daily sales — Tue 30 Jun 2026* (vs Tue 23 Jun)
+Total revenue Rp25.11jt (+8.6%, Rp2.00jt)
+
+Anomalies (beyond 3 sd of the same weekday):
+  • Dago: Rp1.05jt, -7.2 sd from normal
+  • Sanur: Rp6.00jt, +4.0 sd from normal</pre>
+    </article>
+
+    <article>
+      <div class="num">PROJECT 04</div>
+      <h2>Lead funnel &amp; re-engagement list</h2>
+      <p>An event log from a fictional language school is rebuilt into one journey per lead. Leads that went
+         cold, were lost after a trial, or dropped out are scored and given a suggested message.</p>
+      <p class="result">Referral and walk-in leads enroll at <b>2.5x</b> the rate of social ads · 1,271 leads prioritized</p>
+      <img src="img/funnel_by_channel.png" alt="Bar chart of inquiries, trials and enrollments per channel">
+    </article>
+
+    <article>
+      <div class="num">PROJECT 05</div>
+      <h2>Guest feedback classification</h2>
+      <p>Explainable keyword rules handle most hotel reviews. Reviews with no keyword or a tie go to an LLM with a
+         fixed rubric. Precision and recall are measured per topic against hand-labelled data.</p>
+      <p class="result"><b>85%</b> decided by rules at <b>94%</b> accuracy · 15% routed to the LLM</p>
+    </article>
+
+    <article>
+      <div class="num">PROJECT 06</div>
+      <h2>Client data cleaning, subscription status &amp; account-manager assignment</h2>
+      <p>Two coworking branches export payments with different date formats, currencies and name spellings.
+         The pipeline standardizes them, tracks each client as new, active, churned, reactivated or churned again,
+         and assigns paying clients to account managers by branch, balancing revenue within capacity.</p>
+      <p class="result"><b>106</b> name spellings → <b>24</b> clients · 8 duplicates removed · over-capacity accounts flagged</p>
+    </article>
+  </section>
+
+  <footer>Code and data generator: see the repository README. Built with Python, pandas, matplotlib and SQLite.</footer>
+</main>
+</body>
+</html>

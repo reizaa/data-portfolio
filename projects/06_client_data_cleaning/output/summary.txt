@@ -1,0 +1,32 @@
+Data-quality checks:
+  raw rows: 177
+  company spellings before -> after: 106 -> 24
+  duplicate rows removed: 8
+  clean rows: 169
+  unparsed dates: 0
+  clients: 24
+  paying clients in 2026-06: 20
+
+Subscription status per month:
+status   active  churned  churned_again  new  reactivated
+month                                                    
+2025-07       0        0              0    2            0
+2025-08       1        1              0    4            0
+2025-09       4        1              0    7            0
+2025-10      11        0              0    2            0
+2025-11      10        3              0    2            0
+2025-12       9        3              0    6            0
+2026-01      15        0              0    0            4
+2026-02      17        2              0    0            1
+2026-03      15        3              0    1            3
+2026-04      16        0              3    0            1
+2026-05      15        1              1    0            3
+2026-06      17        1              0    0            3
+
+Account-manager book of business (2026-06):
+                            clients  mrr_idr
+account_manager                             
+Ayu                               4 Rp40.0jt
+Bima                              4 Rp44.0jt
+Citra                            10 Rp94.0jt
+UNASSIGNED (capacity full)        2  Rp3.0jt

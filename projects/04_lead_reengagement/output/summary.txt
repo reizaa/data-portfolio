@@ -1,0 +1,30 @@
+Funnel by channel:
+               inquiries  trials  enrolled enroll_rate
+channel                                               
+Walk-in              470     284       164       34.9%
+Referral             477     291       164       34.4%
+Google Search        495     217       114       23.0%
+Instagram Ads        470     136        73       15.5%
+TikTok               488     140        69       14.1%
+
+Lead status:
+status
+open_inquiry        793
+cold_no_response    539
+lost_after_trial    484
+active_student      438
+dropped_out         146
+
+Re-engagement list: 1,271 leads (top 10 below)
+          channel         course            status  days_since  score                         suggested_message
+lead_id                                                                                                        
+L00092    Walk-in  Mandarin HSK1  lost_after_trial          31  2.690  Free second trial class + 10% early-bird
+L01475    Walk-in   Korean Basic  lost_after_trial          32  2.680  Free second trial class + 10% early-bird
+L00064    Walk-in  English IELTS  lost_after_trial          33  2.670  Free second trial class + 10% early-bird
+L01749    Walk-in  Mandarin HSK1  lost_after_trial          34  2.660  Free second trial class + 10% early-bird
+L01853   Referral      German A1  lost_after_trial          32  2.641  Free second trial class + 10% early-bird
+L00195   Referral  Mandarin HSK1  lost_after_trial          33  2.631  Free second trial class + 10% early-bird
+L01733    Walk-in    Japanese N5  lost_after_trial          37  2.630  Free second trial class + 10% early-bird
+L01091   Referral   Korean Basic  lost_after_trial          35  2.611  Free second trial class + 10% early-bird
+L02258   Referral      German A1  lost_after_trial          39  2.572  Free second trial class + 10% early-bird
+L00496    Walk-in      German A1  lost_after_trial          44  2.560  Free second trial class + 10% early-bird
